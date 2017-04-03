@@ -3,7 +3,7 @@ Black Flower
 containable=0
 containSize=1,vertSlotRot=0.000000
 permanent=0,minPickupAge=3
-heldInHand=0
+heldInHand=1
 blocksWalking=0,leftBlockingRadius=0,rightBlockingRadius=0,drawBehindPlayer=0
 mapChance=0.250000#biomes_0
 heatValue=0
@@ -13,7 +13,7 @@ male=0
 deathMarker=0
 foodValue=0
 speedMult=1.000000
-heldOffset=0.000000,0.000000
+heldOffset=0.000000,5.000000
 clothing=n
 clothingOffset=0.000000,0.000000
 deadlyDistance=0
