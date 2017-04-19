@@ -1,4 +1,4 @@
-id=42
+id=48
 Maple Tree
 containable=0
 containSize=1,vertSlotRot=0.000000
@@ -21,24 +21,24 @@ sounds=-1:0.250000,-1:0.250000,-1:0.250000
 numSlots=0#timeStretch=1.000000
 slotSize=1
 numSprites=3
-spriteID=183
-pos=3.000000,158.000000
+spriteID=233
+pos=-3.000000,187.000000
 rot=0.000000
 hFlip=0
 color=1.000000,1.000000,1.000000
 ageRange=-1.000000,-1.000000
 parent=-1
 invisHolding=0,invisWorn=0,behindSlots=0
-spriteID=184
-pos=-1.000000,46.000000
+spriteID=234
+pos=-2.000000,35.000000
 rot=0.000000
 hFlip=0
 color=1.000000,1.000000,1.000000
 ageRange=-1.000000,-1.000000
 parent=0
 invisHolding=0,invisWorn=0,behindSlots=0
-spriteID=185
-pos=0.000000,0.000000
+spriteID=235
+pos=0.000000,-1.000000
 rot=0.000000
 hFlip=0
 color=1.000000,1.000000,1.000000
