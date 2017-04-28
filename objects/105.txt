@@ -1,5 +1,5 @@
-id=92
-Tied Long Shaft
+id=105
+Half Wooden Frame
 containable=0
 containSize=1,vertSlotRot=0.000000
 permanent=0,minPickupAge=3
@@ -20,7 +20,15 @@ deadlyDistance=0
 sounds=74:0.250000,-1:0.250000,-1:0.250000
 numSlots=0#timeStretch=1.000000
 slotSize=1
-numSprites=2
+numSprites=4
+spriteID=319
+pos=55.000000,62.000000
+rot=0.250000
+hFlip=0
+color=1.000000,1.000000,1.000000
+ageRange=-1.000000,-1.000000
+parent=-1
+invisHolding=0,invisWorn=0,behindSlots=0
 spriteID=319
 pos=-30.000000,-28.000000
 rot=0.000000
@@ -29,13 +37,21 @@ color=1.000000,1.000000,1.000000
 ageRange=-1.000000,-1.000000
 parent=-1
 invisHolding=0,invisWorn=0,behindSlots=0
-spriteID=321
-pos=50.000000,-21.000000
+spriteID=360
+pos=55.000000,-23.000000
 rot=0.000000
 hFlip=0
 color=1.000000,1.000000,1.000000
 ageRange=-1.000000,-1.000000
-parent=0
+parent=-1
+invisHolding=0,invisWorn=0,behindSlots=0
+spriteID=321
+pos=60.000000,78.000000
+rot=0.250000
+hFlip=0
+color=1.000000,1.000000,1.000000
+ageRange=-1.000000,-1.000000
+parent=-1
 invisHolding=0,invisWorn=0,behindSlots=0
 headIndex=-1
 bodyIndex=-1
