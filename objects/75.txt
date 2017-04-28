@@ -21,8 +21,8 @@ sounds=94:0.250000,-1:0.250000,-1:0.250000
 numSlots=0#timeStretch=1.000000
 slotSize=1
 numSprites=11
-spriteID=258
-pos=-42.000000,-28.000000
+spriteID=319
+pos=-30.000000,-28.000000
 rot=0.000000
 hFlip=0
 color=1.000000,1.000000,1.000000

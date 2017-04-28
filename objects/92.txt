@@ -1,5 +1,5 @@
-id=90
-Long Straight Shaft#post-ember
+id=92
+Tied Long Shaft
 containable=0
 containSize=1,vertSlotRot=0.000000
 permanent=0,minPickupAge=3
@@ -13,14 +13,14 @@ male=0
 deathMarker=0
 foodValue=0
 speedMult=1.000000
-heldOffset=-4.000000,-6.000000
+heldOffset=-4.000000,-4.000000
 clothing=n
 clothingOffset=0.000000,0.000000
 deadlyDistance=0
-sounds=-1:0.250000,-1:0.250000,-1:0.250000
+sounds=74:0.250000,-1:0.250000,-1:0.250000
 numSlots=0#timeStretch=1.000000
 slotSize=1
-numSprites=4
+numSprites=2
 spriteID=319
 pos=-30.000000,-28.000000
 rot=0.000000
@@ -29,27 +29,11 @@ color=1.000000,1.000000,1.000000
 ageRange=-1.000000,-1.000000
 parent=-1
 invisHolding=0,invisWorn=0,behindSlots=0
-spriteID=289
-pos=17.000000,-33.000000
+spriteID=321
+pos=50.000000,-21.000000
 rot=0.000000
 hFlip=0
-color=0.000000,0.000000,0.000000
-ageRange=-1.000000,-1.000000
-parent=-1
-invisHolding=0,invisWorn=0,behindSlots=0
-spriteID=289
-pos=21.000000,-34.000000
-rot=0.000000
-hFlip=0
-color=0.000000,0.000000,0.000000
-ageRange=-1.000000,-1.000000
-parent=-1
-invisHolding=0,invisWorn=0,behindSlots=0
-spriteID=289
-pos=14.000000,-34.000000
-rot=0.000000
-hFlip=0
-color=0.000000,0.000000,0.000000
+color=1.000000,1.000000,1.000000
 ageRange=-1.000000,-1.000000
 parent=-1
 invisHolding=0,invisWorn=0,behindSlots=0
