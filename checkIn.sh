@@ -2,7 +2,7 @@ echo "Pushing local changes to server..."
 
 hg addremove -X sprites/cache.fcz -X objects/cache.fcz \
              -Xanimations/cache.fcz -X transitions/cache.fcz \
-             overlays sprites objects animations transitions music sounds
+             overlays sprites objects animations transitions ground music sounds
 
 echo ""
 echo "Full diff:"
