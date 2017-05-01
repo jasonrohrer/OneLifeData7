@@ -1,5 +1,5 @@
-id=106
-Pine Panel
+id=114
+Pine Door
 containable=0
 containSize=1,vertSlotRot=0.000000
 permanent=0,minPickupAge=3
@@ -17,10 +17,10 @@ heldOffset=74.000000,-32.000000
 clothing=n
 clothingOffset=0.000000,0.000000
 deadlyDistance=0
-sounds=65:0.250000,-1:0.250000,-1:0.250000
+sounds=74:0.250000,-1:0.250000,-1:0.250000
 numSlots=0#timeStretch=1.000000
 slotSize=1
-numSprites=2
+numSprites=5
 spriteID=363
 pos=1.000000,-39.000000
 rot=0.000000
@@ -33,6 +33,30 @@ spriteID=357
 pos=0.000000,29.000000
 rot=0.000000
 hFlip=0
+color=1.000000,1.000000,1.000000
+ageRange=-1.000000,-1.000000
+parent=-1
+invisHolding=0,invisWorn=0,behindSlots=0
+spriteID=260
+pos=37.000000,24.000000
+rot=0.250000
+hFlip=0
+color=1.000000,1.000000,1.000000
+ageRange=-1.000000,-1.000000
+parent=-1
+invisHolding=0,invisWorn=0,behindSlots=0
+spriteID=321
+pos=-61.000000,1.000000
+rot=-0.250000
+hFlip=0
+color=1.000000,1.000000,1.000000
+ageRange=-1.000000,-1.000000
+parent=-1
+invisHolding=0,invisWorn=0,behindSlots=0
+spriteID=321
+pos=-62.000000,45.000000
+rot=-0.250000
+hFlip=1
 color=1.000000,1.000000,1.000000
 ageRange=-1.000000,-1.000000
 parent=-1
