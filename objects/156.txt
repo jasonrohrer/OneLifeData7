@@ -1,5 +1,5 @@
-id=112
-Pine Wall
+id=156
+Adobe Wall
 containable=0
 containSize=1,vertSlotRot=0.000000
 permanent=1,minPickupAge=3
@@ -7,7 +7,7 @@ heldInHand=0
 blocksWalking=1,leftBlockingRadius=0,rightBlockingRadius=0,drawBehindPlayer=0
 mapChance=0.000000#biomes_0
 heatValue=0
-rValue=0.750000
+rValue=0.900000
 person=0
 male=0
 deathMarker=0
@@ -17,11 +17,11 @@ heldOffset=0.000000,0.000000
 clothing=n
 clothingOffset=0.000000,0.000000
 deadlyDistance=0
-sounds=78:0.250000,-1:0.250000,-1:0.250000
+sounds=74:0.250000,-1:0.250000,-1:0.250000
 numSlots=0#timeStretch=1.000000
 slotSize=1
 numSprites=1
-spriteID=368
+spriteID=435
 pos=0.000000,0.000000
 rot=0.000000
 hFlip=0
