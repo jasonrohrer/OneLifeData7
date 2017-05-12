@@ -17,9 +17,10 @@ heldOffset=24.000000,48.000000
 clothing=p
 clothingOffset=-27.000000,72.000000
 deadlyDistance=0
-sounds=-1:0.250000,-1:0.250000,-1:0.250000
+sounds=-1:0.250000,-1:0.250000,-1:0.250000,-1:1.000000
+creationSoundInitialOnly=0
 numSlots=4#timeStretch=1.000000
-slotSize=1
+slotSize=2
 slotPos=-3.000000,-3.000000,vert=1
 slotPos=3.000000,-4.000000,vert=1
 slotPos=8.000000,-6.000000,vert=1
