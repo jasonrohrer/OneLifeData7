@@ -1,5 +1,5 @@
 id=19
-Female001
+Female001 D
 containable=0
 containSize=1,vertSlotRot=0.000000
 permanent=0,minPickupAge=3
@@ -17,7 +17,8 @@ heldOffset=13.000000,147.000000
 clothing=n
 clothingOffset=0.000000,0.000000
 deadlyDistance=0
-sounds=6:0.250000,34:0.250000,-1:0.250000
+sounds=6:0.250000,34:0.250000,-1:0.250000,-1:1.000000
+creationSoundInitialOnly=0
 numSlots=0#timeStretch=1.000000
 slotSize=1
 numSprites=73
