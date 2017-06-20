@@ -411,7 +411,7 @@ pos=14.000000,97.000000
 rot=0.000000
 hFlip=0
 color=1.000000,1.000000,1.000000
-ageRange=0.000000,14.000000
+ageRange=11.000000,14.000000
 parent=40
 invisHolding=0,invisWorn=0,behindSlots=0
 spriteID=594
@@ -419,7 +419,7 @@ pos=5.000000,96.000000
 rot=0.000000
 hFlip=0
 color=1.000000,1.000000,1.000000
-ageRange=0.000000,14.000000
+ageRange=11.000000,14.000000
 parent=40
 invisHolding=0,invisWorn=0,behindSlots=0
 spriteID=594
