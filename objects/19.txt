@@ -151,7 +151,7 @@ ageRange=1.500000,6.000000
 parent=14
 invisHolding=0,invisWorn=0,behindSlots=0
 spriteID=96
-pos=7.000000,15.000000
+pos=8.000000,14.000000
 rot=0.000000
 hFlip=0
 color=1.000000,1.000000,1.000000
@@ -167,7 +167,7 @@ ageRange=0.000000,1.500000
 parent=16
 invisHolding=0,invisWorn=0,behindSlots=0
 spriteID=94
-pos=-5.000000,15.000000
+pos=-6.000000,14.000000
 rot=0.000000
 hFlip=0
 color=1.000000,1.000000,1.000000
