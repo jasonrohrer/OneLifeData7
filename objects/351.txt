@@ -599,7 +599,7 @@ ageRange=-1.000000,-1.000000
 parent=40
 invisHolding=0,invisWorn=0,behindSlots=0
 spriteID=623
-pos=11.000000,127.000000
+pos=10.000000,127.000000
 rot=0.000000
 hFlip=0
 color=1.000000,1.000000,1.000000
