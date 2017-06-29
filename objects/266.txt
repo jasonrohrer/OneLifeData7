@@ -1,6 +1,6 @@
 id=266
 Raw Berry Carrot Pie
-containable=0
+containable=1
 containSize=1,vertSlotRot=0.000000
 permanent=0,minPickupAge=3
 heldInHand=0

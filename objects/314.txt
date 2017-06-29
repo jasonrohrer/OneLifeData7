@@ -2,7 +2,7 @@ id=314
 Wrought Iron
 containable=0
 containSize=1,vertSlotRot=0.000000
-permanent=1,minPickupAge=3
+permanent=0,minPickupAge=3
 heldInHand=1
 blocksWalking=0,leftBlockingRadius=0,rightBlockingRadius=0,drawBehindPlayer=0
 mapChance=0.000000#biomes_3
@@ -17,7 +17,8 @@ heldOffset=6.000000,-9.000000
 clothing=n
 clothingOffset=-27.000000,72.000000
 deadlyDistance=0
-sounds=-1:0.250000,-1:0.250000,-1:0.250000
+sounds=-1:0.250000,-1:0.250000,-1:0.250000,-1:1.000000
+creationSoundInitialOnly=0
 numSlots=0#timeStretch=1.000000
 slotSize=1
 numSprites=1
