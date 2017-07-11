@@ -133,6 +133,31 @@ fi
 done
 
 
+echo
+echo "Category changes:"
+
+hg diff --stat | while read x; 
+do 
+f=$(echo $x | sed 's/\s.*$//');
+
+if [[ $f == categories/*.txt ]];
+then
+
+if [ -e $f ]
+then
+  id=$(echo "$f" | sed 's/.*\///' | sed 's/\..*//' );
+  
+  oName=$(cat "objects/$id.txt" | sed -n 2p );
+
+  echo "  \"$oName\" ";
+else 
+  echo "$f removed"
+fi
+fi
+
+done
+
+
 
 echo
 echo "Transition changes:"
