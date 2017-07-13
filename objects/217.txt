@@ -1,5 +1,5 @@
 id=217
-Wet Planted Gooseberry Seed
+Wet Planted Gooseberry Seed#fertile
 containable=0
 containSize=1,vertSlotRot=0.000000
 permanent=1,minPickupAge=3
