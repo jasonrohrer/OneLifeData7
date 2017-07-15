@@ -172,12 +172,19 @@ then
 if [ -e $f ]
 then
   actorID=$(echo "$f" | sed 's/.*\///' | sed 's/_.*//' );
-  targetID=$(echo "$f" | sed 's/.*\///' | sed 's/\..*//' | sed 's/.*_//' );
+  targetID=$(echo "$f" | sed 's/.*\///' | sed 's/\..*//' | sed 's/[^_]*_//' );
 
   newActorID=$(cat $f | sed 's/\s.*//' );
   newTargetID=$(cat $f | sed 's/[^ ]* //' | sed 's/\s.*//' );
   decayTime=$(cat $f | sed 's/[^ ]* //' | sed 's/.*\s//' );
 
+  lastUse=0
+
+  if [[ $targetID == *"L"* ]]; then
+	  lastUse=1
+
+	  targetID=$(echo "$targetID" | sed 's/_.*//' );
+  fi
 
   decayString=""
   actor="";
@@ -230,8 +237,14 @@ then
 	newTarget="\"$newTarget\"";
   fi
 
+  lastUseString="";
+  
+  if [[ $lastUse == 1 ]];
+  then
+	  lastUseString="(Last Use) "
+  fi
 
-  echo "  $actor  +  $target   =   $newActor  +  $newTarget  $decayString"; 
+  echo "  $lastUseString$actor  +  $target   =   $newActor  +  $newTarget  $decayString"; 
 else 
   echo "$f removed"
 fi
