@@ -207,7 +207,7 @@ then
   target="";
   if [[ $targetID == -1 ]] && [[ $newTargetID == 0 ]];
   then
-	target="[EAT]"
+	target="[USE/EAT]"
   elif [[ $targetID == -1 ]] && [[ $newTargetID != 0 ]];
   then
 	target="[BARE-GROUND]"

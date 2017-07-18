@@ -75,4 +75,4 @@ bodyIndex=-1
 backFootIndex=-1
 frontFootIndex=-1
 numUses=5
-useVanishIndex=2,3,4,5
+useVanishIndex=1,2,3,4,5

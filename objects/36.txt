@@ -1,5 +1,5 @@
 id=36
-Wild Carrot
+Seeding Wild Carrot
 containable=0
 containSize=1,vertSlotRot=0.000000
 permanent=1,minPickupAge=3
@@ -21,9 +21,25 @@ sounds=-1:0.250000,-1:0.250000,-1:0.250000,-1:1.000000
 creationSoundInitialOnly=0
 numSlots=0#timeStretch=1.000000
 slotSize=1
-numSprites=1
+numSprites=3
 spriteID=160
 pos=0.000000,4.000000
+rot=0.000000
+hFlip=0
+color=1.000000,1.000000,1.000000
+ageRange=-1.000000,-1.000000
+parent=-1
+invisHolding=0,invisWorn=0,behindSlots=0
+spriteID=717
+pos=-18.000000,-1.000000
+rot=-0.250000
+hFlip=0
+color=1.000000,1.000000,1.000000
+ageRange=-1.000000,-1.000000
+parent=-1
+invisHolding=0,invisWorn=0,behindSlots=0
+spriteID=717
+pos=3.000000,34.000000
 rot=0.000000
 hFlip=0
 color=1.000000,1.000000,1.000000
@@ -34,5 +50,5 @@ headIndex=-1
 bodyIndex=-1
 backFootIndex=-1
 frontFootIndex=-1
-numUses=1
-useVanishIndex=-1
+numUses=2
+useVanishIndex=1,2
