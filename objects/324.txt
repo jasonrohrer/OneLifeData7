@@ -1,5 +1,5 @@
 id=324
-Wooden Tongs#cool crucible
+Cool Crucible in Wooden Tongs
 containable=0
 containSize=1,vertSlotRot=0.000000
 permanent=0,minPickupAge=3
@@ -17,7 +17,8 @@ heldOffset=15.000000,17.000000
 clothing=n
 clothingOffset=-27.000000,72.000000
 deadlyDistance=0
-sounds=-1:0.250000,-1:0.250000,-1:0.250000
+sounds=-1:0.250000,-1:0.250000,-1:0.250000,-1:1.000000
+creationSoundInitialOnly=0
 numSlots=0#timeStretch=1.000000
 slotSize=1
 numSprites=5
@@ -65,3 +66,5 @@ headIndex=-1
 bodyIndex=-1
 backFootIndex=-1
 frontFootIndex=-1
+numUses=1
+useVanishIndex=-1

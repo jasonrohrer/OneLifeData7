@@ -1,5 +1,5 @@
 id=283
-Wooden Tongs#Bowl, fired
+Wooden Tongs with Fired Bowl
 containable=0
 containSize=1,vertSlotRot=0.000000
 permanent=0,minPickupAge=3
@@ -58,3 +58,5 @@ headIndex=-1
 bodyIndex=-1
 backFootIndex=-1
 frontFootIndex=-1
+numUses=1
+useVanishIndex=-1

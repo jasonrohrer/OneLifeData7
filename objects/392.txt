@@ -1,5 +1,5 @@
 id=392
-Empty Domestic Gooseberry Bush
+Languishing Domestic Gooseberry Bush
 containable=0
 containSize=1,vertSlotRot=0.000000
 permanent=1,minPickupAge=3
