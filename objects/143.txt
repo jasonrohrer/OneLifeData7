@@ -1,5 +1,5 @@
 id=143
-Canada Goose#swimming,feather
+Canada Goose Pond#swimming,feather
 containable=0
 containSize=1,vertSlotRot=0.000000
 permanent=1,minPickupAge=3
@@ -17,7 +17,7 @@ heldOffset=0.000000,0.000000
 clothing=n
 clothingOffset=0.000000,0.000000
 deadlyDistance=0
-sounds=162:0.250000,-1:0.250000,-1:0.250000,-1:1.000000
+sounds=162:0.250000,429:0.250000,-1:0.250000,-1:1.000000
 creationSoundInitialOnly=0
 numSlots=0#timeStretch=1.000000
 slotSize=1
@@ -82,3 +82,5 @@ headIndex=-1
 bodyIndex=-1
 backFootIndex=-1
 frontFootIndex=-1
+numUses=1
+useVanishIndex=-1
