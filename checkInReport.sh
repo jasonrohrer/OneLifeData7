@@ -176,7 +176,7 @@ then
 
   newActorID=$(cat $f | sed 's/\s.*//' );
   newTargetID=$(cat $f | sed 's/[^ ]* //' | sed 's/\s.*//' );
-  decayTime=$(cat $f | sed 's/[^ ]* //' | sed 's/.*\s//' );
+  decayTime=$(cat $f | sed 's/[^ ]* //' | sed 's/[^ ]* //' | sed 's/\s.*//' );
 
   lastUse=0
 
