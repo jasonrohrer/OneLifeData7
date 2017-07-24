@@ -1,5 +1,5 @@
 id=320
-Forged crucible in Wooden Tongs
+Unforged crucible in Wooden Tongs
 containable=0
 containSize=1,vertSlotRot=0.000000
 permanent=0,minPickupAge=3
