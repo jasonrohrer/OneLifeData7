@@ -21,7 +21,15 @@ sounds=-1:0.250000,-1:0.250000,-1:0.250000,-1:1.000000
 creationSoundInitialOnly=0
 numSlots=0#timeStretch=1.000000
 slotSize=1
-numSprites=4
+numSprites=5
+spriteID=395
+pos=32.000000,64.000000
+rot=0.250000
+hFlip=0
+color=1.000000,1.000000,1.000000
+ageRange=-1.000000,-1.000000
+parent=-1
+invisHolding=0,invisWorn=0,behindSlots=0
 spriteID=705
 pos=3.000000,284.000000
 rot=0.000000
@@ -36,7 +44,7 @@ rot=0.000000
 hFlip=0
 color=1.000000,1.000000,1.000000
 ageRange=-1.000000,-1.000000
-parent=0
+parent=1
 invisHolding=0,invisWorn=0,behindSlots=0
 spriteID=707
 pos=-1.000000,47.000000
@@ -44,7 +52,7 @@ rot=0.000000
 hFlip=0
 color=1.000000,1.000000,1.000000
 ageRange=-1.000000,-1.000000
-parent=1
+parent=2
 invisHolding=0,invisWorn=0,behindSlots=0
 spriteID=708
 pos=-4.000000,9.000000
@@ -52,9 +60,11 @@ rot=0.000000
 hFlip=0
 color=1.000000,1.000000,1.000000
 ageRange=-1.000000,-1.000000
-parent=2
+parent=3
 invisHolding=0,invisWorn=0,behindSlots=0
 headIndex=-1
 bodyIndex=-1
 backFootIndex=-1
 frontFootIndex=-1
+numUses=1
+useVanishIndex=-1

@@ -1,5 +1,5 @@
 id=219
-Gooseberry Sprout#fertile
+Gooseberry Sprout
 containable=0
 containSize=1,vertSlotRot=0.000000
 permanent=1,minPickupAge=3
@@ -42,3 +42,5 @@ headIndex=-1
 bodyIndex=-1
 backFootIndex=-1
 frontFootIndex=-1
+numUses=1
+useVanishIndex=-1
