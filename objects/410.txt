@@ -1,11 +1,11 @@
-id=211
-Fertile Soil Deposit
+id=410
+Empty Fertile Soil Pit
 containable=0
 containSize=1,vertSlotRot=0.000000
 permanent=1,minPickupAge=3
 heldInHand=0
 blocksWalking=0,leftBlockingRadius=0,rightBlockingRadius=0,drawBehindPlayer=0
-mapChance=1.000000#biomes_0
+mapChance=0.000000#biomes_0
 heatValue=0
 rValue=0.000000
 person=0
@@ -22,8 +22,8 @@ creationSoundInitialOnly=0
 numSlots=0#timeStretch=1.000000
 slotSize=1
 numSprites=1
-spriteID=488
-pos=0.000000,-21.000000
+spriteID=737
+pos=9.000000,-22.000000
 rot=0.000000
 hFlip=0
 color=1.000000,1.000000,1.000000
