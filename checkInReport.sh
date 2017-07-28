@@ -178,13 +178,25 @@ then
   newTargetID=$(cat $f | sed 's/[^ ]* //' | sed 's/\s.*//' );
   decayTime=$(cat $f | sed 's/[^ ]* //' | sed 's/[^ ]* //' | sed 's/\s.*//' );
 
-  lastUse=0
+  lastUseActor=0
+  lastUseTarget=0
 
-  if [[ $targetID == *"L"* ]]; then
-	  lastUse=1
+  if [[ $targetID == *"LA"* ]]; then
+	  lastUseActor=1
+  fi
+  if [[ $targetID == *"LT"* ]]; then
+	  lastUseTarget=1
+  fi
+  if [[ $targetID == *"L."* ]]; then
+	  lastUseTarget=1
+  fi
 
+
+  if [[ $lastUseActor == 1 ]] || [[ $lastUseTarget == 1 ]];
+  then
 	  targetID=$(echo "$targetID" | sed 's/_.*//' );
   fi
+
 
   decayString=""
   actor="";
@@ -239,9 +251,13 @@ then
 
   lastUseString="";
   
-  if [[ $lastUse == 1 ]];
+  if [[ $lastUseActor == 1 ]];
   then
-	  lastUseString="(Last Use) "
+	  lastUseString="$lastUseString(Last Use Actor) "
+  fi
+  if [[ $lastUseTarget == 1 ]];
+  then
+	  lastUseString="$lastUseString(Last Use Target) "
   fi
 
   echo "  $lastUseString$actor  +  $target   =   $newActor  +  $newTarget  $decayString"; 
