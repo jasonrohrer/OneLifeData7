@@ -1,5 +1,5 @@
 id=207
-Two Pieces of Cut Rabbit Fur#2
+Two Pieces of Cut Rabbit Fur
 containable=0
 containSize=1,vertSlotRot=0.000000
 permanent=0,minPickupAge=3
@@ -44,3 +44,4 @@ backFootIndex=-1
 frontFootIndex=-1
 numUses=1
 useVanishIndex=-1
+useAppearIndex=-1
