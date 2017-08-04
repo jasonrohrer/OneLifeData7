@@ -117,3 +117,4 @@ frontFootIndex=-1
 numUses=5
 useVanishIndex=-1
 useAppearIndex=1,2,3,4
+pixHeight=60
