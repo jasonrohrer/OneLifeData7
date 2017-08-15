@@ -1,5 +1,5 @@
-id=31
-Wild Gooseberry
+id=432
+Domestic Gooseberry
 containable=1
 containSize=1,vertSlotRot=0.000000
 permanent=0,minPickupAge=3
@@ -11,7 +11,7 @@ rValue=0.000000
 person=0
 male=0
 deathMarker=0
-foodValue=3
+foodValue=4
 speedMult=1.000000
 heldOffset=4.000000,-7.000000
 clothing=n
