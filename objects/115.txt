@@ -2,9 +2,9 @@ id=115
 Pine Door# Installed
 containable=0
 containSize=1,vertSlotRot=0.000000
-permanent=0,minPickupAge=3
+permanent=1,minPickupAge=3
 heldInHand=0
-blocksWalking=1,leftBlockingRadius=0,rightBlockingRadius=0,drawBehindPlayer=0
+blocksWalking=1,leftBlockingRadius=0,rightBlockingRadius=0,drawBehindPlayer=1
 mapChance=0.000000#biomes_0
 heatValue=0
 rValue=0.000000
@@ -17,6 +17,7 @@ heldOffset=74.000000,-32.000000
 clothing=n
 clothingOffset=0.000000,0.000000
 deadlyDistance=0
+useDistance=1
 sounds=78:0.250000,-1:0.250000,-1:0.250000,-1:1.000000
 creationSoundInitialOnly=0
 numSlots=0#timeStretch=1.000000
