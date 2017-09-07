@@ -10,15 +10,14 @@ while read -r line
 do
 
 
-if [[ $line == mapChance* ]];
+if [[ $line == permanent* ]];
 then
 
-chance=$(echo $line | grep -o -E '[0-9.]+' | head -1 );
-biomes=$(echo $line | grep -o -E 'biomes_[0-9,]+' | tail -1 );
+perm=$(echo $line | grep -o -E '[01]' | head -1 );
 
-if (( $(bc <<< "$chance > 0") ))
+if (( $(bc <<< "$perm == 0") ))
 then
-echo -e "$chance  $biomes \t $name" 
+echo -e "$name" 
 fi
 
 break
