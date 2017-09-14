@@ -639,8 +639,8 @@ color=1.000000,1.000000,1.000000
 ageRange=0.200000,3.000000
 parent=60
 invisHolding=0,invisWorn=0,behindSlots=0
-spriteID=587
-pos=8.000000,127.000000
+spriteID=776
+pos=9.000000,128.000000
 rot=0.000000
 hFlip=0
 color=1.000000,1.000000,1.000000
@@ -718,4 +718,4 @@ frontFootIndex=6,15,17,30,36
 numUses=1
 useVanishIndex=-1
 useAppearIndex=-1
-pixHeight=172
+pixHeight=180
