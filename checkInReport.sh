@@ -1,5 +1,28 @@
 
 
+
+echo
+echo "Scene changes:"
+
+hg diff --stat | while read x; 
+do 
+f=$(echo $x | sed 's/\s.*$//');
+
+if [[ $f == scenes/*.txt ]] && ! [[ $f == scenes/next.txt ]];
+then
+if [ -e $f ]
+then
+  echo "  $f"; 
+else
+  echo "$f removed"
+fi
+fi
+
+done
+
+
+
+
 echo
 echo "Sound changes:"
 
