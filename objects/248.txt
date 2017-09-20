@@ -8,7 +8,7 @@ blocksWalking=0,leftBlockingRadius=0,rightBlockingRadius=0,drawBehindPlayer=0
 mapChance=0.000000#biomes_0
 heatValue=0
 rValue=0.000000
-person=0
+person=0,noSpawn=0
 male=0
 deathMarker=0
 foodValue=0
@@ -126,4 +126,4 @@ frontFootIndex=-1
 numUses=1
 useVanishIndex=-1
 useAppearIndex=-1
-pixHeight=79
+pixHeight=40
