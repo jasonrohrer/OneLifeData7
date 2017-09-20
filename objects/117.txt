@@ -4,7 +4,7 @@ containable=0
 containSize=1,vertSlotRot=0.000000
 permanent=1,minPickupAge=3
 heldInHand=0
-blocksWalking=0,leftBlockingRadius=0,rightBlockingRadius=0,drawBehindPlayer=0
+blocksWalking=0,leftBlockingRadius=0,rightBlockingRadius=0,drawBehindPlayer=1
 mapChance=0.000000#biomes_0
 heatValue=0
 rValue=0.000000
@@ -24,7 +24,7 @@ numSlots=0#timeStretch=1.000000
 slotSize=1
 numSprites=5
 spriteID=366
-pos=-67.000000,-114.000000
+pos=-67.000000,14.000000
 rot=0.000000
 hFlip=0
 color=1.000000,1.000000,1.000000
@@ -32,7 +32,7 @@ ageRange=-1.000000,-1.000000
 parent=1
 invisHolding=0,invisWorn=0,behindSlots=0
 spriteID=357
-pos=-52.000000,-50.000000
+pos=-52.000000,78.000000
 rot=0.000000
 hFlip=0
 color=1.000000,1.000000,1.000000
@@ -40,7 +40,7 @@ ageRange=-1.000000,-1.000000
 parent=-1
 invisHolding=0,invisWorn=0,behindSlots=0
 spriteID=321
-pos=-2.000000,-36.000000
+pos=-2.000000,92.000000
 rot=-0.250000
 hFlip=0
 color=1.000000,1.000000,1.000000
@@ -48,7 +48,7 @@ ageRange=-1.000000,-1.000000
 parent=-1
 invisHolding=0,invisWorn=0,behindSlots=0
 spriteID=260
-pos=-88.000000,-57.000000
+pos=-88.000000,71.000000
 rot=0.250000
 hFlip=0
 color=1.000000,1.000000,1.000000
@@ -56,7 +56,7 @@ ageRange=-1.000000,-1.000000
 parent=-1
 invisHolding=0,invisWorn=0,behindSlots=0
 spriteID=321
-pos=0.000000,-81.000000
+pos=0.000000,47.000000
 rot=-0.250000
 hFlip=1
 color=1.000000,1.000000,1.000000
@@ -70,4 +70,4 @@ frontFootIndex=-1
 numUses=1
 useVanishIndex=-1
 useAppearIndex=-1
-pixHeight=20
+pixHeight=148
