@@ -1,5 +1,5 @@
 id=110
-Wall Stakes
+Corner Wall Stakes
 containable=0
 containSize=1,vertSlotRot=0.000000
 permanent=1,minPickupAge=3
@@ -24,7 +24,7 @@ numSlots=0#timeStretch=1.000000
 slotSize=1
 numSprites=4
 spriteID=354
-pos=57.000000,-26.000000
+pos=57.000000,-50.000000
 rot=0.000000
 hFlip=0
 color=1.000000,1.000000,1.000000
@@ -40,7 +40,7 @@ ageRange=-1.000000,-1.000000
 parent=-1
 invisHolding=0,invisWorn=0,behindSlots=0
 spriteID=352
-pos=2.000000,-54.000000
+pos=2.000000,-104.000000
 rot=0.000000
 hFlip=0
 color=1.000000,1.000000,1.000000
@@ -48,7 +48,7 @@ ageRange=-1.000000,-1.000000
 parent=-1
 invisHolding=0,invisWorn=0,behindSlots=0
 spriteID=353
-pos=-58.000000,-31.000000
+pos=-58.000000,-51.000000
 rot=0.000000
 hFlip=0
 color=1.000000,1.000000,1.000000
