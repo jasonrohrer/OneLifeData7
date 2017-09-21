@@ -15,3 +15,15 @@ grep pixHeight $(ls -1v objects/*) | tr '=' ' ' | tr ':' ' ' | awk '$3>64{print 
 Print names of objects that block walking:
 
 grep blocksWalking=1 $(ls -1v objects/*) | tr ':' ' ' | awk '{print $1 }' | xargs awk 'FNR == 2'
+
+
+
+Print non-blocking objects that have pixHeight > 64:
+
+grep pixHeight $(ls -1v objects/*) | tr '=' ' ' | tr ':' ' ' | awk '$3>64{print $1 }' | xargs grep "blocksWalking=0" | tr ':' ' ' | awk '{print $1 }' | xargs awk 'FNR == 2'
+
+
+
+Print blocking objects that have pixHeight < 64:
+
+grep pixHeight $(ls -1v objects/*) | tr '=' ' ' | tr ':' ' ' | awk '$3<64{print $1 }' | xargs grep "blocksWalking=1" | tr ':' ' ' | awk '{print $1 }' | xargs awk 'FNR == 2'
