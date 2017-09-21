@@ -24,7 +24,7 @@ numSlots=0#timeStretch=1.000000
 slotSize=1
 numSprites=1
 spriteID=513
-pos=1.000000,-24.000000
+pos=1.000000,8.000000
 rot=0.000000
 hFlip=0
 color=1.000000,1.000000,1.000000
@@ -38,4 +38,4 @@ frontFootIndex=-1
 numUses=1
 useVanishIndex=-1
 useAppearIndex=-1
-pixHeight=3
+pixHeight=35
