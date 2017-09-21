@@ -1,5 +1,17 @@
 
 
+Print grep results in numerical order on filenames:
+
+grep blah $(ls -1v objects/*)
+
+
+
 Print names of objects that have pixHeight > 64:
 
-grep pixHeight objects/* | tr '=' ' ' | tr ':' ' ' | awk '$3>64{print $1 }' | xargs awk 'FNR == 2'
+grep pixHeight $(ls -1v objects/*) | tr '=' ' ' | tr ':' ' ' | awk '$3>64{print $1 }' | xargs awk 'FNR == 2'
+
+
+
+Print names of objects that block walking:
+
+grep blocksWalking=1 $(ls -1v objects/*) | tr ':' ' ' | awk '{print $1 }' | xargs awk 'FNR == 2'
