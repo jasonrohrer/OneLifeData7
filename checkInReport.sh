@@ -143,7 +143,7 @@ then
 if [ -e $f ]
 then
   id=$(echo "$f" | sed 's/.*\///' | sed 's/_.*//' );
-  anim=$(echo "$f" | sed 's/.*\///' | sed 's/\..*//' | sed 's/.*_//' );
+  anim=$(echo "$f" | sed 's/.*\///' | sed 's/\..*//' | sed 's/x.*//' | sed 's/.*_//' );
 
   oName=$(cat "objects/$id.txt" | sed -n 2p );
 
