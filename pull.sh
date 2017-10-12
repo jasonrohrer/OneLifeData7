@@ -1,8 +1,6 @@
 echo "Pulling data from remote server..."
 
-hg pull
-
-hg update
+git pull
 
 rm */cache.fcz
 

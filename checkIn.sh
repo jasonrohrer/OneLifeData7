@@ -1,13 +1,10 @@
-echo "Pushing local changes to server..."
+echo "Pushing local content changes to server..."
 
-hg addremove -X sprites/cache.fcz -X objects/cache.fcz \
-             -Xanimations/cache.fcz -X transitions/cache.fcz \
-             -Xcategories/cache.fcz
-             overlays sprites objects categories animations transitions ground music sounds scenes
+git add -A overlays sprites objects categories animations transitions ground music sounds scenes
 
 echo ""
 echo "Full diff:"
-hg diff --stat
+git --no-pager diff --stat overlays sprites objects categories animations transitions ground music sounds scenes
 
 echo ""
 bash checkInReport.sh
@@ -21,11 +18,11 @@ echo -n "> "
 
 read commitMessage
 
-hg commit -m "$commitMessage"
+git commit -m "$commitMessage"
 
 echo "Pushing changes to server."
 
-hg push
+git push
 
 
 echo

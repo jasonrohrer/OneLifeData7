@@ -4,7 +4,7 @@
 echo
 echo "Scene changes:"
 
-hg diff --stat | while read x; 
+git diff --stat | while read x; 
 do 
 f=$(echo $x | sed 's/\s.*$//');
 
@@ -26,7 +26,7 @@ done
 echo
 echo "Sound changes:"
 
-hg diff --stat | while read x; 
+git diff --stat | while read x; 
 do 
 f=$(echo $x | sed 's/\s.*$//');
 
@@ -46,7 +46,7 @@ done
 echo
 echo "Music changes:"
 
-hg diff --stat | while read x; 
+git diff --stat | while read x; 
 do 
 f=$(echo $x | sed 's/\s.*$//');
 
@@ -67,7 +67,7 @@ done
 echo
 echo "Ground changes:"
 
-hg diff --stat | while read x; 
+git diff --stat | while read x; 
 do 
 f=$(echo $x | sed 's/\s.*$//');
 
@@ -88,7 +88,7 @@ done
 echo
 echo "Sprite changes:"
 
-hg diff --stat | while read x; 
+git diff --stat | while read x; 
 do 
 f=$(echo $x | sed 's/\s.*$//');
 
@@ -110,7 +110,7 @@ done
 echo
 echo "Object changes:"
 
-hg diff --stat | while read x; 
+git diff --stat | while read x; 
 do 
 f=$(echo $x | sed 's/\s.*$//');
 
@@ -133,7 +133,7 @@ done
 echo
 echo "Animation changes:"
 
-hg diff --stat | while read x; 
+git diff --stat | while read x; 
 do 
 f=$(echo $x | sed 's/\s.*$//');
 
@@ -159,7 +159,7 @@ done
 echo
 echo "Category changes:"
 
-hg diff --stat | while read x; 
+git diff --stat | while read x; 
 do 
 f=$(echo $x | sed 's/\s.*$//');
 
@@ -185,7 +185,7 @@ done
 echo
 echo "Transition changes:"
 
-hg diff --stat | while read x; 
+git diff --stat | while read x; 
 do 
 f=$(echo $x | sed 's/\s.*$//');
 
