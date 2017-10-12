@@ -4,7 +4,7 @@ git add -A overlays sprites objects categories animations transitions ground mus
 
 echo ""
 echo "Full diff:"
-git --no-pager diff --stat overlays sprites objects categories animations transitions ground music sounds scenes
+git --no-pager diff --staged --stat overlays sprites objects categories animations transitions ground music sounds scenes
 
 echo ""
 bash checkInReport.sh
