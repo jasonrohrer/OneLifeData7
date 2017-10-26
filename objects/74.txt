@@ -1,5 +1,5 @@
 id=74
-Bow Drill
+Fire Bow Drill
 containable=1
 containSize=1,vertSlotRot=0.000000
 permanent=0,minPickupAge=3
@@ -11,6 +11,8 @@ rValue=0.000000
 person=0,noSpawn=0
 male=0
 deathMarker=0
+floor=0
+floorHugging=0
 foodValue=0
 speedMult=1.000000
 heldOffset=-10.000000,-9.000000
