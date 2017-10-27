@@ -1,7 +1,7 @@
 id=292
 Basket
-containable=0
-containSize=1,vertSlotRot=0.000000
+containable=1
+containSize=2,vertSlotRot=-0.250000
 permanent=0,minPickupAge=3
 heldInHand=0
 blocksWalking=0,leftBlockingRadius=0,rightBlockingRadius=0,drawBehindPlayer=0
@@ -11,6 +11,8 @@ rValue=0.000000
 person=0,noSpawn=0
 male=0
 deathMarker=0
+floor=0
+floorHugging=0
 foodValue=0
 speedMult=1.000000
 heldOffset=18.000000,19.000000
@@ -22,9 +24,9 @@ sounds=74:0.250000,49:0.250000,-1:0.250000,-1:1.000000
 creationSoundInitialOnly=1
 numSlots=3#timeStretch=1.000000
 slotSize=1
-slotPos=-6.000000,-18.000000,vert=1
-slotPos=-1.000000,-18.000000,vert=1
-slotPos=5.000000,-18.000000,vert=1
+slotPos=-6.000000,-18.000000,vert=1,parent=-1
+slotPos=-1.000000,-18.000000,vert=1,parent=-1
+slotPos=5.000000,-18.000000,vert=1,parent=-1
 numSprites=2
 spriteID=550
 pos=0.000000,-22.000000

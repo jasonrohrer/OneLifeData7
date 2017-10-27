@@ -1,7 +1,7 @@
 id=441
 Smithing Hammer
-containable=0
-containSize=1,vertSlotRot=0.000000
+containable=1
+containSize=1,vertSlotRot=-0.405000
 permanent=0,minPickupAge=3
 heldInHand=1
 blocksWalking=0,leftBlockingRadius=0,rightBlockingRadius=0,drawBehindPlayer=0
