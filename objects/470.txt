@@ -1,7 +1,7 @@
 id=470
 Boards
-containable=0
-containSize=1,vertSlotRot=0.000000
+containable=1
+containSize=2,vertSlotRot=0.000000
 permanent=0,minPickupAge=3
 heldInHand=0
 blocksWalking=0,leftBlockingRadius=0,rightBlockingRadius=0,drawBehindPlayer=0
@@ -20,8 +20,8 @@ clothing=n
 clothingOffset=0.000000,0.000000
 deadlyDistance=0
 useDistance=1
-sounds=-1:0.250000,-1:0.250000,-1:0.250000,-1:1.000000
-creationSoundInitialOnly=0
+sounds=509:0.250000,-1:0.250000,-1:0.250000,-1:1.000000
+creationSoundInitialOnly=1
 numSlots=0#timeStretch=1.000000
 slotSize=1
 numSprites=1
