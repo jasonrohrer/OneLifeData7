@@ -11,6 +11,8 @@ rValue=0.750000
 person=0,noSpawn=0
 male=0
 deathMarker=0
+floor=0
+floorHugging=0
 foodValue=0
 speedMult=1.000000
 heldOffset=0.000000,0.000000
@@ -22,9 +24,17 @@ sounds=78:0.250000,-1:0.250000,-1:0.250000,-1:1.000000
 creationSoundInitialOnly=0
 numSlots=0#timeStretch=1.000000
 slotSize=1
-numSprites=1
+numSprites=2
 spriteID=367
 pos=0.000000,-50.000000
+rot=0.000000
+hFlip=0
+color=1.000000,1.000000,1.000000
+ageRange=-1.000000,-1.000000
+parent=-1
+invisHolding=0,invisWorn=0,behindSlots=0
+spriteID=813
+pos=-4.000000,83.000000
 rot=0.000000
 hFlip=0
 color=1.000000,1.000000,1.000000
