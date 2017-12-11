@@ -1,5 +1,5 @@
 id=332
-Steel Ax Head on flat rock
+Steel Ax Head on Flat Rock
 containable=0
 containSize=1,vertSlotRot=0.000000
 permanent=1,minPickupAge=3
@@ -11,6 +11,7 @@ rValue=0.000000
 person=0,noSpawn=0
 male=0
 deathMarker=0
+homeMarker=0
 floor=0
 floorHugging=0
 foodValue=0

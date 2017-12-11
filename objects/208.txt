@@ -1,5 +1,5 @@
 id=208
-Four full and two cut Rabbit Furs
+Four Full and Two Cut Rabbit Furs
 containable=0
 containSize=1,vertSlotRot=0.000000
 permanent=1,minPickupAge=3
@@ -11,6 +11,9 @@ rValue=0.000000
 person=0,noSpawn=0
 male=0
 deathMarker=0
+homeMarker=0
+floor=0
+floorHugging=0
 foodValue=0
 speedMult=1.000000
 heldOffset=2.000000,-14.000000

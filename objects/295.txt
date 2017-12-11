@@ -1,5 +1,5 @@
 id=295
-Wet nozzle in Wooden Tongs
+Wet Nozzle in Wooden Tongs
 containable=0
 containSize=1,vertSlotRot=0.000000
 permanent=0,minPickupAge=3
@@ -11,6 +11,9 @@ rValue=0.000000
 person=0,noSpawn=0
 male=0
 deathMarker=0
+homeMarker=0
+floor=0
+floorHugging=0
 foodValue=0
 speedMult=1.000000
 heldOffset=15.000000,17.000000
