@@ -1,10 +1,10 @@
 echo "Pushing local content changes to server..."
 
-git add -A overlays sprites objects categories animations transitions ground music sounds scenes
+git add -A overlays sprites objects categories animations transitions ground music sounds soundsRaw scenes
 
 echo ""
 echo "Full diff:"
-git --no-pager diff --staged --stat overlays sprites objects categories animations transitions ground music sounds scenes
+git --no-pager diff --staged --stat overlays sprites objects categories animations transitions ground music sounds soundsRaw scenes
 
 echo ""
 bash checkInReport.sh
