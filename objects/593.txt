@@ -1,5 +1,5 @@
-id=564
-Mouflon Hide
+id=593
+Sheep Skin
 containable=0
 containSize=1,vertSlotRot=-0.195000
 permanent=0,minPickupAge=3
@@ -16,9 +16,9 @@ floor=0
 floorHugging=0
 foodValue=0
 speedMult=1.000000
-heldOffset=-27.000000,15.000000
+heldOffset=-32.000000,11.000000
 clothing=t
-clothingOffset=-50.000000,92.000000
+clothingOffset=-47.000000,84.000000
 deadlyDistance=0
 useDistance=1
 sounds=-1:0.0,-1:0.0,-1:0.0,-1:0.0
@@ -26,8 +26,8 @@ creationSoundInitialOnly=0
 numSlots=0#timeStretch=1.000000
 slotSize=1
 numSprites=1
-spriteID=921
-pos=8.000000,-31.000000
+spriteID=966
+pos=4.000000,-27.000000
 rot=0.000000
 hFlip=0
 color=1.000000,1.000000,1.000000
@@ -41,4 +41,4 @@ frontFootIndex=-1
 numUses=1
 useVanishIndex=-1
 useAppearIndex=-1
-pixHeight=0
+pixHeight=7
