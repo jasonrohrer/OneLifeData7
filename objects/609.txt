@@ -1,5 +1,5 @@
 id=609
-Domestic Lamb#fed post hungry
+Fed Domestic Lamb#post hungry
 containable=0
 containSize=1,vertSlotRot=-0.195000
 permanent=1,minPickupAge=3
