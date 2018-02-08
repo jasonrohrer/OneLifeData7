@@ -1,8 +1,4 @@
 parentID=612
-numObjects=6
-547
-253
-258
+numObjects=2
 260
-548
-245
+258
