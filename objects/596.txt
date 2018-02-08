@@ -1,4 +1,4 @@
-id=592
+id=596
 Skinned Sheep
 containable=0
 containSize=1,vertSlotRot=-0.195000
@@ -27,12 +27,12 @@ numSlots=0#timeStretch=1.000000
 slotSize=1
 numSprites=5
 spriteID=72
-pos=-38.000000,-14.000000
+pos=-32.000000,-25.000000
 rot=0.000000
 hFlip=0
 color=1.000000,1.000000,1.000000
 ageRange=-1.000000,-1.000000
-parent=-1
+parent=4
 invisHolding=0,invisWorn=0,behindSlots=0
 spriteID=73
 pos=-22.000000,-7.000000
@@ -43,23 +43,23 @@ ageRange=-1.000000,-1.000000
 parent=-1
 invisHolding=0,invisWorn=0,behindSlots=0
 spriteID=72
-pos=37.000000,-12.000000
+pos=43.000000,-23.000000
 rot=0.000000
 hFlip=0
 color=1.000000,1.000000,1.000000
 ageRange=-1.000000,-1.000000
-parent=-1
+parent=4
 invisHolding=0,invisWorn=0,behindSlots=0
 spriteID=74
-pos=2.000000,-7.000000
+pos=8.000000,-18.000000
 rot=0.000000
 hFlip=0
 color=1.000000,1.000000,1.000000
 ageRange=-1.000000,-1.000000
-parent=-1
+parent=4
 invisHolding=0,invisWorn=0,behindSlots=0
 spriteID=980
-pos=-2.000000,8.000000
+pos=4.000000,-3.000000
 rot=0.000000
 hFlip=0
 color=1.000000,1.000000,1.000000
@@ -73,4 +73,4 @@ frontFootIndex=-1
 numUses=1
 useVanishIndex=-1
 useAppearIndex=-1
-pixHeight=36
+pixHeight=25
