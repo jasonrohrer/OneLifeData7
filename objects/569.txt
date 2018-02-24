@@ -1,6 +1,6 @@
 id=569
 Raw Mutton
-containable=0
+containable=1
 containSize=1,vertSlotRot=-0.195000
 permanent=0,minPickupAge=3
 heldInHand=0
