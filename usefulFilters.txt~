@@ -1,6 +1,0 @@
-
-
-Print names of objects that have pixHeight > 64:
-
-
-grep pixHeight objects/* | tr '=' ' ' | tr ':' ' ' | awk '$3>64{print $1 }' | xargs awk 'FNR == 2'
