@@ -15,5 +15,7 @@ cp sprites/600.tga nudityMod
 cd nudityMod
 
 for f in *.tga; do
-	convert $f -alpha set -background none -channel A -evaluate multiply 0.0 +channel $f
+	#convert $f -alpha set -background none -channel A -evaluate multiply 0.50 +channel -channel R -evaluate set 1 +channel -channel G -evaluate set 255 -channel B -evaluate set 255  $f
+
+	convert $f -alpha set -background none -channel A -evaluate set 0% -channel R -evaluate set 100% -channel G -evaluate set 100% -channel B -evaluate set 100%  $f
 done
