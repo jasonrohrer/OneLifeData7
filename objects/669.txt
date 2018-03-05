@@ -1,5 +1,5 @@
-id=394
-@ Full Portable Water Source
+id=669
+@ Empty Portable Water Source
 containable=0
 containSize=1,vertSlotRot=0.000000
 permanent=0,minPickupAge=3
@@ -42,7 +42,7 @@ color=0.408451,0.408451,0.408451
 ageRange=-1.000000,-1.000000
 parent=-1
 invisHolding=0,invisWorn=0,behindSlots=0
-spriteID=498
+spriteID=497
 pos=-22.000000,-27.000000
 rot=0.000000
 hFlip=0
