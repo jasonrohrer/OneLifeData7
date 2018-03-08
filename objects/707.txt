@@ -5,7 +5,7 @@ containSize=1,vertSlotRot=-0.250000
 permanent=1,minPickupAge=3
 heldInHand=0
 blocksWalking=0,leftBlockingRadius=0,rightBlockingRadius=0,drawBehindPlayer=0
-mapChance=0.100000#biomes_4
+mapChance=0.050000#biomes_4
 heatValue=0
 rValue=0.000000
 person=0,noSpawn=0

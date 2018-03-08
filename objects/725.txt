@@ -1,9 +1,9 @@
-id=586
-Wool Booty
+id=725
+Indigo Wool Sweater
 containable=1
-containSize=1,vertSlotRot=0.000000
+containSize=2,vertSlotRot=-0.250000
 permanent=0,minPickupAge=3
-heldInHand=1
+heldInHand=0
 blocksWalking=0,leftBlockingRadius=0,rightBlockingRadius=0,drawBehindPlayer=0
 mapChance=0.000000#biomes_0
 heatValue=0
@@ -16,21 +16,21 @@ floor=0
 floorHugging=0
 foodValue=0
 speedMult=1.000000
-heldOffset=5.000000,-5.000000
-clothing=s
-clothingOffset=5.000000,31.000000
+heldOffset=10.000000,26.000000
+clothing=t
+clothingOffset=-1.000000,62.000000
 deadlyDistance=0
 useDistance=1
-sounds=752:0.250000,-1:0.0,-1:0.0,-1:0.0
+sounds=941:0.250000,-1:0.0,-1:0.0,-1:0.0
 creationSoundInitialOnly=0
 numSlots=0#timeStretch=1.000000
 slotSize=1
 numSprites=1
-spriteID=979
-pos=-1.000000,-33.000000
+spriteID=978
+pos=2.000000,-21.000000
 rot=0.000000
 hFlip=0
-color=1.000000,1.000000,1.000000
+color=0.082353,0.403922,0.811765
 ageRange=-1.000000,-1.000000
 parent=-1
 invisHolding=0,invisWorn=0,behindSlots=0
@@ -41,4 +41,4 @@ frontFootIndex=-1
 numUses=1
 useVanishIndex=-1
 useAppearIndex=-1
-pixHeight=0
+pixHeight=13
