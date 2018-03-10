@@ -1,0 +1,35 @@
+#Within this folder you'll find the utilities to work with languages
+#This is intented to be a safe and easy way to work by not having translators modify the objects files once a new language is added
+#
+#Since I don't have access to whatever tool is being used to create object data, but I can see the data is contained in plain text files,
+#these utilities will modify said plaintext files.
+# 
+# There is no need to change the current way object files are being generated at the moment, the following utilities will assume that all newly created objects will be given in english only.
+#
+#=======================
+#
+#The included utilities are as follow:
+#
+# - Generate <language>
+# This will create a new <language>.csv file with a list of all items in english in the first column and all zeroes in the second column.
+# The main purpose of this file is to be able to share it with the translators, so they can easily place the translated term in the second column. CSV files can be modified in any text file editor or within any spreadsheet program.
+#
+## - IncludeNewObjects
+# This will verify if there are new objects added since the last time langobjects were generated.
+# After running IncludeNewObjects, all CSV files will include the newly added terms in new lines and a zero in the second column.
+# Zero will be interpreted as no translation.
+#
+# - LoadTranslation <language>
+# LoadTranslation will take the CSV of the specified language and will load the translated terms into object files.
+# This will create a new set of objects including the specified language,
+# the new set of objects is not installed but rather staged in a temporary folder: langobjects/
+# LoadTranslation will only work if there are relevant changes to be made.
+#
+#
+#=======================
+# None of this utilities needs to be shared with the translators, the only thing to be shared are the CSV files generated.
+#  
+# As for the technical caveats of including a different translation, there are mainly two options:
+#1.- To just append a new variable for each language and have the game engine load that string when configured. (i.e. spanish="Marco de madera"; )
+#2.- To generate a new set of objects for each language and have the game engine working just the same with different files.
+# I could not decide on which one would be actually better, I would need to see the game engine to make up my mind. Whichever is chosen the LoadTranslation utility should work. For now I will just pick any of those and comment out the function that does the other.
