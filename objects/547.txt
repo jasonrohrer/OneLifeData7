@@ -1,7 +1,7 @@
 id=547
 Bowl of Carrot
-containable=0
-containSize=1,vertSlotRot=0.000000
+containable=1
+containSize=2,vertSlotRot=-0.250000
 permanent=0,minPickupAge=3
 heldInHand=0
 blocksWalking=0,leftBlockingRadius=0,rightBlockingRadius=0,drawBehindPlayer=0
