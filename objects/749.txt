@@ -25,7 +25,7 @@ sounds=650:0.250000,-1:0.0,-1:0.0,-1:0.0
 creationSoundInitialOnly=0
 numSlots=0#timeStretch=1.000000
 slotSize=1
-numSprites=1
+numSprites=2
 spriteID=418
 pos=2.000000,-20.000000
 rot=0.000000
@@ -33,6 +33,14 @@ hFlip=0
 color=1.000000,1.000000,1.000000
 ageRange=-1.000000,-1.000000
 parent=-1
+invisHolding=0,invisWorn=0,behindSlots=0
+spriteID=1068
+pos=-6.000000,-24.000000
+rot=-0.500000
+hFlip=0
+color=1.000000,1.000000,1.000000
+ageRange=-1.000000,-1.000000
+parent=0
 invisHolding=0,invisWorn=0,behindSlots=0
 headIndex=-1
 bodyIndex=-1
