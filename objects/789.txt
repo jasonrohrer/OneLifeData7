@@ -1,9 +1,9 @@
-id=410
-Wormy Empty Fertile Soil Pit
-containable=0
+id=789
+Worm
+containable=1
 containSize=1,vertSlotRot=0.000000
-permanent=1,minPickupAge=3
-heldInHand=0
+permanent=0,minPickupAge=3
+heldInHand=1
 blocksWalking=0,leftBlockingRadius=0,rightBlockingRadius=0,drawBehindPlayer=0
 mapChance=0.000000#biomes_0
 heatValue=0
@@ -16,18 +16,18 @@ floor=0
 floorHugging=0
 foodValue=0
 speedMult=1.000000
-heldOffset=0.000000,0.000000
+heldOffset=0.000000,-9.000000
 clothing=n
 clothingOffset=0.000000,0.000000
 deadlyDistance=0
 useDistance=1
-sounds=-1:0.0,290:0.250000,-1:0.0,-1:0.0
+sounds=294:0.250000,-1:0.0,-1:0.0,-1:0.0
 creationSoundInitialOnly=0
 numSlots=0#timeStretch=1.000000
 slotSize=1
 numSprites=1
-spriteID=737
-pos=9.000000,-22.000000
+spriteID=1113
+pos=0.000000,-33.000000
 rot=0.000000
 hFlip=0
 color=1.000000,1.000000,1.000000
@@ -41,4 +41,4 @@ frontFootIndex=-1
 numUses=1
 useVanishIndex=-1
 useAppearIndex=-1
-pixHeight=2
+pixHeight=0
