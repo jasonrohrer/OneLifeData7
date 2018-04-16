@@ -1,5 +1,5 @@
 id=815
-Unstable Bell Tower Base#1.2 monumentStep
+Unstable Bell Tower Base#1.2
 containable=0
 containSize=1,vertSlotRot=-0.250000
 permanent=1,minPickupAge=3
