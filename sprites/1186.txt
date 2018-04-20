@@ -1,0 +1,1 @@
+StoneWallOutline 1 -1 3
