@@ -1,5 +1,5 @@
 id=868
-@ Mallets
+@ Mallet
 containable=0
 containSize=1,vertSlotRot=-0.360000
 permanent=0,minPickupAge=3
