@@ -1,7 +1,7 @@
 id=441
 Smithing Hammer
 containable=1
-containSize=1,vertSlotRot=-0.405000
+containSize=1.000000,vertSlotRot=-0.405000
 permanent=0,minPickupAge=3
 heldInHand=1
 blocksWalking=0,leftBlockingRadius=0,rightBlockingRadius=0,drawBehindPlayer=0
@@ -24,10 +24,18 @@ useDistance=1
 sounds=411:0.250000,-1:0.0,-1:0.0,-1:0.0
 creationSoundInitialOnly=0
 numSlots=0#timeStretch=1.000000
-slotSize=1
-numSprites=1
+slotSize=1.000000
+numSprites=2
 spriteID=810
 pos=2.000000,-32.000000
+rot=0.000000
+hFlip=0
+color=1.000000,1.000000,1.000000
+ageRange=-1.000000,-1.000000
+parent=-1
+invisHolding=0,invisWorn=0,behindSlots=0
+spriteID=1153
+pos=12.000000,-29.000000
 rot=0.000000
 hFlip=0
 color=1.000000,1.000000,1.000000
@@ -38,7 +46,7 @@ headIndex=-1
 bodyIndex=-1
 backFootIndex=-1
 frontFootIndex=-1
-numUses=1
+numUses=20
 useVanishIndex=-1
-useAppearIndex=-1
+useAppearIndex=1
 pixHeight=0
