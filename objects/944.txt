@@ -1,11 +1,11 @@
-id=290
-Iron Ore
-containable=1
+id=944
+Iron Mine
+containable=0
 containSize=1.000000,vertSlotRot=0.000000
-permanent=0,minPickupAge=3
+permanent=1,minPickupAge=3
 heldInHand=0
-blocksWalking=0,leftBlockingRadius=0,rightBlockingRadius=0,drawBehindPlayer=0
-mapChance=1.000000#biomes_3
+blocksWalking=1,leftBlockingRadius=0,rightBlockingRadius=0,drawBehindPlayer=0
+mapChance=0.020000#biomes_3
 heatValue=0
 rValue=0.000000
 person=0,noSpawn=0
@@ -21,13 +21,21 @@ clothing=n
 clothingOffset=-27.000000,72.000000
 deadlyDistance=0
 useDistance=1
-sounds=1071:0.250000,-1:0.0,-1:0.0,-1:0.0
-creationSoundInitialOnly=0
+sounds=78:0.250000,1071:0.250000,-1:0.0,-1:0.0
+creationSoundInitialOnly=1
 numSlots=0#timeStretch=1.000000
 slotSize=1.000000
-numSprites=1
-spriteID=548
-pos=0.000000,-31.000000
+numSprites=2
+spriteID=1194
+pos=-4.000000,2.000000
+rot=0.000000
+hFlip=0
+color=1.000000,1.000000,1.000000
+ageRange=-1.000000,-1.000000
+parent=-1
+invisHolding=0,invisWorn=0,behindSlots=0
+spriteID=1195
+pos=-1.000000,24.000000
 rot=0.000000
 hFlip=0
 color=1.000000,1.000000,1.000000
@@ -38,7 +46,7 @@ headIndex=-1
 bodyIndex=-1
 backFootIndex=-1
 frontFootIndex=-1
-numUses=1,1.000000
+numUses=2,0.100000
 useVanishIndex=-1
 useAppearIndex=-1
-pixHeight=0
+pixHeight=64
