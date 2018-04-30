@@ -221,6 +221,17 @@ then
   newTargetID=$(cat $f | sed 's/[^ ]* //' | sed 's/\s.*//' );
   decayTime=$(cat $f | sed 's/[^ ]* //' | sed 's/[^ ]* //' | sed 's/\s.*//' );
 
+
+  reverseUseActor=$(cat $f | sed 's/[^ ]* //' | sed 's/[^ ]* //' | sed 's/[^ ]* //' |  sed 's/[^ ]* //' |  sed 's/[^ ]* //' | sed 's/\s.*//' );
+
+  reverseUseTarget=$(cat $f | sed 's/[^ ]* //' | sed 's/[^ ]* //' | sed 's/[^ ]* //' |  sed 's/[^ ]* //' | sed 's/[^ ]* //' | sed 's/[^ ]* //' | sed 's/\s.*//' );
+
+
+  noUseActor=$(cat $f | sed 's/[^ ]* //' | sed 's/[^ ]* //' | sed 's/[^ ]* //' |  sed 's/[^ ]* //' | sed 's/[^ ]* //' | sed 's/[^ ]* //' |   sed 's/[^ ]* //' |  sed 's/[^ ]* //' |  sed 's/[^ ]* //' |sed 's/\s.*//' );
+
+  noUseTarget=$(cat $f | sed 's/[^ ]* //' | sed 's/[^ ]* //' | sed 's/[^ ]* //' |  sed 's/[^ ]* //' | sed 's/[^ ]* //' | sed 's/[^ ]* //' |   sed 's/[^ ]* //' | sed 's/[^ ]* //' | sed 's/[^ ]* //' | sed 's/[^ ]* //' |sed 's/\s.*//' );
+
+
   lastUseActor=0
   lastUseTarget=0
 
@@ -303,7 +314,31 @@ then
 	  lastUseString="$lastUseString(Last Use Target) "
   fi
 
-  echo "  $lastUseString$actor  +  $target   =   $newActor  +  $newTarget  $decayString"; 
+
+  reverseUseString="";
+  
+  if [[ $reverseUseActor == 1 ]];
+  then
+	  reverseUseString="$reverseUseString(Reverse Use Actor) "
+  fi
+  if [[ $reverseUseTarget == 1 ]];
+  then
+	  reverseUseString="$reverseUseString(Reverse Use Target) "
+  fi
+
+
+  noUseString="";
+  
+  if [[ $noUseActor == 1 ]];
+  then
+	  noUseString="$noUseString(No Use Actor) "
+  fi
+  if [[ $noUseTarget == 1 ]];
+  then
+	  noUseString="$noUseString(No Use Target) "
+  fi
+
+  echo "  $lastUseString$actor  +  $target   =   $newActor  +  $newTarget  $decayString  $reverseUseString $noUseString"; 
 else 
   echo "$f removed"
 fi
