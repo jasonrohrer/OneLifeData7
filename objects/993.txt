@@ -1,5 +1,5 @@
-id=980
-Loose Big Sign
+id=993
+Loose Locked Big Sign# $10
 containable=0
 containSize=1.000000,vertSlotRot=-0.250000
 permanent=0,minPickupAge=3
@@ -25,7 +25,7 @@ sounds=418:0.250000,147:0.250000,-1:0.0,-1:0.0
 creationSoundInitialOnly=0
 numSlots=27#timeStretch=1.000000
 slotSize=0.500000
-slotsLocked=0
+slotsLocked=1
 slotPos=-81.000000,39.000000,vert=0,parent=-1
 slotPos=-59.000000,40.000000,vert=0,parent=-1
 slotPos=-38.000000,39.000000,vert=0,parent=-1
@@ -53,7 +53,7 @@ slotPos=20.000000,-19.000000,vert=0,parent=-1
 slotPos=43.000000,-19.000000,vert=0,parent=-1
 slotPos=64.000000,-18.000000,vert=0,parent=-1
 slotPos=86.000000,-18.000000,vert=0,parent=-1
-numSprites=1
+numSprites=2
 spriteID=1205
 pos=5.000000,16.000000
 rot=0.000000
@@ -62,6 +62,14 @@ color=1.000000,1.000000,1.000000
 ageRange=-1.000000,-1.000000
 parent=-1
 invisHolding=0,invisWorn=0,behindSlots=1
+spriteID=1192
+pos=108.000000,47.000000
+rot=0.000000
+hFlip=0
+color=1.000000,1.000000,1.000000
+ageRange=-1.000000,-1.000000
+parent=-1
+invisHolding=0,invisWorn=0,behindSlots=0
 headIndex=-1
 bodyIndex=-1
 backFootIndex=-1

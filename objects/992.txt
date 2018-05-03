@@ -1,5 +1,5 @@
-id=979
-Loose Small Sign
+id=992
+Loose Locked Small Sign# $10
 containable=0
 containSize=1.000000,vertSlotRot=-0.250000
 permanent=0,minPickupAge=3
@@ -25,7 +25,7 @@ sounds=418:0.250000,147:0.250000,-1:0.0,-1:0.0
 creationSoundInitialOnly=0
 numSlots=14#timeStretch=1.000000
 slotSize=0.500000
-slotsLocked=0
+slotsLocked=1
 slotPos=-61.000000,-8.000000,vert=0,parent=-1
 slotPos=-42.000000,-8.000000,vert=0,parent=-1
 slotPos=-22.000000,-8.000000,vert=0,parent=-1
@@ -40,7 +40,7 @@ slotPos=-2.000000,-35.000000,vert=0,parent=-1
 slotPos=20.000000,-35.000000,vert=0,parent=-1
 slotPos=42.000000,-35.000000,vert=0,parent=-1
 slotPos=64.000000,-35.000000,vert=0,parent=-1
-numSprites=1
+numSprites=2
 spriteID=1204
 pos=3.000000,-27.000000
 rot=0.000000
@@ -49,6 +49,14 @@ color=1.000000,1.000000,1.000000
 ageRange=-1.000000,-1.000000
 parent=-1
 invisHolding=0,invisWorn=0,behindSlots=1
+spriteID=1192
+pos=83.000000,-2.000000
+rot=0.000000
+hFlip=0
+color=1.000000,1.000000,1.000000
+ageRange=-1.000000,-1.000000
+parent=-1
+invisHolding=0,invisWorn=0,behindSlots=0
 headIndex=-1
 bodyIndex=-1
 backFootIndex=-1
