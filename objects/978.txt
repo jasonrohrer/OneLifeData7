@@ -49,10 +49,10 @@ slotPos=-66.000000,68.000000,vert=0,parent=-1
 slotPos=-46.000000,67.000000,vert=0,parent=-1
 slotPos=-25.000000,67.000000,vert=0,parent=-1
 slotPos=-4.000000,67.000000,vert=0,parent=-1
-slotPos=18.000000,68.000000,vert=0,parent=-1
-slotPos=41.000000,68.000000,vert=0,parent=-1
-slotPos=62.000000,69.000000,vert=0,parent=-1
-slotPos=84.000000,69.000000,vert=0,parent=-1
+slotPos=18.000000,67.000000,vert=0,parent=-1
+slotPos=41.000000,67.000000,vert=0,parent=-1
+slotPos=62.000000,68.000000,vert=0,parent=-1
+slotPos=84.000000,68.000000,vert=0,parent=-1
 numSprites=2
 spriteID=1206
 pos=1.000000,28.000000
