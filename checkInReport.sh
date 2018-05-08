@@ -106,6 +106,28 @@ done
 
 
 echo
+echo "Face changes:"
+
+git diff --staged --stat | while read x; 
+do 
+f=$(echo $x | sed 's/\s.*$//');
+
+if [[ $f == faces/*.png ]];
+then
+if [ -e $f ]
+then
+  echo "  $f"; 
+else
+  echo "$f removed"
+fi
+fi
+
+done
+
+
+
+
+echo
 echo "Sprite changes:"
 
 git diff --staged --stat | while read x; 
