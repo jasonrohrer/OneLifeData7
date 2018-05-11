@@ -1,5 +1,5 @@
 id=1000
-Lock and Key# $10 removed
+Lock and Key $10# removed
 containable=1
 containSize=1.000000,vertSlotRot=-0.250000
 permanent=0,minPickupAge=3
