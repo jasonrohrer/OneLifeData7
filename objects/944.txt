@@ -25,6 +25,7 @@ sounds=78:0.250000,1071:0.250000,-1:0.0,-1:0.0
 creationSoundInitialOnly=1
 numSlots=0#timeStretch=1.000000
 slotSize=1.000000
+slotsLocked=0
 numSprites=2
 spriteID=1194
 pos=-4.000000,2.000000
@@ -46,7 +47,7 @@ headIndex=-1
 bodyIndex=-1
 backFootIndex=-1
 frontFootIndex=-1
-numUses=5,0.200000
+numUses=5,0.100000
 useVanishIndex=-1
 useAppearIndex=-1
 pixHeight=64

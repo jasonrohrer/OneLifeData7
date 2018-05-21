@@ -5,7 +5,7 @@ containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3
 heldInHand=0
 blocksWalking=1,leftBlockingRadius=0,rightBlockingRadius=0,drawBehindPlayer=0
-mapChance=0.010000#biomes_3
+mapChance=0.020000#biomes_3
 heatValue=0
 rValue=0.000000
 person=0,noSpawn=0
@@ -25,6 +25,7 @@ sounds=-1:0.0,-1:0.0,-1:0.0,-1:0.0
 creationSoundInitialOnly=0
 numSlots=0#timeStretch=1.000000
 slotSize=1.000000
+slotsLocked=0
 numSprites=1
 spriteID=1193
 pos=-4.000000,2.000000
