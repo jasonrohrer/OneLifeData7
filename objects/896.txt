@@ -1,7 +1,7 @@
 id=896
 Ancient Stone Wall
 containable=0
-containSize=1,vertSlotRot=0.000000
+containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3
 heldInHand=0
 blocksWalking=1,leftBlockingRadius=0,rightBlockingRadius=0,drawBehindPlayer=0
@@ -13,7 +13,7 @@ male=0
 deathMarker=0
 homeMarker=0
 floor=0
-floorHugging=0
+floorHugging=1
 foodValue=0
 speedMult=1.000000
 heldOffset=0.000000,0.000000
@@ -24,7 +24,8 @@ useDistance=1
 sounds=-1:0.0,-1:0.0,-1:0.0,-1:0.0
 creationSoundInitialOnly=0
 numSlots=0#timeStretch=1.000000
-slotSize=1
+slotSize=1.000000
+slotsLocked=0
 numSprites=9
 spriteID=366
 pos=-16.000000,-57.000000
@@ -102,7 +103,7 @@ headIndex=-1
 bodyIndex=-1
 backFootIndex=-1
 frontFootIndex=-1
-numUses=1
+numUses=1,1.000000
 useVanishIndex=-1
 useAppearIndex=-1
 pixHeight=84
