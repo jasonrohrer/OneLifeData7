@@ -1,14 +1,14 @@
 id=354
 Male007 C
 containable=0
-containSize=1,vertSlotRot=0.000000
+containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3
 heldInHand=0
 blocksWalking=0,leftBlockingRadius=0,rightBlockingRadius=0,drawBehindPlayer=0
 mapChance=0.000000#biomes_0
 heatValue=0
 rValue=0.000000
-person=4,noSpawn=0
+person=3,noSpawn=0
 male=1
 deathMarker=0
 homeMarker=0
@@ -24,7 +24,8 @@ useDistance=1
 sounds=6:0.250000,34:0.250000,-1:0.0,-1:0.0
 creationSoundInitialOnly=0
 numSlots=0#timeStretch=1.000000
-slotSize=1
+slotSize=1.000000
+slotsLocked=0
 numSprites=86
 spriteID=74
 pos=4.000000,0.000000
@@ -718,7 +719,7 @@ headIndex=61
 bodyIndex=40
 backFootIndex=9,19,22,33,39
 frontFootIndex=6,15,17,30,36
-numUses=1
+numUses=1,1.000000
 useVanishIndex=-1
 useAppearIndex=-1
 pixHeight=174
