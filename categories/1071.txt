@@ -1,0 +1,9 @@
+parentID=1071
+pattern
+numObjects=6
+1077
+1080
+1083
+1086
+1089
+1092

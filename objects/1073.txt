@@ -1,5 +1,5 @@
-id=955
-Letter B
+id=1073
+Double S
 containable=1
 containSize=0.500000,vertSlotRot=-0.250000
 permanent=0,minPickupAge=3
@@ -21,14 +21,22 @@ clothing=n
 clothingOffset=0.000000,0.000000
 deadlyDistance=0
 useDistance=1
-sounds=74:0.250000,-1:0.0,-1:0.0,-1:0.0
+sounds=159:0.250000,-1:0.0,-1:0.0,-1:0.0
 creationSoundInitialOnly=1
 numSlots=0#timeStretch=1.000000
 slotSize=1.000000
 slotsLocked=0
-numSprites=1
-spriteID=1208
-pos=1.000000,-35.000000
+numSprites=2
+spriteID=1225
+pos=0.000000,-34.000000
+rot=0.000000
+hFlip=0
+color=1.000000,1.000000,1.000000
+ageRange=-1.000000,-1.000000
+parent=-1
+invisHolding=0,invisWorn=0,behindSlots=0
+spriteID=1225
+pos=9.000000,-39.000000
 rot=0.000000
 hFlip=0
 color=1.000000,1.000000,1.000000
