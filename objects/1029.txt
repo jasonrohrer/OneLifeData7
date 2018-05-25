@@ -1,5 +1,5 @@
 id=1029
-Cold Bowl with Wild Rose Seed# white
+Cold Bowl with Rose Seed# white
 containable=0
 containSize=1.000000,vertSlotRot=-0.250000
 permanent=1,minPickupAge=3

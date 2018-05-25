@@ -1,5 +1,5 @@
 id=1023
-Cold Bowl with Stratified Wild Rose Seed# pink
+Cold Bowl with Stratified Rose Seed# pink
 containable=0
 containSize=1.000000,vertSlotRot=-0.250000
 permanent=1,minPickupAge=3
