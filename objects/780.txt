@@ -2,7 +2,7 @@ id=780
 Escaped Horse-Drawn Cart
 containable=0
 containSize=1,vertSlotRot=0.000000
-permanent=0,minPickupAge=13
+permanent=1,minPickupAge=13
 heldInHand=2
 blocksWalking=0,leftBlockingRadius=0,rightBlockingRadius=0,drawBehindPlayer=0
 mapChance=0.000000#biomes_0
@@ -15,7 +15,7 @@ homeMarker=0
 floor=0
 floorHugging=0
 foodValue=0
-speedMult=2.000000
+speedMult=0.250000
 heldOffset=-87.000000,7.000000
 clothing=n
 clothingOffset=0.000000,0.000000
