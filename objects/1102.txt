@@ -1,8 +1,8 @@
-id=393
-Vigorous Domestic Gooseberry Bush# soil
+id=1102
+@ Soil Source
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
-permanent=1,minPickupAge=3
+permanent=0,minPickupAge=3
 heldInHand=0
 blocksWalking=0,leftBlockingRadius=0,rightBlockingRadius=0,drawBehindPlayer=0
 mapChance=0.000000#biomes_0
@@ -26,17 +26,9 @@ creationSoundInitialOnly=0
 numSlots=0#timeStretch=1.000000
 slotSize=1.000000
 slotsLocked=0
-numSprites=2
-spriteID=493
-pos=1.000000,-35.000000
-rot=0.000000
-hFlip=0
-color=1.000000,1.000000,1.000000
-ageRange=-1.000000,-1.000000
-parent=-1
-invisHolding=0,invisWorn=0,behindSlots=0
-spriteID=143
-pos=7.000000,-24.000000
+numSprites=1
+spriteID=711
+pos=0.000000,0.000000
 rot=0.000000
 hFlip=0
 color=1.000000,1.000000,1.000000
@@ -50,4 +42,4 @@ frontFootIndex=-1
 numUses=1,1.000000
 useVanishIndex=-1
 useAppearIndex=-1
-pixHeight=37
+pixHeight=25
