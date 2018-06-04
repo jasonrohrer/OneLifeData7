@@ -1,7 +1,7 @@
 id=778
 Horse-Drawn Cart
 containable=0
-containSize=1,vertSlotRot=0.000000
+containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=13
 heldInHand=2
 blocksWalking=1,leftBlockingRadius=0,rightBlockingRadius=0,drawBehindPlayer=0
@@ -21,10 +21,11 @@ clothing=n
 clothingOffset=0.000000,0.000000
 deadlyDistance=0
 useDistance=1
-sounds=1019:0.250000,-1:0.0,-1:0.0,-1:0.0
+sounds=1019:0.250000,496:0.250000,-1:0.0,-1:0.0
 creationSoundInitialOnly=0
 numSlots=4#timeStretch=1.000000
-slotSize=2
+slotSize=2.000000
+slotsLocked=0
 slotPos=-149.000000,46.000000,vert=1,parent=-1
 slotPos=-126.000000,46.000000,vert=1,parent=-1
 slotPos=-110.000000,46.000000,vert=1,parent=-1
@@ -266,7 +267,7 @@ headIndex=-1
 bodyIndex=-1
 backFootIndex=-1
 frontFootIndex=-1
-numUses=0
+numUses=0,1.000000
 useVanishIndex=-1
 useAppearIndex=-1
 pixHeight=151
