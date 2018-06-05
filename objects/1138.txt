@@ -1,5 +1,5 @@
-id=1101
-Fertile Soil Pile
+id=1138
+Fertile Soil
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3
@@ -21,28 +21,12 @@ clothing=n
 clothingOffset=0.000000,0.000000
 deadlyDistance=0
 useDistance=1
-sounds=290:0.250000,290:0.250000,-1:0.0,-1:0.0
-creationSoundInitialOnly=0
+sounds=290:0.250000,-1:0.0,-1:0.0,-1:0.0
+creationSoundInitialOnly=1
 numSlots=0#timeStretch=1.000000
 slotSize=1.000000
 slotsLocked=0
-numSprites=5
-spriteID=739
-pos=-18.000000,-30.000000
-rot=0.000000
-hFlip=0
-color=1.000000,1.000000,1.000000
-ageRange=-1.000000,-1.000000
-parent=-1
-invisHolding=0,invisWorn=0,behindSlots=0
-spriteID=491
-pos=-7.000000,-35.000000
-rot=0.000000
-hFlip=0
-color=1.000000,1.000000,1.000000
-ageRange=-1.000000,-1.000000
-parent=-1
-invisHolding=0,invisWorn=0,behindSlots=0
+numSprites=3
 spriteID=492
 pos=7.000000,-26.000000
 rot=0.000000
@@ -59,8 +43,8 @@ color=1.000000,1.000000,1.000000
 ageRange=-1.000000,-1.000000
 parent=-1
 invisHolding=0,invisWorn=0,behindSlots=0
-spriteID=740
-pos=10.000000,-32.000000
+spriteID=491
+pos=-7.000000,-35.000000
 rot=0.000000
 hFlip=0
 color=1.000000,1.000000,1.000000
@@ -71,7 +55,7 @@ headIndex=-1
 bodyIndex=-1
 backFootIndex=-1
 frontFootIndex=-1
-numUses=2,1.000000
-useVanishIndex=0,4
+numUses=1,1.000000
+useVanishIndex=-1
 useAppearIndex=-1
 pixHeight=0
