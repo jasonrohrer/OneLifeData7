@@ -1,7 +1,7 @@
 id=391
 Domestic Gooseberry Bush
 containable=0
-containSize=1,vertSlotRot=0.000000
+containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3
 heldInHand=0
 blocksWalking=0,leftBlockingRadius=0,rightBlockingRadius=0,drawBehindPlayer=0
@@ -24,8 +24,9 @@ useDistance=1
 sounds=-1:0.0,-1:0.0,-1:0.0,-1:0.0
 creationSoundInitialOnly=0
 numSlots=0#timeStretch=1.000000
-slotSize=1
-numSprites=7
+slotSize=1.000000
+slotsLocked=0
+numSprites=8
 spriteID=143
 pos=7.000000,-24.000000
 rot=0.000000
@@ -59,7 +60,7 @@ ageRange=-1.000000,-1.000000
 parent=0
 invisHolding=0,invisWorn=0,behindSlots=0
 spriteID=158
-pos=-8.000000,11.000000
+pos=-11.000000,7.000000
 rot=0.000000
 hFlip=0
 color=1.000000,1.000000,1.000000
@@ -82,11 +83,19 @@ color=1.000000,1.000000,1.000000
 ageRange=-1.000000,-1.000000
 parent=-1
 invisHolding=0,invisWorn=0,behindSlots=0
+spriteID=154
+pos=-4.000000,20.000000
+rot=0.000000
+hFlip=0
+color=1.000000,1.000000,1.000000
+ageRange=-1.000000,-1.000000
+parent=-1
+invisHolding=0,invisWorn=0,behindSlots=0
 headIndex=-1
 bodyIndex=-1
 backFootIndex=-1
 frontFootIndex=-1
-numUses=6
-useVanishIndex=1,2,3,4,5,6
+numUses=7,1.000000
+useVanishIndex=1,2,3,4,5,6,7
 useAppearIndex=-1
 pixHeight=37
