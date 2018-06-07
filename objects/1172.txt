@@ -1,5 +1,5 @@
 id=1172
-Dry Bean Plants# working
+Dry Bean Plants
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3
@@ -156,7 +156,7 @@ ageRange=-1.000000,-1.000000
 parent=-1
 invisHolding=0,invisWorn=0,behindSlots=0
 spriteID=1424
-pos=70.000000,3.000000
+pos=70.000000,4.000000
 rot=0.000000
 hFlip=0
 color=1.000000,1.000000,1.000000
@@ -175,7 +175,7 @@ headIndex=-1
 bodyIndex=-1
 backFootIndex=-1
 frontFootIndex=-1
-numUses=1,1.000000
-useVanishIndex=-1
+numUses=6,1.000000
+useVanishIndex=12,13,14,15,16,17
 useAppearIndex=-1
 pixHeight=59

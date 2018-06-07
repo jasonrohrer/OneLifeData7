@@ -1,8 +1,8 @@
-id=1173
-Green Bean Plants
-containable=0
+id=1178
+Winnowed Dry Beans
+containable=1
 containSize=1.000000,vertSlotRot=0.000000
-permanent=1,minPickupAge=3
+permanent=0,minPickupAge=3
 heldInHand=0
 blocksWalking=0,leftBlockingRadius=0,rightBlockingRadius=0,drawBehindPlayer=0
 mapChance=0.000000#biomes_0
@@ -16,19 +16,27 @@ floor=0
 floorHugging=0
 foodValue=0
 speedMult=1.000000
-heldOffset=0.000000,0.000000
+heldOffset=14.000000,15.000000
 clothing=n
-clothingOffset=-27.000000,72.000000
+clothingOffset=0.000000,0.000000
 deadlyDistance=0
 useDistance=1
-sounds=-1:0.0,-1:0.0,-1:0.0,-1:0.0
+sounds=1187:0.250000,-1:0.0,-1:0.0,-1:0.0
 creationSoundInitialOnly=0
 numSlots=0#timeStretch=1.000000
 slotSize=1.000000
 slotsLocked=0
-numSprites=1
-spriteID=1434
-pos=0.000000,0.000000
+numSprites=2
+spriteID=514
+pos=0.000000,-34.000000
+rot=0.000000
+hFlip=0
+color=1.000000,1.000000,1.000000
+ageRange=-1.000000,-1.000000
+parent=-1
+invisHolding=0,invisWorn=0,behindSlots=0
+spriteID=1383
+pos=0.000000,-27.000000
 rot=0.000000
 hFlip=0
 color=1.000000,1.000000,1.000000
@@ -42,4 +50,4 @@ frontFootIndex=-1
 numUses=1,1.000000
 useVanishIndex=-1
 useAppearIndex=-1
-pixHeight=59
+pixHeight=0
