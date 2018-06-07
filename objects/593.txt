@@ -1,13 +1,13 @@
 id=593
 Sheep Skin
 containable=0
-containSize=1,vertSlotRot=0.000000
+containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3
 heldInHand=0
 blocksWalking=0,leftBlockingRadius=0,rightBlockingRadius=0,drawBehindPlayer=0
 mapChance=0.000000#biomes_0
 heatValue=0
-rValue=0.650000
+rValue=0.300000
 person=0,noSpawn=0
 male=0
 deathMarker=0
@@ -24,7 +24,8 @@ useDistance=1
 sounds=-1:0.0,-1:0.0,-1:0.0,-1:0.0
 creationSoundInitialOnly=0
 numSlots=0#timeStretch=1.000000
-slotSize=1
+slotSize=1.000000
+slotsLocked=0
 numSprites=1
 spriteID=966
 pos=4.000000,-27.000000
@@ -38,7 +39,7 @@ headIndex=-1
 bodyIndex=-1
 backFootIndex=-1
 frontFootIndex=-1
-numUses=1
+numUses=1,1.000000
 useVanishIndex=-1
 useAppearIndex=-1
 pixHeight=7
