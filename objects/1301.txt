@@ -1,5 +1,5 @@
-id=1288
-Flat Rock with Wheat Tortilla
+id=1301
+Flat Rock with Corn Tortilla
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3
@@ -35,11 +35,11 @@ color=1.000000,1.000000,1.000000
 ageRange=-1.000000,-1.000000
 parent=-1
 invisHolding=0,invisWorn=0,behindSlots=0
-spriteID=1526
-pos=3.000000,-32.000000
+spriteID=1523
+pos=0.000000,-33.000000
 rot=0.000000
 hFlip=0
-color=1.000000,1.000000,1.000000
+color=0.878431,0.823444,0.383540
 ageRange=-1.000000,-1.000000
 parent=-1
 invisHolding=0,invisWorn=0,behindSlots=0

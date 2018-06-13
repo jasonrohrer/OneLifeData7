@@ -5,7 +5,7 @@ containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3
 heldInHand=0
 blocksWalking=0,leftBlockingRadius=0,rightBlockingRadius=0,drawBehindPlayer=0
-mapChance=1.000000#biomes_3,5
+mapChance=0.000000#biomes_0
 heatValue=0
 rValue=0.000000
 person=0,noSpawn=0
@@ -21,7 +21,7 @@ clothing=n
 clothingOffset=-27.000000,72.000000
 deadlyDistance=0
 useDistance=1
-sounds=-1:0.0,-1:0.0,-1:0.0,-1:0.0
+sounds=349:0.250000,-1:0.0,-1:0.0,-1:0.0
 creationSoundInitialOnly=0
 numSlots=0#timeStretch=1.000000
 slotSize=1.000000
@@ -39,7 +39,7 @@ spriteID=530
 pos=0.000000,-29.000000
 rot=0.000000
 hFlip=0
-color=1.000000,0.943265,0.633803
+color=0.878431,0.823444,0.383540
 ageRange=-1.000000,-1.000000
 parent=-1
 invisHolding=0,invisWorn=0,behindSlots=0

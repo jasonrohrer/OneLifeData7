@@ -1,5 +1,5 @@
-id=1288
-Flat Rock with Wheat Tortilla
+id=1310
+Flat Rock with Wheat Tortilla# just made
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3
@@ -21,7 +21,7 @@ clothing=n
 clothingOffset=-27.000000,72.000000
 deadlyDistance=0
 useDistance=1
-sounds=1207:0.250000,-1:0.0,-1:0.0,-1:0.0
+sounds=1211:0.250000,-1:0.0,-1:0.0,-1:0.0
 creationSoundInitialOnly=0
 numSlots=0#timeStretch=1.000000
 slotSize=1.000000
