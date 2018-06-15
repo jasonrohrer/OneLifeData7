@@ -1,7 +1,7 @@
 id=207
 Two Pieces of Cut Rabbit Fur
-containable=0
-containSize=1,vertSlotRot=0.000000
+containable=1
+containSize=1.000000,vertSlotRot=-0.250000
 permanent=0,minPickupAge=3
 heldInHand=1
 blocksWalking=0,leftBlockingRadius=0,rightBlockingRadius=0,drawBehindPlayer=0
@@ -11,6 +11,9 @@ rValue=0.000000
 person=0,noSpawn=0
 male=0
 deathMarker=0
+homeMarker=0
+floor=0
+floorHugging=0
 foodValue=0
 speedMult=1.000000
 heldOffset=-1.000000,2.000000
@@ -18,10 +21,11 @@ clothing=n
 clothingOffset=0.000000,0.000000
 deadlyDistance=0
 useDistance=1
-sounds=286:0.101010,-1:0.250000,-1:0.250000,-1:1.000000
+sounds=286:0.101010,-1:0.0,-1:0.0,-1:0.0
 creationSoundInitialOnly=0
 numSlots=0#timeStretch=1.000000
-slotSize=1
+slotSize=1.000000
+slotsLocked=0
 numSprites=2
 spriteID=468
 pos=1.000000,-23.000000
@@ -43,7 +47,7 @@ headIndex=-1
 bodyIndex=-1
 backFootIndex=-1
 frontFootIndex=-1
-numUses=1
+numUses=1,1.000000
 useVanishIndex=-1
 useAppearIndex=-1
 pixHeight=0
