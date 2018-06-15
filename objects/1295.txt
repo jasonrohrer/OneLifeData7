@@ -2,8 +2,8 @@ id=1295
 Cooked Wheat Tortilla# just cooked
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
-permanent=1,minPickupAge=3
-heldInHand=0
+permanent=0,minPickupAge=3
+heldInHand=1
 blocksWalking=0,leftBlockingRadius=0,rightBlockingRadius=0,drawBehindPlayer=0
 mapChance=0.000000#biomes_0
 heatValue=0
@@ -16,7 +16,7 @@ floor=0
 floorHugging=0
 foodValue=0
 speedMult=1.000000
-heldOffset=14.000000,8.000000
+heldOffset=6.000000,-22.000000
 clothing=n
 clothingOffset=-27.000000,72.000000
 deadlyDistance=0
