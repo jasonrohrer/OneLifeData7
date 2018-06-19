@@ -1,11 +1,11 @@
 id=1347
-Attacking Wild Boar# domestic
+Attacking Boar# domestic
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3
 heldInHand=0
 blocksWalking=0,leftBlockingRadius=0,rightBlockingRadius=0,drawBehindPlayer=0
-mapChance=0.100000#biomes_1
+mapChance=0.000000#biomes_1
 heatValue=0
 rValue=0.000000
 person=0,noSpawn=0
