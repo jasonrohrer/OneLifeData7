@@ -1,8 +1,8 @@
 id=1368
 Sterilized Knife
-containable=1
+containable=0
 containSize=1.000000,vertSlotRot=0.000000
-permanent=0,minPickupAge=8
+permanent=1,minPickupAge=8
 heldInHand=1
 blocksWalking=0,leftBlockingRadius=0,rightBlockingRadius=0,drawBehindPlayer=0
 mapChance=0.000000#biomes_0

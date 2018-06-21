@@ -1,5 +1,5 @@
-id=1363
-Bite Wound
+id=1377
+Snake Bite
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3
@@ -16,7 +16,7 @@ floor=0
 floorHugging=0
 foodValue=0
 speedMult=0.750000
-heldOffset=6.000000,52.000000
+heldOffset=9.000000,54.000000
 clothing=n
 clothingOffset=0.000000,0.000000
 deadlyDistance=0
@@ -26,17 +26,25 @@ creationSoundInitialOnly=0
 numSlots=0#timeStretch=1.000000
 slotSize=1.000000
 slotsLocked=0
-numSprites=4
-spriteID=1116
-pos=0.000000,-32.000000
+numSprites=5
+spriteID=1591
+pos=0.000000,-23.000000
 rot=0.000000
 hFlip=0
 color=1.000000,1.000000,1.000000
 ageRange=-1.000000,-1.000000
 parent=-1
 invisHolding=0,invisWorn=0,behindSlots=0
-spriteID=1591
-pos=0.000000,-23.000000
+spriteID=1595
+pos=2.000000,-34.000000
+rot=0.000000
+hFlip=0
+color=1.000000,1.000000,1.000000
+ageRange=-1.000000,-1.000000
+parent=-1
+invisHolding=0,invisWorn=0,behindSlots=0
+spriteID=1594
+pos=-4.000000,-35.000000
 rot=0.000000
 hFlip=0
 color=1.000000,1.000000,1.000000
@@ -52,7 +60,7 @@ ageRange=-1.000000,-1.000000
 parent=-1
 invisHolding=0,invisWorn=0,behindSlots=0
 spriteID=1591
-pos=0.000000,-22.000000
+pos=0.000000,-21.000000
 rot=0.000000
 hFlip=0
 color=1.000000,1.000000,1.000000

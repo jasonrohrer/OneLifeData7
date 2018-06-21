@@ -1,5 +1,5 @@
 id=1130
-Dead Riding Horse# ground
+Snake-Bit Riding Horse# ground
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=13
