@@ -126,6 +126,27 @@ done
 
 
 
+echo
+echo "Tutorial map changes:"
+
+git diff --staged --stat | while read x; 
+do 
+f=$(echo $x | sed 's/\s.*$//');
+
+if [[ $f == tutorialMaps/*.txt ]];
+then
+if [ -e $f ]
+then
+  echo "  $f"; 
+else
+  echo "$f removed"
+fi
+fi
+
+done
+
+
+
 
 echo
 echo "Sprite changes:"
