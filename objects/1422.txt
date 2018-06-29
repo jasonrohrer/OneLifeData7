@@ -1,5 +1,5 @@
-id=780
-Escaped Horse-Drawn Cart
+id=1422
+Escaped Horse-Drawn Cart# just released
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=13
@@ -21,7 +21,7 @@ clothing=n
 clothingOffset=0.000000,0.000000
 deadlyDistance=0
 useDistance=1
-sounds=-1:0.0,496:0.250000,-1:0.0,-1:0.0
+sounds=1021:0.250000,496:0.250000,-1:0.0,-1:0.0
 creationSoundInitialOnly=0
 numSlots=4#timeStretch=1.000000
 slotSize=2.000000
