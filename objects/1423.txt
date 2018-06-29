@@ -1,9 +1,9 @@
-id=74
-Fire Bow Drill
-containable=1
+id=1423
+Bow Drill with Removed Tip
+containable=0
 containSize=1.000000,vertSlotRot=0.000000
-permanent=0,minPickupAge=3
-heldInHand=1
+permanent=1,minPickupAge=3
+heldInHand=0
 blocksWalking=0,leftBlockingRadius=0,rightBlockingRadius=0,drawBehindPlayer=0
 mapChance=0.000000#biomes_0
 heatValue=0
@@ -21,12 +21,12 @@ clothing=n
 clothingOffset=0.000000,0.000000
 deadlyDistance=0
 useDistance=1
-sounds=88:0.250000,-1:0.0,-1:0.0,-1:0.0
-creationSoundInitialOnly=1
+sounds=483:0.250000,-1:0.0,-1:0.0,-1:0.0
+creationSoundInitialOnly=0
 numSlots=0#timeStretch=1.000000
 slotSize=1.000000
 slotsLocked=0
-numSprites=3
+numSprites=4
 spriteID=259
 pos=-18.000000,-23.000000
 rot=0.000000
@@ -46,6 +46,14 @@ invisHolding=0,invisWorn=0,behindSlots=0
 spriteID=277
 pos=-3.000000,-33.000000
 rot=0.000000
+hFlip=0
+color=1.000000,1.000000,1.000000
+ageRange=-1.000000,-1.000000
+parent=-1
+invisHolding=0,invisWorn=0,behindSlots=0
+spriteID=400
+pos=13.000000,-43.000000
+rot=0.250000
 hFlip=0
 color=1.000000,1.000000,1.000000
 ageRange=-1.000000,-1.000000
