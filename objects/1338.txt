@@ -1,7 +1,7 @@
 id=1338
 Fed Wild Piglet
-containable=1
-containSize=1.000000,vertSlotRot=-0.250000
+containable=0
+containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3
 heldInHand=0
 blocksWalking=0,leftBlockingRadius=0,rightBlockingRadius=0,drawBehindPlayer=0
