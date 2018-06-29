@@ -1,10 +1,10 @@
 id=710
 Skinned Seal#no fur
 containable=0
-containSize=1,vertSlotRot=-0.250000
+containSize=1.000000,vertSlotRot=-0.250000
 permanent=1,minPickupAge=3
 heldInHand=0
-blocksWalking=1,leftBlockingRadius=0,rightBlockingRadius=0,drawBehindPlayer=0
+blocksWalking=0,leftBlockingRadius=0,rightBlockingRadius=0,drawBehindPlayer=0
 mapChance=0.000000#biomes_0
 heatValue=0
 rValue=0.000000
@@ -24,10 +24,11 @@ useDistance=1
 sounds=-1:0.0,-1:0.0,-1:0.0,-1:0.0
 creationSoundInitialOnly=0
 numSlots=0#timeStretch=1.000000
-slotSize=1
+slotSize=1.000000
+slotsLocked=0
 numSprites=3
 spriteID=1053
-pos=9.000000,-10.000000
+pos=9.000000,-35.000000
 rot=0.000000
 hFlip=0
 color=1.000000,1.000000,1.000000
@@ -35,7 +36,7 @@ ageRange=-1.000000,-1.000000
 parent=-1
 invisHolding=0,invisWorn=0,behindSlots=0
 spriteID=71
-pos=-12.000000,-21.000000
+pos=-12.000000,-46.000000
 rot=0.000000
 hFlip=0
 color=1.000000,1.000000,1.000000
@@ -43,7 +44,7 @@ ageRange=-1.000000,-1.000000
 parent=-1
 invisHolding=0,invisWorn=0,behindSlots=0
 spriteID=74
-pos=12.000000,-18.000000
+pos=12.000000,-43.000000
 rot=0.000000
 hFlip=0
 color=1.000000,1.000000,1.000000
@@ -54,7 +55,7 @@ headIndex=-1
 bodyIndex=-1
 backFootIndex=-1
 frontFootIndex=-1
-numUses=1
+numUses=1,1.000000
 useVanishIndex=-1
 useAppearIndex=-1
-pixHeight=20
+pixHeight=0
