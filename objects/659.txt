@@ -26,9 +26,17 @@ creationSoundInitialOnly=1
 numSlots=0#timeStretch=1.000000
 slotSize=1.000000
 slotsLocked=0
-numSprites=1
-spriteID=1007
-pos=-2.000000,-21.000000
+numSprites=2
+spriteID=1650
+pos=-2.000000,-16.000000
+rot=0.000000
+hFlip=0
+color=1.000000,1.000000,1.000000
+ageRange=-1.000000,-1.000000
+parent=1
+invisHolding=0,invisWorn=0,behindSlots=0
+spriteID=1649
+pos=-1.000000,-24.000000
 rot=0.000000
 hFlip=0
 color=1.000000,1.000000,1.000000
@@ -42,4 +50,4 @@ frontFootIndex=-1
 numUses=1,1.000000
 useVanishIndex=-1
 useAppearIndex=-1
-pixHeight=1
+pixHeight=0
