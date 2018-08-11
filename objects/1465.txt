@@ -64,6 +64,6 @@ bodyIndex=-1
 backFootIndex=-1
 frontFootIndex=-1
 numUses=8,1.000000
-useVanishIndex=2
+useVanishIndex=1,2
 useAppearIndex=-1
 pixHeight=0
