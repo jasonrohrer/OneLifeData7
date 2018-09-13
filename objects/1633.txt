@@ -1,5 +1,5 @@
 id=1633
-Wolf Puppy#2
+German Shepherd Puppy
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3
