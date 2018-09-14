@@ -1,5 +1,5 @@
-id=1659
-Pit Bull
+id=1712
+Attacking Pit Bull
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3
@@ -19,14 +19,14 @@ speedMult=1.000000
 heldOffset=0.000000,0.000000
 clothing=n
 clothingOffset=0.000000,0.000000
-deadlyDistance=1
+deadlyDistance=0
 useDistance=1
-sounds=-1:0.0,-1:0.0,-1:0.0,-1:0.0
+sounds=447:0.250000,-1:0.0,-1:0.0,-1:0.0
 creationSoundInitialOnly=0
 numSlots=0#timeStretch=1.000000
 slotSize=1.000000
 slotsLocked=0
-numSprites=10
+numSprites=12
 spriteID=73
 pos=-16.000000,-20.000000
 rot=0.000000
@@ -52,7 +52,7 @@ ageRange=-1.000000,-1.000000
 parent=-1
 invisHolding=0,invisWorn=0,behindSlots=0
 spriteID=1801
-pos=-14.000000,3.000000
+pos=-9.000000,3.000000
 rot=0.000000
 hFlip=0
 color=1.000000,1.000000,1.000000
@@ -60,7 +60,7 @@ ageRange=-1.000000,-1.000000
 parent=8
 invisHolding=0,invisWorn=0,behindSlots=0
 spriteID=1803
-pos=29.000000,3.000000
+pos=31.000000,3.000000
 rot=0.000000
 hFlip=0
 color=1.000000,1.000000,1.000000
@@ -76,7 +76,7 @@ ageRange=-1.000000,-1.000000
 parent=8
 invisHolding=0,invisWorn=0,behindSlots=0
 spriteID=1802
-pos=23.000000,-1.000000
+pos=18.000000,-1.000000
 rot=0.000000
 hFlip=0
 color=1.000000,1.000000,1.000000
@@ -84,15 +84,15 @@ ageRange=-1.000000,-1.000000
 parent=8
 invisHolding=0,invisWorn=0,behindSlots=0
 spriteID=1799
-pos=-27.000000,15.000000
-rot=0.000000
+pos=-27.000000,8.000000
+rot=-0.250000
 hFlip=0
 color=1.000000,1.000000,1.000000
 ageRange=-1.000000,-1.000000
 parent=8
 invisHolding=0,invisWorn=0,behindSlots=0
 spriteID=1797
-pos=5.000000,12.000000
+pos=5.000000,5.000000
 rot=0.000000
 hFlip=0
 color=1.000000,1.000000,1.000000
@@ -100,12 +100,28 @@ ageRange=-1.000000,-1.000000
 parent=-1
 invisHolding=0,invisWorn=0,behindSlots=0
 spriteID=1798
-pos=33.000000,23.000000
+pos=35.000000,5.000000
 rot=0.000000
 hFlip=0
 color=1.000000,1.000000,1.000000
 ageRange=-1.000000,-1.000000
 parent=8
+invisHolding=0,invisWorn=0,behindSlots=0
+spriteID=773
+pos=58.000000,4.000000
+rot=0.000000
+hFlip=1
+color=1.000000,1.000000,1.000000
+ageRange=-1.000000,-1.000000
+parent=9
+invisHolding=0,invisWorn=0,behindSlots=0
+spriteID=771
+pos=51.000000,-2.000000
+rot=0.000000
+hFlip=0
+color=1.000000,1.000000,1.000000
+ageRange=-1.000000,-1.000000
+parent=9
 invisHolding=0,invisWorn=0,behindSlots=0
 headIndex=-1
 bodyIndex=-1
@@ -114,4 +130,4 @@ frontFootIndex=-1
 numUses=0,1.000000
 useVanishIndex=-1
 useAppearIndex=-1
-pixHeight=46
+pixHeight=28
