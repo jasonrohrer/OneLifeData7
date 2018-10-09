@@ -1,6 +1,4 @@
 parentID=785
-numObjects=4
-672
-671
+numObjects=2
 673
 670
