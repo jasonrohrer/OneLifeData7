@@ -1,5 +1,5 @@
-id=1327
-Domestic Piglet
+id=1857
+Hungry Domestic Piglet# held
 containable=1
 containSize=1.000000,vertSlotRot=-0.250000
 permanent=0,minPickupAge=3
@@ -15,7 +15,7 @@ homeMarker=0
 floor=0
 floorHugging=0
 foodValue=0
-speedMult=0.500000
+speedMult=1.000000
 heldOffset=11.000000,19.000000
 clothing=n
 clothingOffset=0.000000,0.000000
@@ -84,8 +84,8 @@ ageRange=-1.000000,-1.000000
 parent=-1
 invisHolding=0,invisWorn=0,behindSlots=0
 spriteID=1589
-pos=5.000000,-12.000000
-rot=0.000000
+pos=6.000000,-12.000000
+rot=0.125000
 hFlip=0
 color=1.000000,1.000000,1.000000
 ageRange=-1.000000,-1.000000
