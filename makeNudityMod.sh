@@ -14,7 +14,11 @@ cp sprites/599.tga nudityMod/sprites/
 cp sprites/600.tga nudityMod/sprites/
 
 
-cd nudityMod/sprites/
+cd nudityMod
+
+cp -r sprites originalSprites
+
+cd sprites/
 
 for f in *.tga; do
 	convert $f -alpha set -background none -channel A -evaluate set 0% -channel R -evaluate set 100% -channel G -evaluate set 100% -channel B -evaluate set 100%  $f
