@@ -1,7 +1,7 @@
 id=616
 Sheep Eating Carrot Row
 containable=0
-containSize=1,vertSlotRot=0.000000
+containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3
 heldInHand=0
 blocksWalking=0,leftBlockingRadius=0,rightBlockingRadius=0,drawBehindPlayer=0
@@ -15,7 +15,7 @@ homeMarker=0
 floor=0
 floorHugging=0
 foodValue=0
-speedMult=1.000000
+speedMult=0.500000
 heldOffset=0.000000,0.000000
 clothing=n
 clothingOffset=-27.000000,72.000000
@@ -24,7 +24,8 @@ useDistance=1
 sounds=-1:0.0,-1:0.0,-1:0.0,-1:0.0
 creationSoundInitialOnly=0
 numSlots=0#timeStretch=1.000000
-slotSize=1
+slotSize=1.000000
+slotsLocked=0
 numSprites=18
 spriteID=493
 pos=1.000000,-35.000000
@@ -174,7 +175,7 @@ headIndex=-1
 bodyIndex=-1
 backFootIndex=-1
 frontFootIndex=-1
-numUses=5
+numUses=5,1.000000
 useVanishIndex=1,2,3
 useAppearIndex=-1
 pixHeight=52
