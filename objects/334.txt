@@ -1,5 +1,5 @@
 id=334
-Steel Ax
+Steel Axe
 containable=1
 containSize=2.000000,vertSlotRot=-0.415000
 permanent=0,minPickupAge=3
@@ -25,6 +25,7 @@ sounds=411:0.250000,-1:0.0,-1:0.0,-1:0.0
 creationSoundInitialOnly=0
 numSlots=0#timeStretch=1.000000
 slotSize=1.000000
+slotsLocked=0
 numSprites=3
 spriteID=558
 pos=5.000000,-33.000000
