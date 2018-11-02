@@ -1,5 +1,5 @@
 id=1968
-type=0,randStartPhase=0
+type=0,randStartPhase=1
 forceZeroStart=0
 numSounds=3
 soundParam=1388:0.091667 1.000000 0.489583 -1.000000 -1.000000 0
