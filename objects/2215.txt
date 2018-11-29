@@ -1,5 +1,5 @@
-id=557
-Two Shafts
+id=2215
+Pump Beam Kit
 containable=1
 containSize=2.000000,vertSlotRot=-0.250000
 permanent=0,minPickupAge=3
@@ -18,7 +18,7 @@ floor=0
 floorHugging=0
 foodValue=0
 speedMult=1.000000
-heldOffset=0.000000,15.000000
+heldOffset=-10.000000,18.000000
 clothing=n
 clothingOffset=0.000000,0.000000
 deadlyDistance=0
@@ -29,7 +29,7 @@ creationSoundForce=0
 numSlots=0#timeStretch=1.000000
 slotSize=1.000000
 slotsLocked=0
-numSprites=2
+numSprites=4
 spriteID=319
 pos=36.000000,-18.000000
 rot=0.000000
@@ -40,6 +40,22 @@ parent=-1
 invisHolding=0,invisWorn=0,behindSlots=0
 spriteID=319
 pos=-30.000000,-28.000000
+rot=0.000000
+hFlip=0
+color=1.000000,1.000000,1.000000
+ageRange=-1.000000,-1.000000
+parent=-1
+invisHolding=0,invisWorn=0,behindSlots=0
+spriteID=259
+pos=-18.000000,-23.000000
+rot=0.000000
+hFlip=0
+color=1.000000,1.000000,1.000000
+ageRange=-1.000000,-1.000000
+parent=-1
+invisHolding=0,invisWorn=0,behindSlots=0
+spriteID=259
+pos=-9.000000,-28.000000
 rot=0.000000
 hFlip=0
 color=1.000000,1.000000,1.000000
