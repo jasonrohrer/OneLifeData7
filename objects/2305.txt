@@ -1,5 +1,5 @@
 id=2305
-Oil Rig with Pipe Extension
+Oil Drilling Rig with Pipe Extension
 containable=0
 containSize=1.000000,vertSlotRot=-0.195000
 permanent=1,minPickupAge=3
