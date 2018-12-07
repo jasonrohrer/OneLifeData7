@@ -3,7 +3,7 @@ Double Cylinder
 containable=1
 containSize=2.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3
-noFlip=0
+noFlip=1
 sideAccess=0
 heldInHand=0
 blocksWalking=0,leftBlockingRadius=0,rightBlockingRadius=0,drawBehindPlayer=0
@@ -31,7 +31,7 @@ slotSize=1.000000
 slotsLocked=0
 numSprites=2
 spriteID=2140
-pos=20.000000,-32.000000
+pos=18.000000,-20.000000
 rot=-0.250000
 hFlip=0
 color=1.000000,1.000000,1.000000
@@ -39,7 +39,7 @@ ageRange=-1.000000,-1.000000
 parent=-1
 invisHolding=0,invisWorn=0,behindSlots=0
 spriteID=2140
-pos=-19.000000,-32.000000
+pos=-21.000000,-20.000000
 rot=0.250000
 hFlip=1
 color=1.000000,1.000000,1.000000
@@ -53,4 +53,4 @@ frontFootIndex=-1
 numUses=1,1.000000
 useVanishIndex=-1
 useAppearIndex=-1
-pixHeight=0
+pixHeight=8
