@@ -1,9 +1,9 @@
 id=2365
-Test Engine
+Diesel Engine
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
-permanent=0,minPickupAge=3
-noFlip=0
+permanent=0,minPickupAge=15
+noFlip=1
 sideAccess=0
 heldInHand=0
 blocksWalking=0,leftBlockingRadius=0,rightBlockingRadius=0,drawBehindPlayer=0
@@ -17,13 +17,13 @@ homeMarker=0
 floor=0
 floorHugging=0
 foodValue=0
-speedMult=1.000000
-heldOffset=16.000000,62.000000
+speedMult=0.500000
+heldOffset=18.000000,69.000000
 clothing=n
 clothingOffset=0.000000,0.000000
 deadlyDistance=0
 useDistance=1
-sounds=-1:0.0,-1:0.0,-1:0.0,-1:0.0
+sounds=1523:0.250000,-1:0.0,-1:0.0,-1:0.0
 creationSoundInitialOnly=0
 creationSoundForce=0
 numSlots=0#timeStretch=1.000000
@@ -36,7 +36,7 @@ rot=0.000000
 hFlip=0
 color=1.000000,1.000000,1.000000
 ageRange=-1.000000,-1.000000
-parent=-1
+parent=1
 invisHolding=0,invisWorn=0,behindSlots=0
 spriteID=2199
 pos=15.000000,-17.000000
@@ -44,7 +44,7 @@ rot=0.000000
 hFlip=0
 color=1.000000,1.000000,1.000000
 ageRange=-1.000000,-1.000000
-parent=-1
+parent=6
 invisHolding=0,invisWorn=0,behindSlots=0
 spriteID=2219
 pos=-3.000000,-26.000000
@@ -52,7 +52,7 @@ rot=0.000000
 hFlip=0
 color=1.000000,1.000000,1.000000
 ageRange=-1.000000,-1.000000
-parent=-1
+parent=6
 invisHolding=0,invisWorn=0,behindSlots=0
 spriteID=2217
 pos=-10.000000,-20.000000
@@ -100,7 +100,7 @@ rot=0.000000
 hFlip=0
 color=1.000000,1.000000,1.000000
 ageRange=-1.000000,-1.000000
-parent=-1
+parent=6
 invisHolding=0,invisWorn=0,behindSlots=0
 spriteID=2223
 pos=-16.000000,18.000000
@@ -204,7 +204,7 @@ rot=0.000000
 hFlip=0
 color=1.000000,1.000000,1.000000
 ageRange=-1.000000,-1.000000
-parent=-1
+parent=24
 invisHolding=0,invisWorn=0,behindSlots=0
 spriteID=2220
 pos=-1.000000,28.000000
@@ -220,7 +220,7 @@ rot=-0.250000
 hFlip=0
 color=1.000000,1.000000,1.000000
 ageRange=-1.000000,-1.000000
-parent=-1
+parent=6
 invisHolding=0,invisWorn=0,behindSlots=0
 spriteID=2172
 pos=-25.000000,29.000000
@@ -228,7 +228,7 @@ rot=-0.250000
 hFlip=0
 color=1.000000,1.000000,1.000000
 ageRange=-1.000000,-1.000000
-parent=-1
+parent=6
 invisHolding=0,invisWorn=0,behindSlots=0
 spriteID=2228
 pos=-18.000000,5.000000
@@ -236,7 +236,7 @@ rot=0.000000
 hFlip=0
 color=1.000000,1.000000,1.000000
 ageRange=-1.000000,-1.000000
-parent=-1
+parent=24
 invisHolding=0,invisWorn=0,behindSlots=0
 spriteID=2174
 pos=-29.000000,27.000000

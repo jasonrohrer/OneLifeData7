@@ -52,7 +52,7 @@ rot=-0.250000
 hFlip=0
 color=1.000000,1.000000,1.000000
 ageRange=-1.000000,-1.000000
-parent=-1
+parent=3
 invisHolding=0,invisWorn=0,behindSlots=0
 spriteID=2196
 pos=1.000000,-32.000000
@@ -68,7 +68,7 @@ rot=0.000000
 hFlip=0
 color=0.605634,0.605634,0.605634
 ageRange=-1.000000,-1.000000
-parent=-1
+parent=3
 invisHolding=0,invisWorn=0,behindSlots=0
 headIndex=-1
 bodyIndex=-1
