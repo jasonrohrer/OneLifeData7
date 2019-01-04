@@ -3,6 +3,8 @@ Attacking Boar# domestic
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3
+noFlip=0
+sideAccess=0
 heldInHand=0
 blocksWalking=0,leftBlockingRadius=0,rightBlockingRadius=0,drawBehindPlayer=0
 mapChance=0.000000#biomes_1
@@ -23,6 +25,7 @@ deadlyDistance=0
 useDistance=1
 sounds=1220:0.250000,-1:0.0,-1:0.0,-1:0.0
 creationSoundInitialOnly=0
+creationSoundForce=0
 numSlots=0#timeStretch=1.000000
 slotSize=1.000000
 slotsLocked=0
@@ -127,7 +130,7 @@ headIndex=-1
 bodyIndex=-1
 backFootIndex=-1
 frontFootIndex=-1
-numUses=1,1.000000
+numUses=10,1.000000
 useVanishIndex=-1
 useAppearIndex=-1
 pixHeight=40
