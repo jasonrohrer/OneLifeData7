@@ -1,5 +1,5 @@
-id=2544
-Bowl of Saltpeter Solution
+id=2565
+Bowl of Soda Ash Solution
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3
@@ -38,11 +38,11 @@ color=1.000000,1.000000,1.000000
 ageRange=-1.000000,-1.000000
 parent=2
 invisHolding=0,invisWorn=0,behindSlots=0
-spriteID=713
-pos=0.000000,-27.000000
+spriteID=1644
+pos=0.000000,-28.000000
 rot=0.000000
 hFlip=0
-color=1.000000,0.749058,0.225352
+color=0.929577,0.929577,0.929577
 ageRange=-1.000000,-1.000000
 parent=2
 invisHolding=0,invisWorn=0,behindSlots=0
