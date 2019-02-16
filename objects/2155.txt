@@ -1,5 +1,5 @@
 id=2155
-Yellow Fever# sick emot_7_35  food_0.3
+Yellow Fever# sick emot_7_35  food_0.3 fever_15
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3
@@ -8,7 +8,7 @@ sideAccess=0
 heldInHand=0
 blocksWalking=0,leftBlockingRadius=0,rightBlockingRadius=0,drawBehindPlayer=0
 mapChance=0.000000#biomes_0
-heatValue=8
+heatValue=0
 rValue=0.000000
 person=0,noSpawn=0
 male=0
