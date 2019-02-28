@@ -23,3 +23,7 @@ cd sprites/
 for f in *.tga; do
 	convert $f -alpha set -background none -channel A -evaluate set 0% -channel R -evaluate set 100% -channel G -evaluate set 100% -channel B -evaluate set 100%  $f
 done
+
+cd ../..
+
+zip -r nudityMod.zip nudityMod/
