@@ -1,5 +1,5 @@
-id=1864
-Domestic Calf with Rope
+id=2729
+Fed Domestic Calf# rope
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3
@@ -17,8 +17,8 @@ homeMarker=0
 floor=0
 floorHugging=0
 foodValue=0
-speedMult=0.500000
-heldOffset=0.000000,0.000000
+speedMult=1.000000
+heldOffset=-24.000000,-5.000000
 clothing=n
 clothingOffset=0.000000,0.000000
 deadlyDistance=0
@@ -30,14 +30,6 @@ numSlots=0#timeStretch=1.000000
 slotSize=1.000000
 slotsLocked=0
 numSprites=9
-spriteID=306
-pos=-6.000000,-20.000000
-rot=0.000000
-hFlip=0
-color=1.000000,1.000000,1.000000
-ageRange=-1.000000,-1.000000
-parent=-1
-invisHolding=0,invisWorn=0,behindSlots=0
 spriteID=71
 pos=3.000000,-27.000000
 rot=0.000000
@@ -52,7 +44,7 @@ rot=0.000000
 hFlip=0
 color=0.521127,0.521127,0.521127
 ageRange=-1.000000,-1.000000
-parent=7
+parent=6
 invisHolding=0,invisWorn=0,behindSlots=0
 spriteID=1632
 pos=17.000000,-6.000000
@@ -60,7 +52,7 @@ rot=0.000000
 hFlip=0
 color=0.591549,0.591549,0.591549
 ageRange=-1.000000,-1.000000
-parent=7
+parent=6
 invisHolding=0,invisWorn=0,behindSlots=0
 spriteID=1633
 pos=-16.000000,-6.000000
@@ -68,7 +60,7 @@ rot=0.000000
 hFlip=0
 color=1.000000,1.000000,1.000000
 ageRange=-1.000000,-1.000000
-parent=7
+parent=6
 invisHolding=0,invisWorn=0,behindSlots=0
 spriteID=1629
 pos=-20.000000,9.000000
@@ -76,7 +68,7 @@ rot=0.000000
 hFlip=0
 color=1.000000,1.000000,1.000000
 ageRange=-1.000000,-1.000000
-parent=7
+parent=6
 invisHolding=0,invisWorn=0,behindSlots=0
 spriteID=1631
 pos=24.000000,-9.000000
@@ -84,12 +76,20 @@ rot=0.000000
 hFlip=0
 color=1.000000,1.000000,1.000000
 ageRange=-1.000000,-1.000000
-parent=7
+parent=6
 invisHolding=0,invisWorn=0,behindSlots=0
 spriteID=1628
 pos=6.000000,1.000000
 rot=0.000000
 hFlip=0
+color=1.000000,1.000000,1.000000
+ageRange=-1.000000,-1.000000
+parent=7
+invisHolding=0,invisWorn=0,behindSlots=0
+spriteID=915
+pos=61.000000,24.000000
+rot=0.000000
+hFlip=1
 color=1.000000,1.000000,1.000000
 ageRange=-1.000000,-1.000000
 parent=-1
@@ -100,7 +100,7 @@ rot=0.000000
 hFlip=0
 color=1.000000,1.000000,1.000000
 ageRange=-1.000000,-1.000000
-parent=7
+parent=6
 invisHolding=0,invisWorn=0,behindSlots=0
 headIndex=-1
 bodyIndex=-1
@@ -109,4 +109,4 @@ frontFootIndex=-1
 numUses=1,1.000000
 useVanishIndex=-1
 useAppearIndex=-1
-pixHeight=19
+pixHeight=58
