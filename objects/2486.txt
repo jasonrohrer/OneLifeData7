@@ -1,5 +1,5 @@
 id=2486
-Seeping Endtower Base# monumentCall
+Seeping Endtower Base
 containable=0
 containSize=1.000000,vertSlotRot=-0.250000
 permanent=1,minPickupAge=3
