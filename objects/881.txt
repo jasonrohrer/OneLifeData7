@@ -1,7 +1,7 @@
 id=881
 Cut Stones
-containable=0
-containSize=1.000000,vertSlotRot=0.000000
+containable=1
+containSize=2.000000,vertSlotRot=-0.250000
 permanent=0,minPickupAge=14
 noFlip=0
 sideAccess=0
