@@ -1,5 +1,5 @@
 id=2338
-Fractional Distiller with Emtpy Tank
+Fractional Distiller with Empty Tank
 containable=0
 containSize=1.000000,vertSlotRot=-0.195000
 permanent=1,minPickupAge=3
