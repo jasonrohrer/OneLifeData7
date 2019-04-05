@@ -1,5 +1,5 @@
-id=2879
-Undyed Long Dress
+id=2942
+Yellow Long Dress
 containable=1
 containSize=2.000000,vertSlotRot=-0.250000
 permanent=0,minPickupAge=3
@@ -23,7 +23,7 @@ clothing=t
 clothingOffset=2.000000,-18.000000
 deadlyDistance=0
 useDistance=1
-sounds=153:0.250000,286:0.101010,-1:0.0,-1:0.0
+sounds=941:0.250000,286:0.101010,-1:0.0,-1:0.0
 creationSoundInitialOnly=0
 creationSoundForce=0
 numSlots=0#timeStretch=1.000000
@@ -34,7 +34,7 @@ spriteID=2704
 pos=15.000000,-1.000000
 rot=0.000000
 hFlip=0
-color=1.000000,1.000000,1.000000
+color=1.000000,0.702128,0.000000
 ageRange=-1.000000,-1.000000
 parent=-1
 invisHolding=0,invisWorn=2,behindSlots=0
@@ -42,7 +42,7 @@ spriteID=2702
 pos=-20.000000,1.000000
 rot=0.000000
 hFlip=0
-color=1.000000,1.000000,1.000000
+color=1.000000,0.702128,0.000000
 ageRange=-1.000000,-1.000000
 parent=-1
 invisHolding=0,invisWorn=2,behindSlots=0
@@ -50,7 +50,7 @@ spriteID=2682
 pos=-4.000000,25.000000
 rot=0.000000
 hFlip=0
-color=1.000000,1.000000,1.000000
+color=1.000000,0.702128,0.000000
 ageRange=-1.000000,-1.000000
 parent=-1
 invisHolding=0,invisWorn=2,behindSlots=0
@@ -58,7 +58,7 @@ spriteID=2689
 pos=3.000000,-31.000000
 rot=0.000000
 hFlip=0
-color=1.000000,1.000000,1.000000
+color=1.000000,0.702128,0.000000
 ageRange=-1.000000,-1.000000
 parent=-1
 invisHolding=0,invisWorn=1,behindSlots=0
