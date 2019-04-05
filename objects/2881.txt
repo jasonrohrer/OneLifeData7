@@ -1,7 +1,7 @@
 id=2881
 Undyed Short Trousers
-containable=0
-containSize=1.000000,vertSlotRot=0.000000
+containable=1
+containSize=2.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3
 noFlip=0
 sideAccess=0
@@ -18,12 +18,12 @@ floor=0
 floorHugging=0
 foodValue=0
 speedMult=1.000000
-heldOffset=0.000000,0.000000
+heldOffset=17.000000,14.000000
 clothing=b
-clothingOffset=1.000000,21.000000
+clothingOffset=2.000000,37.000000
 deadlyDistance=0
 useDistance=1
-sounds=-1:0.0,-1:0.0,-1:0.0,-1:0.0
+sounds=153:0.250000,286:0.101010,-1:0.0,-1:0.0
 creationSoundInitialOnly=0
 creationSoundForce=0
 numSlots=0#timeStretch=1.000000
@@ -31,7 +31,7 @@ slotSize=1.000000
 slotsLocked=0
 numSprites=1
 spriteID=2680
-pos=6.000000,-18.000000
+pos=6.000000,-34.000000
 rot=0.000000
 hFlip=0
 color=1.000000,1.000000,1.000000
@@ -45,4 +45,4 @@ frontFootIndex=-1
 numUses=1,1.000000
 useVanishIndex=-1
 useAppearIndex=-1
-pixHeight=5
+pixHeight=0

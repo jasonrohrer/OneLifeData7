@@ -1,0 +1,1 @@
+CloakNoShadow 0 20 -51
