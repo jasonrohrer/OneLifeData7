@@ -9,7 +9,7 @@ heldInHand=0
 blocksWalking=0,leftBlockingRadius=0,rightBlockingRadius=0,drawBehindPlayer=0
 mapChance=0.000000#biomes_0
 heatValue=0
-rValue=0.650000
+rValue=0.500000
 person=0,noSpawn=0
 male=0
 deathMarker=0
