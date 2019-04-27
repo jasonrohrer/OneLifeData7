@@ -1,5 +1,6 @@
 parentID=320
 pattern
-numObjects=2
+numObjects=3
 2510
 2520
+3004
