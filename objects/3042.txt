@@ -1,5 +1,5 @@
-id=2387
-Unpowered Pump Head# from shallow
+id=3042
+Unpowered Pump Head# from deep
 containable=0
 containSize=1.000000,vertSlotRot=-0.195000
 permanent=1,minPickupAge=3
