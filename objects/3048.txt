@@ -1,6 +1,6 @@
 id=3048
-Bloody War Sword# otherFamilyOnly
-containable=1
+Bloody War Sword
+containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=12
 noFlip=0
@@ -21,7 +21,7 @@ speedMult=1.000000
 heldOffset=25.000000,-5.000000
 clothing=n
 clothingOffset=-27.000000,72.000000
-deadlyDistance=1
+deadlyDistance=0
 useDistance=1
 sounds=1036:1.000000,-1:0.0,-1:0.0,-1:0.0
 creationSoundInitialOnly=0
