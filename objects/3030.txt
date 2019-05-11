@@ -1,5 +1,5 @@
 id=3030
-Natural Spring# gridPlacement100 evePrimaryLoc
+Natural Spring# gridPlacement80 evePrimaryLoc
 containable=0
 containSize=1.000000,vertSlotRot=-0.250000
 permanent=1,minPickupAge=3
