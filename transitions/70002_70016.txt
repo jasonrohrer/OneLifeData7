@@ -1,0 +1,3 @@
+0 70017 0 0.000000 0.000000 0 1 0 1
+
+##gold coins (3) + pile of coins (9) = nothing + pile of coins (12) REVERSE

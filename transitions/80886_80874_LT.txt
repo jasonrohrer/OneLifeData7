@@ -1,0 +1,3 @@
+80897 80873 0 0.000000 0.000000 0 0 0 1
+
+##last glass of beer from distillery, now it's empty

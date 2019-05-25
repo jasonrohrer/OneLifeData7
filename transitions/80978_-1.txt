@@ -1,0 +1,3 @@
+239 80880 0 0.000000 0.000000 0 0 0 1
+
+##dropping cold copper ingot with tongs

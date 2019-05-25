@@ -1,0 +1,3 @@
+0 80976 0 0.000000 0.000000 0 0 0 1
+
+##copper tube + stack of 4 copper plates = ready to build a distillery

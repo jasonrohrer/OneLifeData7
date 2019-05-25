@@ -1,0 +1,3 @@
+80897 80874 0 0.000000 0.000000 0 0 0 1
+
+##mason jar on full distillery = mason jar of beer + full distillery

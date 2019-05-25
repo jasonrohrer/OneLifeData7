@@ -1,0 +1,3 @@
+0 70002 0 0.000000 0.000000 0 0 0 1
+
+##gold coin + Gold Coins (2) = empty hand + Gold Coins (3)

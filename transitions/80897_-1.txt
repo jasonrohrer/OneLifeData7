@@ -1,0 +1,3 @@
+80961 0 0 0.000000 0.000000 0 0 0 1
+
+##eating transition, full glass of beer becomes a trippy beer after one sip

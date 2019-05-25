@@ -1,0 +1,3 @@
+70098 70139 0 0.000000 0.000000 0 0 0 1
+
+##caravan dromedary #leading + fence = bridle + hitched caravan dromedary #stopped

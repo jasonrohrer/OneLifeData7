@@ -1,0 +1,3 @@
+80962 0 0 0.000000 0.000000 0 0 0 1
+
+##getting drunker is possible. This is remap beer 2 to remap beer 3

@@ -1,0 +1,3 @@
+0 70095 0 0.000000 0.000000 0 0 0 1
+
+##bridle + yew shaft = caravan yoke
