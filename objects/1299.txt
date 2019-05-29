@@ -1,8 +1,10 @@
 id=1299
 Bowl of Limed Corn
-containable=0
-containSize=1.000000,vertSlotRot=0.000000
+containable=1
+containSize=2.000000,vertSlotRot=-0.250000
 permanent=0,minPickupAge=3
+noFlip=0
+sideAccess=0
 heldInHand=0
 blocksWalking=0,leftBlockingRadius=0,rightBlockingRadius=0,drawBehindPlayer=0
 mapChance=0.000000#biomes_0
@@ -23,6 +25,7 @@ deadlyDistance=0
 useDistance=1
 sounds=270:0.070707,-1:0.0,-1:0.0,-1:0.0
 creationSoundInitialOnly=0
+creationSoundForce=0
 numSlots=0#timeStretch=1.000000
 slotSize=1.000000
 slotsLocked=0
