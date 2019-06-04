@@ -3,11 +3,13 @@ Big Sign on Ancient Stone Wall
 containable=0
 containSize=1.000000,vertSlotRot=-0.250000
 permanent=1,minPickupAge=3
+noFlip=0
+sideAccess=0
 heldInHand=0
 blocksWalking=1,leftBlockingRadius=0,rightBlockingRadius=0,drawBehindPlayer=0
 mapChance=0.000000#biomes_0
 heatValue=0
-rValue=0.000000
+rValue=0.900000
 person=0,noSpawn=0
 male=0
 deathMarker=0
@@ -23,6 +25,7 @@ deadlyDistance=0
 useDistance=1
 sounds=-1:0.0,147:0.250000,-1:0.0,-1:0.0
 creationSoundInitialOnly=0
+creationSoundForce=0
 numSlots=27#timeStretch=1.000000
 slotSize=0.500000
 slotsLocked=0
