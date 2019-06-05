@@ -1,5 +1,5 @@
 id=2405
-Snowball Splat# sick emot_8_10
+Snowball Splat# no_replace emot_8_10
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3
