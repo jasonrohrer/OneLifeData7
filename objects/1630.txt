@@ -3,6 +3,8 @@ Semi-tame Wolf
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3
+noFlip=0
+sideAccess=0
 heldInHand=0
 blocksWalking=0,leftBlockingRadius=0,rightBlockingRadius=0,drawBehindPlayer=0
 mapChance=0.000000#biomes_3
@@ -23,6 +25,7 @@ deadlyDistance=1
 useDistance=1
 sounds=-1:0.0,-1:0.0,-1:0.0,-1:0.0
 creationSoundInitialOnly=0
+creationSoundForce=0
 numSlots=0#timeStretch=1.000000
 slotSize=1.000000
 slotsLocked=0
@@ -35,6 +38,7 @@ color=1.000000,1.000000,1.000000
 ageRange=-1.000000,-1.000000
 parent=-1
 invisHolding=0,invisWorn=0,behindSlots=0
+invisCont=0
 spriteID=72
 pos=23.000000,-20.000000
 rot=0.000000
@@ -43,6 +47,7 @@ color=1.000000,1.000000,1.000000
 ageRange=-1.000000,-1.000000
 parent=-1
 invisHolding=0,invisWorn=0,behindSlots=0
+invisCont=0
 spriteID=74
 pos=2.000000,-17.000000
 rot=0.000000
@@ -51,6 +56,7 @@ color=1.000000,1.000000,1.000000
 ageRange=-1.000000,-1.000000
 parent=-1
 invisHolding=0,invisWorn=0,behindSlots=0
+invisCont=0
 spriteID=756
 pos=25.000000,-19.000000
 rot=0.000000
@@ -59,6 +65,7 @@ color=1.000000,1.000000,1.000000
 ageRange=-1.000000,-1.000000
 parent=4
 invisHolding=0,invisWorn=0,behindSlots=0
+invisCont=0
 spriteID=755
 pos=19.000000,3.000000
 rot=0.000000
@@ -67,6 +74,7 @@ color=1.000000,1.000000,1.000000
 ageRange=-1.000000,-1.000000
 parent=11
 invisHolding=0,invisWorn=0,behindSlots=0
+invisCont=0
 spriteID=757
 pos=32.000000,-19.000000
 rot=0.000000
@@ -75,6 +83,7 @@ color=1.000000,1.000000,1.000000
 ageRange=-1.000000,-1.000000
 parent=6
 invisHolding=0,invisWorn=0,behindSlots=0
+invisCont=0
 spriteID=754
 pos=29.000000,2.000000
 rot=0.000000
@@ -83,6 +92,7 @@ color=1.000000,1.000000,1.000000
 ageRange=-1.000000,-1.000000
 parent=16
 invisHolding=0,invisWorn=0,behindSlots=0
+invisCont=0
 spriteID=765
 pos=-19.000000,-18.000000
 rot=0.000000
@@ -91,6 +101,7 @@ color=1.000000,1.000000,1.000000
 ageRange=-1.000000,-1.000000
 parent=8
 invisHolding=0,invisWorn=0,behindSlots=0
+invisCont=0
 spriteID=763
 pos=-22.000000,-9.000000
 rot=0.000000
@@ -99,6 +110,7 @@ color=1.000000,1.000000,1.000000
 ageRange=-1.000000,-1.000000
 parent=9
 invisHolding=0,invisWorn=0,behindSlots=0
+invisCont=0
 spriteID=761
 pos=-16.000000,11.000000
 rot=0.000000
@@ -107,6 +119,7 @@ color=1.000000,1.000000,1.000000
 ageRange=-1.000000,-1.000000
 parent=10
 invisHolding=0,invisWorn=0,behindSlots=0
+invisCont=0
 spriteID=758
 pos=-24.000000,24.000000
 rot=0.000000
@@ -115,6 +128,7 @@ color=1.000000,1.000000,1.000000
 ageRange=-1.000000,-1.000000
 parent=17
 invisHolding=0,invisWorn=0,behindSlots=0
+invisCont=0
 spriteID=753
 pos=26.000000,17.000000
 rot=0.000000
@@ -123,6 +137,7 @@ color=1.000000,1.000000,1.000000
 ageRange=-1.000000,-1.000000
 parent=17
 invisHolding=0,invisWorn=0,behindSlots=0
+invisCont=0
 spriteID=764
 pos=-23.000000,-22.000000
 rot=0.000000
@@ -131,6 +146,7 @@ color=1.000000,1.000000,1.000000
 ageRange=-1.000000,-1.000000
 parent=13
 invisHolding=0,invisWorn=0,behindSlots=0
+invisCont=0
 spriteID=762
 pos=-30.000000,-12.000000
 rot=0.000000
@@ -139,6 +155,7 @@ color=1.000000,1.000000,1.000000
 ageRange=-1.000000,-1.000000
 parent=14
 invisHolding=0,invisWorn=0,behindSlots=0
+invisCont=0
 spriteID=760
 pos=-20.000000,8.000000
 rot=0.000000
@@ -147,6 +164,7 @@ color=1.000000,1.000000,1.000000
 ageRange=-1.000000,-1.000000
 parent=15
 invisHolding=0,invisWorn=0,behindSlots=0
+invisCont=0
 spriteID=759
 pos=-30.000000,23.000000
 rot=0.000000
@@ -155,6 +173,7 @@ color=1.000000,1.000000,1.000000
 ageRange=-1.000000,-1.000000
 parent=17
 invisHolding=0,invisWorn=0,behindSlots=0
+invisCont=0
 spriteID=752
 pos=36.000000,16.000000
 rot=0.000000
@@ -163,6 +182,7 @@ color=1.000000,1.000000,1.000000
 ageRange=-1.000000,-1.000000
 parent=17
 invisHolding=0,invisWorn=0,behindSlots=0
+invisCont=0
 spriteID=748
 pos=5.000000,22.000000
 rot=0.000000
@@ -171,6 +191,7 @@ color=1.000000,1.000000,1.000000
 ageRange=-1.000000,-1.000000
 parent=-1
 invisHolding=0,invisWorn=0,behindSlots=0
+invisCont=0
 spriteID=751
 pos=38.000000,25.000000
 rot=0.000000
@@ -179,6 +200,7 @@ color=1.000000,1.000000,1.000000
 ageRange=-1.000000,-1.000000
 parent=17
 invisHolding=0,invisWorn=0,behindSlots=0
+invisCont=0
 spriteID=750
 pos=-33.000000,32.000000
 rot=0.000000
@@ -187,11 +209,12 @@ color=1.000000,1.000000,1.000000
 ageRange=-1.000000,-1.000000
 parent=17
 invisHolding=0,invisWorn=0,behindSlots=0
+invisCont=0
 headIndex=-1
 bodyIndex=-1
 backFootIndex=-1
 frontFootIndex=-1
-numUses=5,0.025000
+numUses=5,0.016000
 useVanishIndex=-1
 useAppearIndex=-1
 pixHeight=55
