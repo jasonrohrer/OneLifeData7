@@ -1,0 +1,1 @@
+skeletonHorseBody 0 39 -10
