@@ -1,3 +1,1 @@
 86626 519 0 0.000000 0.000000 0 0 0 1 0 0
-
-##food burner now preserved when lighting cheroots

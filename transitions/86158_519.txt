@@ -1,3 +1,1 @@
 86706 519 0 0.000000 0.000000 0 0 0 1 0 0
-
-##food burner now preserved for unlit cheroot 2 being lit
