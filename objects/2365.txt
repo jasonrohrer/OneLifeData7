@@ -1,7 +1,7 @@
 id=2365
 Diesel Engine
 containable=1
-containSize=1.000000,vertSlotRot=-0.250000
+containSize=2.000000,vertSlotRot=-0.250000
 permanent=0,minPickupAge=15
 noFlip=1
 sideAccess=0
