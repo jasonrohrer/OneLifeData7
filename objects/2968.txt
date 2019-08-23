@@ -1,5 +1,5 @@
 id=2968
-Proposed Property Fence# groundOnly
+Proposed Property Fence# groundOnly +verticalA
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3
@@ -38,6 +38,7 @@ color=1.000000,1.000000,1.000000
 ageRange=-1.000000,-1.000000
 parent=-1
 invisHolding=0,invisWorn=0,behindSlots=0
+invisCont=0
 headIndex=-1
 bodyIndex=-1
 backFootIndex=-1
