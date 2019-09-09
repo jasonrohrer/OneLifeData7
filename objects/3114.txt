@@ -1,5 +1,5 @@
 id=3114
-Property Fence with Unsigned Notice
+Property Fence with Unsigned Notice# +wall
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

@@ -1,5 +1,5 @@
 id=2959
-Property Fence# +horizontalD
+Property Fence# +horizontalD +wall
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

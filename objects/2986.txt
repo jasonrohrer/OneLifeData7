@@ -1,5 +1,5 @@
 id=2986
-Shaky Property Fence# +verticalC
+Shaky Property Fence# +verticalC +wall
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

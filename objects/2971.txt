@@ -1,5 +1,5 @@
 id=2971
-Approved Property Fence# +verticalB
+Approved Property Fence# +verticalB +wall
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3
