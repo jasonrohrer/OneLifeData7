@@ -1,7 +1,7 @@
 id=3052
 Basket of Baby Bones# origGrave
-containable=1
-containSize=2.000000,vertSlotRot=-0.250000
+containable=0
+containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3
 noFlip=0
 sideAccess=0
