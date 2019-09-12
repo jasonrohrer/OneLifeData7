@@ -3,8 +3,10 @@ Tule Stumps with Basket
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3
+noFlip=0
+sideAccess=0
 heldInHand=0
-blocksWalking=0,leftBlockingRadius=0,rightBlockingRadius=0,drawBehindPlayer=0
+blocksWalking=1,leftBlockingRadius=0,rightBlockingRadius=0,drawBehindPlayer=0
 mapChance=0.000000#biomes_0
 heatValue=0
 rValue=0.000000
@@ -23,6 +25,7 @@ deadlyDistance=0
 useDistance=1
 sounds=74:0.250000,49:0.250000,-1:0.0,-1:0.0
 creationSoundInitialOnly=1
+creationSoundForce=0
 numSlots=3#timeStretch=1.000000
 slotSize=1.000000
 slotsLocked=0
@@ -38,6 +41,7 @@ color=1.000000,1.000000,1.000000
 ageRange=-1.000000,-1.000000
 parent=-1
 invisHolding=0,invisWorn=0,behindSlots=1
+invisCont=0
 spriteID=382
 pos=3.000000,-3.000000
 rot=0.000000
@@ -46,6 +50,7 @@ color=1.000000,1.000000,1.000000
 ageRange=-1.000000,-1.000000
 parent=-1
 invisHolding=0,invisWorn=0,behindSlots=1
+invisCont=0
 spriteID=550
 pos=0.000000,-22.000000
 rot=0.000000
@@ -54,6 +59,7 @@ color=1.000000,1.000000,1.000000
 ageRange=-1.000000,-1.000000
 parent=-1
 invisHolding=0,invisWorn=0,behindSlots=1
+invisCont=0
 spriteID=549
 pos=-1.000000,-33.000000
 rot=0.000000
@@ -62,6 +68,7 @@ color=1.000000,1.000000,1.000000
 ageRange=-1.000000,-1.000000
 parent=-1
 invisHolding=0,invisWorn=0,behindSlots=0
+invisCont=0
 headIndex=-1
 bodyIndex=-1
 backFootIndex=-1
