@@ -18,7 +18,7 @@ floor=0
 floorHugging=0
 foodValue=0
 speedMult=1.000000
-heldOffset=14.000000,18.000000
+heldOffset=17.000000,18.000000
 clothing=t
 clothingOffset=-2.000000,43.000000
 deadlyDistance=0
@@ -38,6 +38,7 @@ color=0.082353,0.403922,0.811765
 ageRange=-1.000000,-1.000000
 parent=-1
 invisHolding=0,invisWorn=2,behindSlots=0
+invisCont=0
 spriteID=2689
 pos=3.000000,-31.000000
 rot=0.000000
@@ -46,6 +47,7 @@ color=0.082353,0.403922,0.811765
 ageRange=-1.000000,-1.000000
 parent=-1
 invisHolding=0,invisWorn=1,behindSlots=0
+invisCont=0
 headIndex=-1
 bodyIndex=-1
 backFootIndex=-1
