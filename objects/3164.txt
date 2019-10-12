@@ -1,5 +1,5 @@
-id=2222
-Newcomen Pump with Charcoal
+id=3164
+Newcomen Pump with Tank
 containable=0
 containSize=1.000000,vertSlotRot=-0.195000
 permanent=1,minPickupAge=3
@@ -23,13 +23,13 @@ clothing=n
 clothingOffset=0.000000,0.000000
 deadlyDistance=0
 useDistance=1
-sounds=380:0.250000,-1:0.0,-1:0.0,-1:0.0
+sounds=1523:0.250000,-1:0.0,-1:0.0,-1:0.0
 creationSoundInitialOnly=1
 creationSoundForce=0
 numSlots=0#timeStretch=1.000000
 slotSize=1.000000
 slotsLocked=0
-numSprites=35
+numSprites=36
 spriteID=1003
 pos=143.000000,-8.000000
 rot=0.000000
@@ -300,6 +300,15 @@ ageRange=-1.000000,-1.000000
 parent=28
 invisHolding=0,invisWorn=0,behindSlots=0
 invisCont=0
+spriteID=2199
+pos=26.000000,45.000000
+rot=-0.250000
+hFlip=0
+color=1.000000,1.000000,1.000000
+ageRange=-1.000000,-1.000000
+parent=-1
+invisHolding=0,invisWorn=0,behindSlots=0
+invisCont=0
 spriteID=2137
 pos=1.000000,14.000000
 rot=0.000000
@@ -350,6 +359,6 @@ bodyIndex=-1
 backFootIndex=-1
 frontFootIndex=-1
 numUses=5,0.100000
-useVanishIndex=3,31,32,33,34
+useVanishIndex=3,32,33,34,35
 useAppearIndex=-1
 pixHeight=224
