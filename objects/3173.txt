@@ -1,5 +1,5 @@
-id=3171
-Wet Kerosene Newcomen Pump# burner added low
+id=3173
+Wet Kerosene Newcomen Pump# burner added high
 containable=0
 containSize=1.000000,vertSlotRot=-0.195000
 permanent=1,minPickupAge=3
@@ -274,7 +274,7 @@ parent=24
 invisHolding=0,invisWorn=0,behindSlots=0
 invisCont=0
 spriteID=411
-pos=0.000000,42.000000
+pos=0.000000,47.000000
 rot=0.500000
 hFlip=0
 color=1.000000,1.000000,1.000000
