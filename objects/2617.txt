@@ -1,7 +1,7 @@
 id=2617
 Partial Marconi Receiver# 4
-containable=0
-containSize=1.000000,vertSlotRot=0.000000
+containable=1
+containSize=2.000000,vertSlotRot=-0.250000
 permanent=0,minPickupAge=3
 noFlip=0
 sideAccess=0
@@ -38,6 +38,7 @@ color=1.000000,1.000000,1.000000
 ageRange=-1.000000,-1.000000
 parent=-1
 invisHolding=0,invisWorn=0,behindSlots=0
+invisCont=0
 spriteID=2451
 pos=-1.000000,-36.000000
 rot=0.000000
@@ -46,6 +47,7 @@ color=0.098592,0.098592,0.098592
 ageRange=-1.000000,-1.000000
 parent=5
 invisHolding=0,invisWorn=0,behindSlots=0
+invisCont=0
 spriteID=2438
 pos=-2.000000,-36.000000
 rot=0.000000
@@ -54,6 +56,7 @@ color=1.000000,1.000000,1.000000
 ageRange=-1.000000,-1.000000
 parent=5
 invisHolding=0,invisWorn=0,behindSlots=0
+invisCont=0
 spriteID=2432
 pos=12.000000,-36.000000
 rot=0.000000
@@ -62,6 +65,7 @@ color=1.000000,1.000000,1.000000
 ageRange=-1.000000,-1.000000
 parent=5
 invisHolding=0,invisWorn=0,behindSlots=0
+invisCont=0
 spriteID=2431
 pos=-11.000000,-35.000000
 rot=0.000000
@@ -70,6 +74,7 @@ color=1.000000,1.000000,1.000000
 ageRange=-1.000000,-1.000000
 parent=5
 invisHolding=0,invisWorn=0,behindSlots=0
+invisCont=0
 spriteID=2430
 pos=-1.000000,-33.000000
 rot=0.000000
@@ -78,6 +83,7 @@ color=1.000000,1.000000,1.000000
 ageRange=-1.000000,-1.000000
 parent=-1
 invisHolding=0,invisWorn=0,behindSlots=0
+invisCont=0
 spriteID=2390
 pos=-12.000000,-30.000000
 rot=0.000000
@@ -86,6 +92,7 @@ color=1.000000,1.000000,1.000000
 ageRange=-1.000000,-1.000000
 parent=-1
 invisHolding=0,invisWorn=0,behindSlots=0
+invisCont=0
 spriteID=2390
 pos=18.000000,-31.000000
 rot=0.000000
@@ -94,6 +101,7 @@ color=1.000000,1.000000,1.000000
 ageRange=-1.000000,-1.000000
 parent=-1
 invisHolding=0,invisWorn=0,behindSlots=0
+invisCont=0
 spriteID=2428
 pos=3.000000,-22.000000
 rot=0.000000
@@ -102,6 +110,7 @@ color=1.000000,1.000000,1.000000
 ageRange=-1.000000,-1.000000
 parent=9
 invisHolding=0,invisWorn=0,behindSlots=0
+invisCont=0
 spriteID=2441
 pos=2.000000,-24.000000
 rot=0.000000
@@ -110,6 +119,7 @@ color=1.000000,1.000000,1.000000
 ageRange=-1.000000,-1.000000
 parent=-1
 invisHolding=0,invisWorn=0,behindSlots=0
+invisCont=0
 spriteID=2440
 pos=-18.000000,-14.000000
 rot=0.000000
@@ -118,6 +128,7 @@ color=0.000000,0.000000,0.000000
 ageRange=-1.000000,-1.000000
 parent=13
 invisHolding=0,invisWorn=0,behindSlots=0
+invisCont=0
 spriteID=2447
 pos=-17.000000,-7.000000
 rot=0.000000
@@ -126,6 +137,7 @@ color=0.281690,0.281690,0.281690
 ageRange=-1.000000,-1.000000
 parent=13
 invisHolding=0,invisWorn=0,behindSlots=0
+invisCont=0
 spriteID=2449
 pos=-18.000000,-12.000000
 rot=0.000000
@@ -134,6 +146,7 @@ color=0.000000,0.077762,0.098592
 ageRange=-1.000000,-1.000000
 parent=13
 invisHolding=0,invisWorn=0,behindSlots=0
+invisCont=0
 spriteID=2427
 pos=-20.000000,-10.000000
 rot=0.000000
@@ -142,6 +155,7 @@ color=1.000000,1.000000,1.000000
 ageRange=-1.000000,-1.000000
 parent=-1
 invisHolding=0,invisWorn=0,behindSlots=0
+invisCont=0
 spriteID=2439
 pos=-20.000000,-25.000000
 rot=0.000000
@@ -150,6 +164,7 @@ color=1.000000,1.000000,1.000000
 ageRange=-1.000000,-1.000000
 parent=13
 invisHolding=0,invisWorn=0,behindSlots=0
+invisCont=0
 spritesAdditiveBlend=1,11,12
 headIndex=-1
 bodyIndex=-1
