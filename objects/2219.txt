@@ -1,7 +1,7 @@
 id=2219
 Crude Piston with Seal
 containable=1
-containSize=2.000000,vertSlotRot=-0.250000
+containSize=2.000000,vertSlotRot=-0.500000
 permanent=0,minPickupAge=3
 noFlip=0
 sideAccess=0
@@ -38,6 +38,7 @@ color=1.000000,1.000000,1.000000
 ageRange=-1.000000,-1.000000
 parent=1
 invisHolding=0,invisWorn=0,behindSlots=0
+invisCont=0
 spriteID=2145
 pos=-1.000000,-9.000000
 rot=0.000000
@@ -46,6 +47,7 @@ color=1.000000,1.000000,1.000000
 ageRange=-1.000000,-1.000000
 parent=-1
 invisHolding=0,invisWorn=0,behindSlots=0
+invisCont=0
 headIndex=-1
 bodyIndex=-1
 backFootIndex=-1
