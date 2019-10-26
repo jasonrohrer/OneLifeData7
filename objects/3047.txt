@@ -1,5 +1,5 @@
 id=3047
-War Sword# otherFamilyOnly maxPickupAge_55
+War Sword# otherFamilyOnly maxPickupAge_55 +tool
 containable=1
 containSize=2.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=12

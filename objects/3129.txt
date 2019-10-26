@@ -1,5 +1,5 @@
 id=3129
-Ready Diesel Mining Pick
+Ready Diesel Mining Pick# +tool
 containable=0
 containSize=1.000000,vertSlotRot=-0.195000
 permanent=1,minPickupAge=3

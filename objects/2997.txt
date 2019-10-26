@@ -1,5 +1,5 @@
 id=2997
-Empty Camera
+Empty Camera# +tool
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3
@@ -38,6 +38,7 @@ color=1.000000,1.000000,1.000000
 ageRange=-1.000000,-1.000000
 parent=-1
 invisHolding=0,invisWorn=0,behindSlots=0
+invisCont=0
 spriteID=2757
 pos=5.000000,31.000000
 rot=0.000000
@@ -46,6 +47,7 @@ color=1.000000,1.000000,1.000000
 ageRange=-1.000000,-1.000000
 parent=-1
 invisHolding=0,invisWorn=0,behindSlots=0
+invisCont=0
 spriteID=72
 pos=-21.000000,-42.000000
 rot=0.000000
@@ -54,6 +56,7 @@ color=1.000000,1.000000,1.000000
 ageRange=-1.000000,-1.000000
 parent=-1
 invisHolding=0,invisWorn=0,behindSlots=0
+invisCont=0
 spriteID=2442
 pos=21.000000,40.000000
 rot=0.250000
@@ -62,6 +65,7 @@ color=0.000000,0.077762,0.098592
 ageRange=-1.000000,-1.000000
 parent=4
 invisHolding=0,invisWorn=0,behindSlots=0
+invisCont=0
 spriteID=2427
 pos=20.000000,42.000000
 rot=0.250000
@@ -70,6 +74,7 @@ color=1.000000,1.000000,1.000000
 ageRange=-1.000000,-1.000000
 parent=-1
 invisHolding=0,invisWorn=0,behindSlots=0
+invisCont=0
 spriteID=2447
 pos=21.000000,43.000000
 rot=0.000000
@@ -78,6 +83,7 @@ color=0.281690,0.281690,0.281690
 ageRange=-1.000000,-1.000000
 parent=-1
 invisHolding=0,invisWorn=0,behindSlots=0
+invisCont=0
 spriteID=2756
 pos=10.000000,28.000000
 rot=0.000000
@@ -86,6 +92,7 @@ color=1.000000,1.000000,1.000000
 ageRange=-1.000000,-1.000000
 parent=-1
 invisHolding=0,invisWorn=0,behindSlots=0
+invisCont=0
 spriteID=2755
 pos=-1.000000,31.000000
 rot=0.000000
@@ -94,6 +101,7 @@ color=1.000000,1.000000,1.000000
 ageRange=-1.000000,-1.000000
 parent=-1
 invisHolding=0,invisWorn=0,behindSlots=0
+invisCont=0
 spriteID=2754
 pos=3.000000,42.000000
 rot=0.000000
@@ -102,6 +110,7 @@ color=1.000000,1.000000,1.000000
 ageRange=-1.000000,-1.000000
 parent=-1
 invisHolding=0,invisWorn=0,behindSlots=0
+invisCont=0
 spriteID=1667
 pos=2.000000,45.000000
 rot=0.000000
@@ -110,6 +119,7 @@ color=1.000000,1.000000,1.000000
 ageRange=-1.000000,-1.000000
 parent=-1
 invisHolding=0,invisWorn=0,behindSlots=0
+invisCont=0
 spriteID=73
 pos=22.000000,-43.000000
 rot=0.000000
@@ -118,6 +128,7 @@ color=1.000000,1.000000,1.000000
 ageRange=-1.000000,-1.000000
 parent=-1
 invisHolding=0,invisWorn=0,behindSlots=0
+invisCont=0
 spriteID=797
 pos=2.000000,43.000000
 rot=0.000000
@@ -126,6 +137,7 @@ color=1.000000,1.000000,1.000000
 ageRange=-1.000000,-1.000000
 parent=-1
 invisHolding=0,invisWorn=0,behindSlots=0
+invisCont=0
 spritesAdditiveBlend=3,5
 headIndex=-1
 bodyIndex=-1
