@@ -1,5 +1,5 @@
-id=3191
-Eastward Gradient Dry Spring
+id=3205
+Westward Gradient Dry Spring
 containable=0
 containSize=1.000000,vertSlotRot=-0.250000
 permanent=1,minPickupAge=3
@@ -31,7 +31,7 @@ slotSize=1.000000
 slotsLocked=0
 numSprites=4
 spriteID=352
-pos=59.000000,5.000000
+pos=-49.000000,5.000000
 rot=0.000000
 hFlip=0
 color=1.000000,1.000000,1.000000
@@ -40,7 +40,7 @@ parent=-1
 invisHolding=0,invisWorn=0,behindSlots=0
 invisCont=0
 spriteID=351
-pos=49.000000,7.000000
+pos=-59.000000,4.000000
 rot=0.000000
 hFlip=0
 color=1.000000,1.000000,1.000000
