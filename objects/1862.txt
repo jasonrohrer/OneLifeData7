@@ -3,6 +3,8 @@ Shallow Well# was empty
 containable=0
 containSize=1.000000,vertSlotRot=-0.195000
 permanent=1,minPickupAge=3
+noFlip=0
+sideAccess=0
 heldInHand=0
 blocksWalking=1,leftBlockingRadius=0,rightBlockingRadius=0,drawBehindPlayer=0
 mapChance=0.000000#biomes_0
@@ -23,6 +25,7 @@ deadlyDistance=0
 useDistance=1
 sounds=429:0.250000,429:0.250000,-1:0.0,-1:0.0
 creationSoundInitialOnly=1
+creationSoundForce=0
 numSlots=0#timeStretch=1.000000
 slotSize=1.000000
 slotsLocked=0
@@ -35,6 +38,7 @@ color=1.000000,1.000000,1.000000
 ageRange=-1.000000,-1.000000
 parent=-1
 invisHolding=0,invisWorn=0,behindSlots=0
+invisCont=0
 spriteID=1138
 pos=33.000000,7.000000
 rot=0.000000
@@ -43,6 +47,7 @@ color=1.000000,1.000000,1.000000
 ageRange=-1.000000,-1.000000
 parent=-1
 invisHolding=0,invisWorn=0,behindSlots=0
+invisCont=0
 spriteID=1135
 pos=7.000000,20.000000
 rot=-0.250000
@@ -51,6 +56,7 @@ color=1.000000,1.000000,1.000000
 ageRange=-1.000000,-1.000000
 parent=-1
 invisHolding=0,invisWorn=0,behindSlots=0
+invisCont=0
 spriteID=1136
 pos=30.000000,38.000000
 rot=-0.250000
@@ -59,6 +65,7 @@ color=1.000000,1.000000,1.000000
 ageRange=-1.000000,-1.000000
 parent=-1
 invisHolding=0,invisWorn=0,behindSlots=0
+invisCont=0
 spriteID=1138
 pos=-3.000000,37.000000
 rot=-0.250000
@@ -67,6 +74,7 @@ color=1.000000,1.000000,1.000000
 ageRange=-1.000000,-1.000000
 parent=-1
 invisHolding=0,invisWorn=0,behindSlots=0
+invisCont=0
 spriteID=1137
 pos=-15.000000,58.000000
 rot=-0.250000
@@ -75,11 +83,12 @@ color=1.000000,1.000000,1.000000
 ageRange=-1.000000,-1.000000
 parent=-1
 invisHolding=0,invisWorn=0,behindSlots=0
+invisCont=0
 headIndex=-1
 bodyIndex=-1
 backFootIndex=-1
 frontFootIndex=-1
-numUses=5,0.060000
+numUses=5,0.030000
 useVanishIndex=1,2,3,4,5
 useAppearIndex=-1
 pixHeight=73
