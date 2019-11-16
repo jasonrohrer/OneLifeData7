@@ -1,5 +1,5 @@
-id=2220
-Dry Newcomen Pump
+id=3262
+Dry Newcomen Pump with Torn Seal
 containable=0
 containSize=1.000000,vertSlotRot=-0.195000
 permanent=1,minPickupAge=3
@@ -23,13 +23,13 @@ clothing=n
 clothingOffset=0.000000,0.000000
 deadlyDistance=0
 useDistance=1
-sounds=74:0.250000,-1:0.0,-1:0.0,-1:0.0
+sounds=-1:0.0,-1:0.0,-1:0.0,-1:0.0
 creationSoundInitialOnly=0
 creationSoundForce=0
 numSlots=0#timeStretch=1.000000
 slotSize=1.000000
 slotsLocked=0
-numSprites=29
+numSprites=30
 spriteID=2138
 pos=3.000000,58.000000
 rot=0.000000
@@ -54,7 +54,7 @@ rot=0.000000
 hFlip=0
 color=1.000000,1.000000,1.000000
 ageRange=-1.000000,-1.000000
-parent=21
+parent=22
 invisHolding=0,invisWorn=0,behindSlots=0
 invisCont=0
 spriteID=2143
@@ -126,7 +126,7 @@ rot=0.000000
 hFlip=0
 color=1.000000,1.000000,1.000000
 ageRange=-1.000000,-1.000000
-parent=21
+parent=22
 invisHolding=0,invisWorn=0,behindSlots=0
 invisCont=0
 spriteID=2158
@@ -219,6 +219,15 @@ ageRange=-1.000000,-1.000000
 parent=19
 invisHolding=0,invisWorn=0,behindSlots=0
 invisCont=0
+spriteID=2147
+pos=161.000000,109.000000
+rot=0.250000
+hFlip=0
+color=1.000000,1.000000,1.000000
+ageRange=-1.000000,-1.000000
+parent=-1
+invisHolding=0,invisWorn=0,behindSlots=0
+invisCont=0
 spriteID=2140
 pos=151.000000,95.000000
 rot=0.000000
@@ -243,7 +252,7 @@ rot=0.000000
 hFlip=0
 color=1.000000,1.000000,1.000000
 ageRange=-1.000000,-1.000000
-parent=22
+parent=23
 invisHolding=0,invisWorn=0,behindSlots=0
 invisCont=0
 spriteID=2137
@@ -296,6 +305,6 @@ bodyIndex=-1
 backFootIndex=-1
 frontFootIndex=-1
 numUses=5,0.100000
-useVanishIndex=1,25,26,27,28
+useVanishIndex=1,26,27,28,29
 useAppearIndex=-1
 pixHeight=224
