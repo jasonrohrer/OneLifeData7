@@ -1,5 +1,5 @@
 id=3259
-Dehydration# sick emot_20_35
+Dehydration# sick emot_20_60
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

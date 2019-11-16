@@ -1,5 +1,5 @@
 id=3260
-Heat Stroke# sick emot_21_35
+Heat Stroke# sick emot_21_60
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3
