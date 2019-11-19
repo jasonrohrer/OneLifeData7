@@ -1,5 +1,5 @@
 id=3249
-Tattoo# no_replace emot_17_-1
+Chest Tattoo# no_replace emot_17_-1
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

@@ -1,8 +1,8 @@
-id=3248
-Tattoo Needle
+id=3286
+Thread Template Tattoo Needle# +noWait
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
-permanent=0,minPickupAge=3
+permanent=1,minPickupAge=3
 noFlip=0
 sideAccess=0
 heldInHand=1
@@ -18,10 +18,10 @@ floor=0
 floorHugging=0
 foodValue=0
 speedMult=1.000000
-heldOffset=4.000000,-1.000000
+heldOffset=-4.000000,-19.000000
 clothing=n
 clothingOffset=0.000000,0.000000
-deadlyDistance=0
+deadlyDistance=1
 useDistance=1
 sounds=349:0.250000,-1:0.0,-1:0.0,-1:0.0
 creationSoundInitialOnly=0
@@ -29,12 +29,21 @@ creationSoundForce=0
 numSlots=0#timeStretch=1.000000
 slotSize=1.000000
 slotsLocked=0
-numSprites=1
+numSprites=2
 spriteID=476
-pos=-2.000000,-37.000000
+pos=-3.000000,-37.000000
 rot=0.000000
 hFlip=0
 color=0.112676,0.112676,0.112676
+ageRange=-1.000000,-1.000000
+parent=-1
+invisHolding=0,invisWorn=0,behindSlots=0
+invisCont=0
+spriteID=305
+pos=-13.000000,-57.000000
+rot=0.500000
+hFlip=0
+color=1.000000,1.000000,1.000000
 ageRange=-1.000000,-1.000000
 parent=-1
 invisHolding=0,invisWorn=0,behindSlots=0
