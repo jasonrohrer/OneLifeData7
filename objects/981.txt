@@ -1,5 +1,5 @@
 id=981
-Small Sign on Stone Wall
+Small Sign on Stone Wall# +causeAutoOrient
 containable=0
 containSize=1.000000,vertSlotRot=-0.250000
 permanent=1,minPickupAge=3
@@ -52,6 +52,7 @@ color=1.000000,1.000000,1.000000
 ageRange=-1.000000,-1.000000
 parent=-1
 invisHolding=0,invisWorn=0,behindSlots=1
+invisCont=0
 spriteID=1181
 pos=0.000000,14.000000
 rot=0.000000
@@ -60,6 +61,7 @@ color=1.000000,1.000000,1.000000
 ageRange=-1.000000,-1.000000
 parent=-1
 invisHolding=0,invisWorn=0,behindSlots=1
+invisCont=0
 spriteID=1232
 pos=-4.000000,-6.000000
 rot=0.000000
@@ -68,6 +70,7 @@ color=1.000000,1.000000,1.000000
 ageRange=-1.000000,-1.000000
 parent=-1
 invisHolding=0,invisWorn=0,behindSlots=1
+invisCont=0
 spriteID=813
 pos=-3.000000,84.000000
 rot=0.000000
@@ -76,6 +79,7 @@ color=1.000000,1.000000,1.000000
 ageRange=-1.000000,-1.000000
 parent=-1
 invisHolding=0,invisWorn=0,behindSlots=1
+invisCont=0
 spriteID=1204
 pos=2.000000,14.000000
 rot=0.000000
@@ -84,6 +88,7 @@ color=1.000000,1.000000,1.000000
 ageRange=-1.000000,-1.000000
 parent=-1
 invisHolding=0,invisWorn=0,behindSlots=1
+invisCont=0
 headIndex=-1
 bodyIndex=-1
 backFootIndex=-1
