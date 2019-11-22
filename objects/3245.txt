@@ -1,5 +1,5 @@
 id=3245
-Plaster Wall with Box and Thread# +wall +causeAutoOrient
+Plaster Wall with Box and Thread# +causeAutoOrient
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

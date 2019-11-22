@@ -1,5 +1,5 @@
 id=116
-Pine Door# installed vert +wall +verticalPineDoor
+Pine Door# installed vert +verticalPineDoor
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

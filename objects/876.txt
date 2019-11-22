@@ -1,5 +1,5 @@
 id=876
-Wooden Door# Installed +wall +horizontalWoodenDoor +cornerWoodenDoor
+Wooden Door# Installed +horizontalWoodenDoor +cornerWoodenDoor
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3
@@ -15,7 +15,7 @@ male=0
 deathMarker=0
 homeMarker=0
 floor=0
-floorHugging=0
+floorHugging=1
 foodValue=0
 speedMult=1.000000
 heldOffset=74.000000,-32.000000
