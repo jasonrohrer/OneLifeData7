@@ -1,5 +1,5 @@
 id=213
-Deep Tilled Row# groundOnly +biomeBlock4
+Deep Tilled Row# groundOnly
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3
