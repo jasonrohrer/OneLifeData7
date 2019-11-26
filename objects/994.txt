@@ -1,5 +1,5 @@
 id=994
-Locked Small Sign on Stone Wall# $10 +causeAutoOrient
+Locked Small Sign on Stone Wall# $10 +causeAutoOrient +frontWall
 containable=0
 containSize=1.000000,vertSlotRot=-0.250000
 permanent=1,minPickupAge=3

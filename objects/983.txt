@@ -1,5 +1,5 @@
 id=983
-Small Sign on Ancient Stone Wall# +causeAutoOrient
+Small Sign on Ancient Stone Wall# +causeAutoOrient +frontWall
 containable=0
 containSize=1.000000,vertSlotRot=-0.250000
 permanent=1,minPickupAge=3
