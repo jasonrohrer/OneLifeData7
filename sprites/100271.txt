@@ -1,0 +1,1 @@
+sandstoneCornerWall 0 -3 -20
