@@ -1,5 +1,5 @@
-id=3398
-Badge I
+id=3418
+Full X
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3
@@ -30,8 +30,8 @@ numSlots=0#timeStretch=1.000000
 slotSize=1.000000
 slotsLocked=0
 numSprites=1
-spriteID=3065
-pos=0.000000,7.000000
+spriteID=3068
+pos=-1.000000,0.000000
 rot=0.000000
 hFlip=0
 color=1.000000,1.000000,1.000000
@@ -46,4 +46,4 @@ frontFootIndex=-1
 numUses=1,1.000000
 useVanishIndex=-1
 useAppearIndex=-1
-pixHeight=23
+pixHeight=10

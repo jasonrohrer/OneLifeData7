@@ -1,5 +1,5 @@
-id=3398
-Badge I
+id=3411
+Badge C Full X
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3
@@ -29,9 +29,18 @@ creationSoundForce=0
 numSlots=0#timeStretch=1.000000
 slotSize=1.000000
 slotsLocked=0
-numSprites=1
-spriteID=3065
-pos=0.000000,7.000000
+numSprites=2
+spriteID=3059
+pos=0.000000,4.000000
+rot=0.000000
+hFlip=0
+color=1.000000,1.000000,1.000000
+ageRange=-1.000000,-1.000000
+parent=-1
+invisHolding=0,invisWorn=0,behindSlots=0
+invisCont=0
+spriteID=3068
+pos=-1.000000,0.000000
 rot=0.000000
 hFlip=0
 color=1.000000,1.000000,1.000000
@@ -46,4 +55,4 @@ frontFootIndex=-1
 numUses=1,1.000000
 useVanishIndex=-1
 useAppearIndex=-1
-pixHeight=23
+pixHeight=19
