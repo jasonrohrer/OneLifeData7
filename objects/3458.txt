@@ -1,5 +1,5 @@
-id=3436
-Green Top Hat with Feather
+id=3458
+Green Top Hat with Feather# justDyed
 containable=1
 containSize=2.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3
@@ -23,8 +23,8 @@ clothing=h
 clothingOffset=-2.000000,60.000000
 deadlyDistance=0
 useDistance=1
-sounds=147:0.250000,286:0.101010,-1:0.0,-1:0.0
-creationSoundInitialOnly=1
+sounds=941:0.250000,286:0.101010,-1:0.0,-1:0.0
+creationSoundInitialOnly=0
 creationSoundForce=0
 numSlots=0#timeStretch=1.000000
 slotSize=1.000000
