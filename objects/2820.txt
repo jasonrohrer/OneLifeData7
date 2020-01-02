@@ -1,6 +1,6 @@
 id=2820
 Skewered Shrimp
-containable=0
+containable=1
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3
 noFlip=0
@@ -38,6 +38,7 @@ color=1.000000,1.000000,1.000000
 ageRange=-1.000000,-1.000000
 parent=-1
 invisHolding=0,invisWorn=0,behindSlots=0
+invisCont=0
 spriteID=2584
 pos=7.000000,-33.000000
 rot=0.000000
@@ -46,6 +47,7 @@ color=1.000000,1.000000,1.000000
 ageRange=-1.000000,-1.000000
 parent=-1
 invisHolding=0,invisWorn=0,behindSlots=0
+invisCont=0
 spriteID=2585
 pos=17.000000,-31.000000
 rot=0.000000
@@ -54,6 +56,7 @@ color=1.000000,1.000000,1.000000
 ageRange=-1.000000,-1.000000
 parent=-1
 invisHolding=0,invisWorn=0,behindSlots=0
+invisCont=0
 spriteID=2586
 pos=30.000000,-31.000000
 rot=0.000000
@@ -62,6 +65,7 @@ color=1.000000,1.000000,1.000000
 ageRange=-1.000000,-1.000000
 parent=-1
 invisHolding=0,invisWorn=0,behindSlots=0
+invisCont=0
 spriteID=2587
 pos=39.000000,-30.000000
 rot=0.000000
@@ -70,6 +74,7 @@ color=1.000000,1.000000,1.000000
 ageRange=-1.000000,-1.000000
 parent=-1
 invisHolding=0,invisWorn=0,behindSlots=0
+invisCont=0
 headIndex=-1
 bodyIndex=-1
 backFootIndex=-1
