@@ -1,7 +1,7 @@
 id=2297
 Steel Pipe
 containable=1
-containSize=2.000000,vertSlotRot=-0.250000
+containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3
 noFlip=1
 sideAccess=0
@@ -29,23 +29,16 @@ creationSoundForce=0
 numSlots=0#timeStretch=1.000000
 slotSize=1.000000
 slotsLocked=0
-numSprites=2
-spriteID=2197
-pos=-31.000000,-32.000000
-rot=-0.250000
-hFlip=0
-color=1.000000,1.000000,1.000000
-ageRange=-1.000000,-1.000000
-parent=1
-invisHolding=0,invisWorn=0,behindSlots=0
-spriteID=2196
-pos=1.000000,-32.000000
-rot=-0.250000
+numSprites=1
+spriteID=3073
+pos=0.000000,-32.000000
+rot=0.000000
 hFlip=0
 color=1.000000,1.000000,1.000000
 ageRange=-1.000000,-1.000000
 parent=-1
 invisHolding=0,invisWorn=0,behindSlots=0
+invisCont=0
 headIndex=-1
 bodyIndex=-1
 backFootIndex=-1
@@ -53,4 +46,4 @@ frontFootIndex=-1
 numUses=1,1.000000
 useVanishIndex=-1
 useAppearIndex=-1
-pixHeight=9
+pixHeight=0
