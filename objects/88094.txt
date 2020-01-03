@@ -1,5 +1,5 @@
-id=88075
-Sandstone Wall
+id=88094
+Bamboo Wall
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3
@@ -30,8 +30,8 @@ numSlots=0#timeStretch=1.000000
 slotSize=1.000000
 slotsLocked=0
 numSprites=2
-spriteID=100271
-pos=-2.000000,32.000000
+spriteID=100282
+pos=-13.000000,18.000000
 rot=0.000000
 hFlip=0
 color=1.000000,1.000000,1.000000
@@ -40,7 +40,7 @@ parent=-1
 invisHolding=0,invisWorn=0,behindSlots=0
 invisCont=0
 spriteID=813
-pos=-3.000000,84.000000
+pos=-2.000000,84.000000
 rot=0.000000
 hFlip=0
 color=1.000000,1.000000,1.000000
@@ -55,4 +55,4 @@ frontFootIndex=-1
 numUses=1,1.000000
 useVanishIndex=-1
 useAppearIndex=-1
-pixHeight=146
+pixHeight=144

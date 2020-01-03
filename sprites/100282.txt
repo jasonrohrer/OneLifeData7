@@ -1,0 +1,1 @@
+bambooWall 0 -16 -8
