@@ -384,6 +384,84 @@ then
   echo "  $lastUseString$actor  +  $target   =   $newActor  +  $newTarget  $decayString  $reverseUseString $noUseString"; 
 else 
   echo "$f removed"
+
+  actorID=$(echo "$f" | sed 's/.*\///' | sed 's/_.*//' );
+  targetID=$(echo "$f" | sed 's/.*\///' | sed 's/\..*//' | sed 's/[^_]*_//' );
+
+  lastUseActor=0
+  lastUseTarget=0
+
+  if [[ $targetID == *"LA"* ]]; then
+	  lastUseActor=1
+  fi
+  if [[ $targetID == *"LT"* ]]; then
+	  lastUseTarget=1
+  fi
+  if [[ $targetID == *"L."* ]]; then
+	  lastUseTarget=1
+  fi
+
+
+  if [[ $lastUseActor == 1 ]] || [[ $lastUseTarget == 1 ]];
+  then
+	  targetID=$(echo "$targetID" | sed 's/_.*//' );
+  fi
+
+  actor="";
+  if [[ $actorID == -1 ]];
+  then
+	actor="[DECAY]"
+  elif [[ $actorID == 0 ]];
+  then
+	actor="[HAND]"
+  elif [[ $actorID == -2 ]];
+  then
+	actor="[DEFAULT]"
+  else
+	actorFile="objects/$actorID.txt"
+    actor="(removed object)"
+	if [ -e $actorFile ]
+	then
+		actor=$(cat $actorFile | sed -n 2p );
+	fi
+	actor="\"$actor\"";
+  fi
+
+
+  target="";
+  if [[ $targetID == -1 ]] && [[ $newTargetID == 0 ]];
+  then
+	target="[USE/EAT]"
+  elif [[ $targetID == -1 ]] && [[ $newTargetID != 0 ]];
+  then
+	target="[BARE-GROUND]"
+  elif [[ $targetID == 0 ]];
+  then
+	target="[ON-PERSON]"
+  else
+	targetFile="objects/$targetID.txt"
+    target="(removed object)"
+	if [ -e $targetFile ]
+	then
+		target=$(cat $targetFile | sed -n 2p );
+	fi
+	target="\"$target\"";
+  fi
+
+  lastUseString="";
+  
+  if [[ $lastUseActor == 1 ]];
+  then
+	  lastUseString="$lastUseString(Last Use Actor) "
+  fi
+  if [[ $lastUseTarget == 1 ]];
+  then
+	  lastUseString="$lastUseString(Last Use Target) "
+  fi
+
+  echo "  $lastUseString$actor  +  $target"; 
+  echo ""
+
 fi
 fi
 
