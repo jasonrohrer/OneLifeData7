@@ -1,5 +1,5 @@
-id=3610
-Vinegar Bottle with Funnel
+id=3643
+Cream Bottle with Funnel# insterted
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3
@@ -23,8 +23,8 @@ clothing=n
 clothingOffset=-27.000000,72.000000
 deadlyDistance=0
 useDistance=1
-sounds=287:0.250000,287:0.250000,-1:0.0,-1:0.0
-creationSoundInitialOnly=1
+sounds=691:0.250000,-1:0.0,-1:0.0,-1:0.0
+creationSoundInitialOnly=0
 creationSoundForce=0
 numSlots=0#timeStretch=1.000000
 slotSize=1.000000
@@ -34,7 +34,7 @@ spriteID=3077
 pos=1.000000,-28.000000
 rot=0.000000
 hFlip=0
-color=0.802817,0.433521,0.000000
+color=0.994247,1.000000,0.591549
 ageRange=-1.000000,-1.000000
 parent=-1
 invisHolding=0,invisWorn=0,behindSlots=0
@@ -43,7 +43,7 @@ spriteID=3076
 pos=1.000000,-23.000000
 rot=0.000000
 hFlip=0
-color=0.802817,0.433521,0.000000
+color=0.994247,1.000000,0.591549
 ageRange=-1.000000,-1.000000
 parent=-1
 invisHolding=0,invisWorn=0,behindSlots=0
@@ -52,7 +52,7 @@ spriteID=3075
 pos=1.000000,-21.000000
 rot=0.000000
 hFlip=0
-color=0.802817,0.433521,0.000000
+color=0.994247,1.000000,0.591549
 ageRange=-1.000000,-1.000000
 parent=-1
 invisHolding=0,invisWorn=0,behindSlots=0
@@ -61,7 +61,7 @@ spriteID=3074
 pos=1.000000,-17.000000
 rot=0.000000
 hFlip=0
-color=0.802817,0.433521,0.000000
+color=0.994247,1.000000,0.591549
 ageRange=-1.000000,-1.000000
 parent=-1
 invisHolding=0,invisWorn=0,behindSlots=0
