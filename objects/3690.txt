@@ -1,5 +1,5 @@
-id=1894
-Bowl of Ultramarine Pigment
+id=3690
+Bowl of Indian Yellow Pigment# justMade
 containable=1
 containSize=2.000000,vertSlotRot=-0.250000
 permanent=0,minPickupAge=3
@@ -23,7 +23,7 @@ clothing=n
 clothingOffset=0.000000,0.000000
 deadlyDistance=0
 useDistance=1
-sounds=-1:0.0,-1:0.0,-1:0.0,-1:0.0
+sounds=270:0.070707,-1:0.0,-1:0.0,-1:0.0
 creationSoundInitialOnly=0
 creationSoundForce=0
 numSlots=0#timeStretch=1.000000
@@ -40,10 +40,10 @@ parent=2
 invisHolding=0,invisWorn=0,behindSlots=0
 invisCont=0
 spriteID=1027
-pos=0.000000,-28.000000
+pos=0.000000,-27.000000
 rot=0.000000
 hFlip=0
-color=0.254902,0.564706,0.862745
+color=1.000000,0.702128,0.000000
 ageRange=-1.000000,-1.000000
 parent=2
 invisHolding=0,invisWorn=0,behindSlots=0
