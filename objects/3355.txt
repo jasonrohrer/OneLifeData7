@@ -3,7 +3,7 @@ Wine Bottle with Funnel
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3
-noFlip=0
+noFlip=1
 sideAccess=0
 heldInHand=0
 blocksWalking=0,leftBlockingRadius=0,rightBlockingRadius=0,drawBehindPlayer=0
@@ -101,4 +101,4 @@ frontFootIndex=-1
 numUses=1,1.000000
 useVanishIndex=0
 useAppearIndex=-1
-pixHeight=29
+pixHeight=30
