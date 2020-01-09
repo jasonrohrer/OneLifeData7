@@ -1,5 +1,5 @@
 id=119
-Open Pine Needle Door# installed +horizontalOpenDoorPine +cornerOpenDoorPine
+Open Pine Door# installed +horizontalOpenDoorPine +cornerOpenDoorPine
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3
