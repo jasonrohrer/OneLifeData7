@@ -1,5 +1,5 @@
 id=879
-Open Wooden Door# installed vert
+Open Wooden Door# installed vert +verticalDoorOpenWood
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3
