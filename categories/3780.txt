@@ -1,6 +1,9 @@
 parentID=3780
 pattern
-numObjects=12
+numObjects=15
+1571
+1572
+1589
 1571
 1572
 1589
