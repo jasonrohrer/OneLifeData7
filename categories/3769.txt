@@ -1,6 +1,10 @@
 parentID=3769
 pattern
-numObjects=16
+numObjects=20
+1567
+1569
+1590
+3789
 1567
 1569
 1590
