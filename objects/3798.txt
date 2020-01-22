@@ -1,5 +1,5 @@
-id=3789
-Track Cart#moving West left left north west
+id=3798
+Track Cart#moving West left south west
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3
