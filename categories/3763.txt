@@ -1,6 +1,11 @@
 parentID=3763
 pattern
-numObjects=20
+numObjects=25
+1512
+1514
+1583
+3760
+3762
 1512
 1514
 1583
