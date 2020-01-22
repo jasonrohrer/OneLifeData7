@@ -1,5 +1,5 @@
-id=3783
-North East Track with Cart# moving North
+id=3786
+North East Track with Cart# moving East
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3
@@ -43,6 +43,15 @@ ageRange=-1.000000,-1.000000
 parent=-1
 invisHolding=0,invisWorn=0,behindSlots=1
 invisCont=0
+spriteID=797
+pos=35.000000,46.000000
+rot=0.000000
+hFlip=0
+color=1.000000,1.000000,1.000000
+ageRange=-1.000000,-1.000000
+parent=2
+invisHolding=0,invisWorn=0,behindSlots=1
+invisCont=0
 spriteID=796
 pos=35.000000,46.000000
 rot=0.000000
@@ -50,15 +59,6 @@ hFlip=0
 color=1.000000,1.000000,1.000000
 ageRange=-1.000000,-1.000000
 parent=-1
-invisHolding=0,invisWorn=0,behindSlots=1
-invisCont=0
-spriteID=797
-pos=35.000000,46.000000
-rot=0.000000
-hFlip=0
-color=1.000000,1.000000,1.000000
-ageRange=-1.000000,-1.000000
-parent=1
 invisHolding=0,invisWorn=0,behindSlots=1
 invisCont=0
 spriteID=1662
