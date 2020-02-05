@@ -1,5 +1,5 @@
 id=88154
-Sewing Machine#flat rock
+Partial Sewing Machine#flat rock
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3
