@@ -1,0 +1,36 @@
+Tarr found issues that have already been fixed:
+
+https://github.com/jasonrohrer/OneLifeData7/issues/250
+https://github.com/jasonrohrer/OneLifeData7/issues/255
+https://github.com/jasonrohrer/OneLifeData7/issues/262
+https://github.com/jasonrohrer/OneLifeData7/issues/271
+https://github.com/jasonrohrer/OneLifeData7/issues/276
+https://github.com/jasonrohrer/OneLifeData7/issues/280
+https://github.com/jasonrohrer/OneLifeData7/issues/285
+https://github.com/jasonrohrer/OneLifeData7/issues/290
+https://github.com/jasonrohrer/OneLifeData7/issues/292
+https://github.com/jasonrohrer/OneLifeData7/issues/294
+https://github.com/jasonrohrer/OneLifeData7/issues/299
+https://github.com/jasonrohrer/OneLifeData7/issues/301
+https://github.com/jasonrohrer/OneLifeData7/issues/304
+https://github.com/jasonrohrer/OneLifeData7/issues/305
+https://github.com/jasonrohrer/OneLifeData7/issues/312
+https://github.com/jasonrohrer/OneLifeData7/issues/316
+https://github.com/jasonrohrer/OneLifeData7/issues/318
+https://github.com/jasonrohrer/OneLifeData7/issues/324
+https://github.com/jasonrohrer/OneLifeData7/issues/327
+https://github.com/jasonrohrer/OneLifeData7/issues/334
+https://github.com/jasonrohrer/OneLifeData7/issues/336
+https://github.com/jasonrohrer/OneLifeData7/issues/343
+https://github.com/jasonrohrer/OneLifeData7/issues/377
+https://github.com/jasonrohrer/OneLifeData7/issues/392
+https://github.com/jasonrohrer/OneLifeData7/issues/398
+https://github.com/jasonrohrer/OneLifeData7/issues/405
+https://github.com/jasonrohrer/OneLifeData7/issues/418
+https://github.com/jasonrohrer/OneLifeData7/issues/429
+https://github.com/jasonrohrer/OneLifeData7/issues/482
+
+
+As Fixes list for commit message:
+
+Fixes #250, Fixes #255, Fixes #262, Fixes #271, Fixes #276, Fixes #280, Fixes #285, Fixes #290, Fixes #292, Fixes #294, Fixes #299, Fixes #301, Fixes #304, Fixes #305, Fixes #312, Fixes #316, Fixes #318, Fixes #324, Fixes #327, Fixes #334, Fixes #336, Fixes #343, Fixes #377, Fixes #392, Fixes #398, Fixes #405, Fixes #418, Fixes #429, Fixes #482
