@@ -1,5 +1,5 @@
-id=3800
-East West Track# just unbent
+id=3838
+@ Bendable Track
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3
@@ -23,8 +23,8 @@ clothing=n
 clothingOffset=0.000000,0.000000
 deadlyDistance=0
 useDistance=1
-sounds=407:0.250000,-1:0.0,-1:0.0,-1:0.0
-creationSoundInitialOnly=1
+sounds=-1:0.0,-1:0.0,-1:0.0,-1:0.0
+creationSoundInitialOnly=0
 creationSoundForce=0
 numSlots=0#timeStretch=1.000000
 slotSize=1.000000
@@ -34,14 +34,14 @@ spriteID=1653
 pos=0.000000,-2.000000
 rot=0.000000
 hFlip=0
-color=1.000000,1.000000,1.000000
+color=0.000000,0.000000,0.000000
 ageRange=-1.000000,-1.000000
 parent=-1
 invisHolding=0,invisWorn=0,behindSlots=0
 invisCont=0
 spriteID=396
-pos=0.000000,0.000000
-rot=0.250000
+pos=0.000000,2.000000
+rot=0.000000
 hFlip=0
 color=1.000000,1.000000,1.000000
 ageRange=-1.000000,-1.000000
