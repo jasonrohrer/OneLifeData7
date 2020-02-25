@@ -2,11 +2,11 @@ id=88133
 Two Balls of Thread
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
-permanent=0,minPickupAge=3
+permanent=1,minPickupAge=3
 noFlip=0
 sideAccess=0
 heldInHand=0
-blocksWalking=1,leftBlockingRadius=1,rightBlockingRadius=1,drawBehindPlayer=0
+blocksWalking=0,leftBlockingRadius=0,rightBlockingRadius=0,drawBehindPlayer=0
 mapChance=0.000000#biomes_0
 heatValue=0
 rValue=0.000000
