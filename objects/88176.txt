@@ -1,5 +1,5 @@
-id=3047
-Sharp War Sword
+id=88176
+Blunt War Sword
 containable=1
 containSize=2.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=12
@@ -21,7 +21,7 @@ speedMult=1.000000
 heldOffset=25.000000,-5.000000
 clothing=n
 clothingOffset=-27.000000,72.000000
-deadlyDistance=1
+deadlyDistance=0
 useDistance=1
 sounds=-1:0.0,-1:0.0,-1:0.0,-1:0.0
 creationSoundInitialOnly=0
