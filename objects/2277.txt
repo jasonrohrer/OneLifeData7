@@ -1,5 +1,5 @@
 id=2277
-Firing Newcomen Roller# +tool
+Firing Newcomen Roller# +toolMachining
 containable=0
 containSize=1.000000,vertSlotRot=-0.195000
 permanent=1,minPickupAge=3
