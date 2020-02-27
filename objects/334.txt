@@ -1,5 +1,5 @@
 id=334
-Steel Axe# +tool
+Steel Axe# +toolChopping
 containable=1
 containSize=2.000000,vertSlotRot=-0.415000
 permanent=0,minPickupAge=3
