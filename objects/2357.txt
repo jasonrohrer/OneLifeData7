@@ -1,5 +1,5 @@
 id=2357
-Firing Newcomen Lathe# +tool
+Firing Newcomen Lathe# +toolThe_Newcomen_Lathe
 containable=0
 containSize=1.000000,vertSlotRot=-0.195000
 permanent=1,minPickupAge=3
