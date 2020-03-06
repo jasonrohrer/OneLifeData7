@@ -1,7 +1,7 @@
 id=502
 Shovel
 containable=1
-containSize=2.000000,vertSlotRot=-0.940000
+containSize=1.900000,vertSlotRot=-0.940000
 permanent=0,minPickupAge=3
 noFlip=0
 sideAccess=0
