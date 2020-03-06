@@ -1,7 +1,7 @@
 id=684
 Steel Mining Pick
 containable=1
-containSize=2.000000,vertSlotRot=-0.955000
+containSize=1.900000,vertSlotRot=-0.955000
 permanent=0,minPickupAge=3
 noFlip=0
 sideAccess=0
