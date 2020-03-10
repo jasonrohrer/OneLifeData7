@@ -1,5 +1,5 @@
 id=663
-Deep Well
+Deep Well# +famUse100
 containable=0
 containSize=1.000000,vertSlotRot=-0.195000
 permanent=1,minPickupAge=3

@@ -1,5 +1,5 @@
 id=662
-Shallow Well# +tapoutTrigger,40,40,160,160
+Shallow Well# +famUse100 +tapoutTrigger,40,40,160,160
 containable=0
 containSize=1.000000,vertSlotRot=-0.195000
 permanent=1,minPickupAge=3
