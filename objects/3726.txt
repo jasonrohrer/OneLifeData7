@@ -1,6 +1,6 @@
 id=3726
-Bowl of Niter Solution# just made
-containable=0
+Bowl of Niter Solution# just made +contLabDish
+containable=1
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3
 noFlip=0
