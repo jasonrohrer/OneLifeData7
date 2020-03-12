@@ -1,5 +1,5 @@
 id=2844
-Hot Pepper
+Hot Pepper# +emotEat_29_10
 containable=1
 containSize=1.000000,vertSlotRot=-0.250000
 permanent=0,minPickupAge=3
@@ -16,14 +16,14 @@ deathMarker=0
 homeMarker=0
 floor=0
 floorHugging=0
-foodValue=0
+foodValue=1
 speedMult=1.000000
 heldOffset=4.000000,-3.000000
 clothing=n
 clothingOffset=-27.000000,72.000000
 deadlyDistance=0
 useDistance=1
-sounds=147:0.250000,-1:0.0,-1:0.0,-1:0.0
+sounds=147:0.250000,-1:0.0,143:0.250000,-1:0.0
 creationSoundInitialOnly=0
 creationSoundForce=0
 numSlots=0#timeStretch=1.000000
@@ -38,6 +38,7 @@ color=1.000000,1.000000,1.000000
 ageRange=-1.000000,-1.000000
 parent=-1
 invisHolding=0,invisWorn=0,behindSlots=0
+invisCont=0
 headIndex=-1
 bodyIndex=-1
 backFootIndex=-1
