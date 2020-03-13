@@ -48,10 +48,10 @@ ageRange=-1.000000,-1.000000
 parent=-1
 invisHolding=0,invisWorn=0,behindSlots=0
 invisCont=0
-spriteID=2017
-pos=5.000000,-31.000000
-rot=0.000000
-hFlip=1
+spriteID=100376
+pos=1.000000,-31.000000
+rot=-0.020000
+hFlip=0
 color=1.000000,1.000000,1.000000
 ageRange=-1.000000,-1.000000
 parent=-1
