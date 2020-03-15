@@ -1,5 +1,5 @@
-id=88228
-Cooked Crab on Ashes
+id=88231
+Cooked Lobster on Ashes
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3
@@ -48,8 +48,8 @@ ageRange=-1.000000,-1.000000
 parent=4
 invisHolding=0,invisWorn=0,behindSlots=0
 invisCont=0
-spriteID=100368
-pos=3.000000,-18.000000
+spriteID=100369
+pos=5.000000,-15.000000
 rot=0.100000
 hFlip=0
 color=1.000000,1.000000,1.000000
@@ -58,7 +58,7 @@ parent=-1
 invisHolding=0,invisWorn=0,behindSlots=0
 invisCont=0
 spriteID=271
-pos=5.000000,-33.000000
+pos=3.000000,-37.000000
 rot=0.000000
 hFlip=0
 color=1.000000,1.000000,1.000000
