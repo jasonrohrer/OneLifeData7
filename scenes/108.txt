@@ -41279,7 +41279,7 @@ empty
 empty
 x=276,y=19
 biome=0
-oID=406
+oID=99
 heldID=-1
 numCont=0
 hat=0
