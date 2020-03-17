@@ -1,8 +1,10 @@
 id=765
 Snake Skin
 containable=1
-containSize=2,vertSlotRot=-0.125000
+containSize=2.000000,vertSlotRot=-0.125000
 permanent=0,minPickupAge=3
+noFlip=0
+sideAccess=0
 heldInHand=1
 blocksWalking=0,leftBlockingRadius=0,rightBlockingRadius=0,drawBehindPlayer=0
 mapChance=0.000000#biomes_0
@@ -22,9 +24,11 @@ clothingOffset=0.000000,0.000000
 deadlyDistance=0
 useDistance=1
 sounds=240:0.250000,-1:0.0,-1:0.0,-1:0.0
-creationSoundInitialOnly=0
+creationSoundInitialOnly=1
+creationSoundForce=0
 numSlots=0#timeStretch=1.000000
-slotSize=1
+slotSize=1.000000
+slotsLocked=0
 numSprites=1
 spriteID=1089
 pos=3.000000,-32.000000
@@ -34,11 +38,12 @@ color=1.000000,1.000000,1.000000
 ageRange=-1.000000,-1.000000
 parent=-1
 invisHolding=0,invisWorn=0,behindSlots=0
+invisCont=0
 headIndex=-1
 bodyIndex=-1
 backFootIndex=-1
 frontFootIndex=-1
-numUses=0
+numUses=0,1.000000
 useVanishIndex=-1
 useAppearIndex=-1
 pixHeight=0
