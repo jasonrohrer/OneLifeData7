@@ -1,5 +1,5 @@
-id=614
-Fed Shorn Domestic Sheep
+id=3936
+Shorn Domestic Sheep# just unroped
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3
@@ -23,22 +23,13 @@ clothing=n
 clothingOffset=0.000000,0.000000
 deadlyDistance=0
 useDistance=1
-sounds=795:0.125000,-1:0.0,-1:0.0,-1:0.0
-creationSoundInitialOnly=1
+sounds=1887:0.133333,-1:0.0,-1:0.0,-1:0.0
+creationSoundInitialOnly=0
 creationSoundForce=0
 numSlots=0#timeStretch=1.000000
 slotSize=1.000000
 slotsLocked=0
-numSprites=15
-spriteID=3056
-pos=-3.000000,22.000000
-rot=0.000000
-hFlip=0
-color=1.000000,1.000000,1.000000
-ageRange=-1.000000,-1.000000
-parent=6
-invisHolding=0,invisWorn=0,behindSlots=0
-invisCont=0
+numSprites=14
 spriteID=72
 pos=28.000000,-23.000000
 rot=0.000000
@@ -72,7 +63,7 @@ rot=0.000000
 hFlip=0
 color=1.000000,1.000000,1.000000
 ageRange=-1.000000,-1.000000
-parent=6
+parent=5
 invisHolding=0,invisWorn=0,behindSlots=0
 invisCont=0
 spriteID=969
@@ -81,7 +72,7 @@ rot=0.000000
 hFlip=0
 color=1.000000,1.000000,1.000000
 ageRange=-1.000000,-1.000000
-parent=6
+parent=5
 invisHolding=0,invisWorn=0,behindSlots=0
 invisCont=0
 spriteID=965
@@ -99,7 +90,7 @@ rot=0.000000
 hFlip=0
 color=1.000000,1.000000,1.000000
 ageRange=-1.000000,-1.000000
-parent=6
+parent=5
 invisHolding=0,invisWorn=0,behindSlots=0
 invisCont=0
 spriteID=970
@@ -108,7 +99,7 @@ rot=0.000000
 hFlip=0
 color=1.000000,1.000000,1.000000
 ageRange=-1.000000,-1.000000
-parent=6
+parent=5
 invisHolding=0,invisWorn=0,behindSlots=0
 invisCont=0
 spriteID=959
@@ -117,7 +108,7 @@ rot=0.000000
 hFlip=0
 color=1.000000,1.000000,1.000000
 ageRange=-1.000000,-1.000000
-parent=6
+parent=5
 invisHolding=0,invisWorn=0,behindSlots=0
 invisCont=0
 spriteID=960
@@ -126,7 +117,7 @@ rot=0.000000
 hFlip=0
 color=1.000000,1.000000,1.000000
 ageRange=-1.000000,-1.000000
-parent=9
+parent=8
 invisHolding=0,invisWorn=0,behindSlots=0
 invisCont=0
 spriteID=961
@@ -135,7 +126,7 @@ rot=0.000000
 hFlip=0
 color=1.000000,1.000000,1.000000
 ageRange=-1.000000,-1.000000
-parent=9
+parent=8
 invisHolding=0,invisWorn=0,behindSlots=0
 invisCont=0
 spriteID=962
@@ -144,7 +135,7 @@ rot=-0.250000
 hFlip=0
 color=1.000000,1.000000,1.000000
 ageRange=-1.000000,-1.000000
-parent=9
+parent=8
 invisHolding=0,invisWorn=0,behindSlots=0
 invisCont=0
 spriteID=963
@@ -153,7 +144,7 @@ rot=0.250000
 hFlip=0
 color=1.000000,1.000000,1.000000
 ageRange=-1.000000,-1.000000
-parent=9
+parent=8
 invisHolding=0,invisWorn=0,behindSlots=0
 invisCont=0
 spriteID=964
@@ -162,14 +153,14 @@ rot=0.000000
 hFlip=0
 color=1.000000,1.000000,1.000000
 ageRange=-1.000000,-1.000000
-parent=9
+parent=8
 invisHolding=0,invisWorn=0,behindSlots=0
 invisCont=0
 headIndex=-1
 bodyIndex=-1
 backFootIndex=-1
 frontFootIndex=-1
-numUses=5,1.000000
+numUses=0,1.000000
 useVanishIndex=-1
 useAppearIndex=-1
 pixHeight=50

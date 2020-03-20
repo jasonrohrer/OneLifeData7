@@ -1,5 +1,5 @@
-id=614
-Fed Shorn Domestic Sheep
+id=3935
+Fed Shorn Domestic Sheep# just unroped
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3
@@ -23,8 +23,8 @@ clothing=n
 clothingOffset=0.000000,0.000000
 deadlyDistance=0
 useDistance=1
-sounds=795:0.125000,-1:0.0,-1:0.0,-1:0.0
-creationSoundInitialOnly=1
+sounds=1887:0.133333,-1:0.0,-1:0.0,-1:0.0
+creationSoundInitialOnly=0
 creationSoundForce=0
 numSlots=0#timeStretch=1.000000
 slotSize=1.000000
