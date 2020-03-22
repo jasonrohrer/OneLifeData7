@@ -1,5 +1,5 @@
 id=88166
-Egg Pile#1
+Nest #eggpile1
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3
@@ -29,10 +29,28 @@ creationSoundForce=0
 numSlots=0#timeStretch=1.000000
 slotSize=1.000000
 slotsLocked=0
-numSprites=1
+numSprites=3
+spriteID=100406
+pos=-2.000000,-24.000000
+rot=0.000000
+hFlip=0
+color=1.000000,1.000000,1.000000
+ageRange=-1.000000,-1.000000
+parent=2
+invisHolding=0,invisWorn=0,behindSlots=0
+invisCont=0
 spriteID=100093
-pos=5.000000,-32.000000
+pos=1.000000,-27.000000
 rot=0.245000
+hFlip=0
+color=1.000000,1.000000,1.000000
+ageRange=-1.000000,-1.000000
+parent=-1
+invisHolding=0,invisWorn=0,behindSlots=0
+invisCont=0
+spriteID=100407
+pos=-2.000000,-38.000000
+rot=0.000000
 hFlip=0
 color=1.000000,1.000000,1.000000
 ageRange=-1.000000,-1.000000
