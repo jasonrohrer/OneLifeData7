@@ -1294,7 +1294,7 @@ empty
 empty
 x=22,y=3
 biome=2
-oID=1339
+oID=1323
 heldID=-1
 numCont=0
 hat=0
@@ -1314,7 +1314,7 @@ bottom=0
 backpack=0
 anim=0
 frozenAnimTime=-2.000000
-numUsesRemaining=10
+numUsesRemaining=5
 xOffset=0
 yOffset=0
 destCellXOffset=0
