@@ -1,5 +1,5 @@
 id=942
-Loose Iron Vein# gridPlacement40,40,p3,p0
+Loose Iron Vein# gridPlacement80,40,p3,p0
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3
