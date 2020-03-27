@@ -1,5 +1,5 @@
-id=945
-Collapsed Iron Mine
+id=3953
+Stripped Muddy Iron Vein# +primaryHomeland
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3
@@ -29,8 +29,8 @@ creationSoundForce=0
 numSlots=0#timeStretch=1.000000
 slotSize=1.000000
 slotsLocked=0
-numSprites=2
-spriteID=1194
+numSprites=3
+spriteID=1193
 pos=-4.000000,2.000000
 rot=0.000000
 hFlip=0
@@ -39,8 +39,17 @@ ageRange=-1.000000,-1.000000
 parent=-1
 invisHolding=0,invisWorn=0,behindSlots=0
 invisCont=0
-spriteID=1196
-pos=-3.000000,-2.000000
+spriteID=2759
+pos=1.000000,13.000000
+rot=0.000000
+hFlip=0
+color=1.000000,1.000000,1.000000
+ageRange=-1.000000,-1.000000
+parent=-1
+invisHolding=0,invisWorn=0,behindSlots=0
+invisCont=0
+spriteID=2758
+pos=-2.000000,-9.000000
 rot=0.000000
 hFlip=0
 color=1.000000,1.000000,1.000000
@@ -55,4 +64,4 @@ frontFootIndex=-1
 numUses=1,1.000000
 useVanishIndex=-1
 useAppearIndex=-1
-pixHeight=23
+pixHeight=41
