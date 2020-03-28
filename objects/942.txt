@@ -1,5 +1,5 @@
 id=942
-Muddy Iron Vein# gridPlacement40
+Muddy Iron Vein# gridPlacement40,40
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3
@@ -97,7 +97,7 @@ headIndex=-1
 bodyIndex=-1
 backFootIndex=-1
 frontFootIndex=-1
-numUses=2,1.000000
+numUses=1,1.000000
 useVanishIndex=0,1,2,3
 useAppearIndex=-1
 pixHeight=41
