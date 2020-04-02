@@ -1,5 +1,5 @@
 id=3888
-Arctic Expert Way Stone# +biomeSet3 gridPlacement20,40,p3,p0 +expertFind
+Arctic Expert Way Stone# +biomeSet3 gridPlacement20,20,p3,p0 +expertFind
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3
