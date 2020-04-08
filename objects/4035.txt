@@ -1,6 +1,6 @@
 id=4035
-Flour Bottle
-containable=0
+Flour Bottle# +contFoodDish
+containable=1
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3
 noFlip=1

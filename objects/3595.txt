@@ -1,6 +1,6 @@
 id=3595
-Palm Olein Bottle
-containable=0
+Palm Olein Bottle# +contLabDish
+containable=1
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3
 noFlip=1
