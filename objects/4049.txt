@@ -1,5 +1,5 @@
-id=2242
-Newcomen Hammer with Charcoal# +toolThe_Newcomen_Hammer
+id=4049
+Newcomen Hammer with Full Boiler# justAdded
 containable=0
 containSize=1.000000,vertSlotRot=-0.195000
 permanent=1,minPickupAge=3
@@ -23,13 +23,13 @@ clothing=n
 clothingOffset=0.000000,0.000000
 deadlyDistance=0
 useDistance=1
-sounds=380:0.250000,-1:0.0,-1:0.0,-1:0.0
+sounds=78:0.250000,-1:0.0,-1:0.0,-1:0.0
 creationSoundInitialOnly=1
 creationSoundForce=0
 numSlots=0#timeStretch=1.000000
 slotSize=1.000000
 slotsLocked=0
-numSprites=27
+numSprites=24
 spriteID=1003
 pos=83.000000,-7.000000
 rot=0.000000
@@ -72,7 +72,7 @@ rot=0.000000
 hFlip=0
 color=1.000000,1.000000,1.000000
 ageRange=-1.000000,-1.000000
-parent=23
+parent=20
 invisHolding=0,invisWorn=0,behindSlots=0
 invisCont=0
 spriteID=2143
@@ -81,34 +81,7 @@ rot=0.000000
 hFlip=0
 color=1.000000,1.000000,1.000000
 ageRange=-1.000000,-1.000000
-parent=9
-invisHolding=0,invisWorn=0,behindSlots=0
-invisCont=0
-spriteID=552
-pos=78.000000,6.000000
-rot=0.000000
-hFlip=0
-color=1.000000,1.000000,1.000000
-ageRange=-1.000000,-1.000000
-parent=-1
-invisHolding=0,invisWorn=0,behindSlots=0
-invisCont=0
-spriteID=551
-pos=87.000000,10.000000
-rot=0.000000
-hFlip=0
-color=1.000000,1.000000,1.000000
-ageRange=-1.000000,-1.000000
-parent=-1
-invisHolding=0,invisWorn=0,behindSlots=0
-invisCont=0
-spriteID=553
-pos=106.000000,10.000000
-rot=0.000000
-hFlip=0
-color=1.000000,1.000000,1.000000
-ageRange=-1.000000,-1.000000
-parent=-1
+parent=6
 invisHolding=0,invisWorn=0,behindSlots=0
 invisCont=0
 spriteID=2142
@@ -153,7 +126,7 @@ rot=0.000000
 hFlip=0
 color=1.000000,1.000000,1.000000
 ageRange=-1.000000,-1.000000
-parent=15
+parent=12
 invisHolding=0,invisWorn=0,behindSlots=0
 invisCont=0
 spriteID=1125
@@ -171,7 +144,7 @@ rot=0.000000
 hFlip=0
 color=1.000000,1.000000,1.000000
 ageRange=-1.000000,-1.000000
-parent=23
+parent=20
 invisHolding=0,invisWorn=0,behindSlots=0
 invisCont=0
 spriteID=2158
@@ -180,7 +153,7 @@ rot=0.000000
 hFlip=0
 color=1.000000,1.000000,1.000000
 ageRange=-1.000000,-1.000000
-parent=22
+parent=19
 invisHolding=0,invisWorn=0,behindSlots=0
 invisCont=0
 spriteID=319
@@ -198,7 +171,7 @@ rot=-0.250000
 hFlip=0
 color=1.000000,1.000000,1.000000
 ageRange=-1.000000,-1.000000
-parent=17
+parent=14
 invisHolding=0,invisWorn=0,behindSlots=0
 invisCont=0
 spriteID=319
@@ -207,7 +180,7 @@ rot=0.000000
 hFlip=0
 color=1.000000,1.000000,1.000000
 ageRange=-1.000000,-1.000000
-parent=17
+parent=14
 invisHolding=0,invisWorn=0,behindSlots=0
 invisCont=0
 spriteID=259
@@ -216,7 +189,7 @@ rot=0.250000
 hFlip=0
 color=1.000000,1.000000,1.000000
 ageRange=-1.000000,-1.000000
-parent=19
+parent=16
 invisHolding=0,invisWorn=0,behindSlots=0
 invisCont=0
 spriteID=260
@@ -234,7 +207,7 @@ rot=0.000000
 hFlip=0
 color=1.000000,1.000000,1.000000
 ageRange=-1.000000,-1.000000
-parent=20
+parent=17
 invisHolding=0,invisWorn=0,behindSlots=0
 invisCont=0
 spriteID=2140
@@ -243,7 +216,7 @@ rot=0.000000
 hFlip=0
 color=1.000000,1.000000,1.000000
 ageRange=-1.000000,-1.000000
-parent=9
+parent=6
 invisHolding=0,invisWorn=0,behindSlots=0
 invisCont=0
 spriteID=396
@@ -261,7 +234,7 @@ rot=0.000000
 hFlip=0
 color=1.000000,1.000000,1.000000
 ageRange=-1.000000,-1.000000
-parent=24
+parent=21
 invisHolding=0,invisWorn=0,behindSlots=0
 invisCont=0
 spriteID=2145
@@ -270,7 +243,7 @@ rot=0.000000
 hFlip=0
 color=1.000000,1.000000,1.000000
 ageRange=-1.000000,-1.000000
-parent=24
+parent=21
 invisHolding=0,invisWorn=0,behindSlots=0
 invisCont=0
 headIndex=-1
