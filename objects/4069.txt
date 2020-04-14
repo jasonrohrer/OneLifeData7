@@ -1,9 +1,9 @@
-id=881
-Cut Stones
-containable=1
-containSize=2.000000,vertSlotRot=-0.250000
-permanent=0,minPickupAge=14
-noFlip=1
+id=4069
+Threshed Wheat
+containable=0
+containSize=1.000000,vertSlotRot=0.000000
+permanent=1,minPickupAge=3
+noFlip=0
 sideAccess=0
 heldInHand=0
 blocksWalking=0,leftBlockingRadius=0,rightBlockingRadius=0,drawBehindPlayer=0
@@ -17,8 +17,8 @@ homeMarker=0
 floor=0
 floorHugging=0
 foodValue=0
-speedMult=0.250000
-heldOffset=13.000000,30.000000
+speedMult=1.000000
+heldOffset=19.000000,20.000000
 clothing=n
 clothingOffset=0.000000,0.000000
 deadlyDistance=0
@@ -30,8 +30,8 @@ numSlots=0#timeStretch=1.000000
 slotSize=1.000000
 slotsLocked=0
 numSprites=1
-spriteID=1185
-pos=2.000000,-22.000000
+spriteID=512
+pos=-2.000000,-30.000000
 rot=0.000000
 hFlip=0
 color=1.000000,1.000000,1.000000
@@ -43,7 +43,7 @@ headIndex=-1
 bodyIndex=-1
 backFootIndex=-1
 frontFootIndex=-1
-numUses=0,1.000000
+numUses=1,1.000000
 useVanishIndex=-1
 useAppearIndex=-1
-pixHeight=8
+pixHeight=0
