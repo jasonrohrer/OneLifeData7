@@ -1,0 +1,1 @@
+BigCharcoalPile 0 9 -37
