@@ -24,7 +24,7 @@ clothingOffset=0.000000,0.000000
 deadlyDistance=0
 useDistance=1
 sounds=270:0.070707,-1:0.0,-1:0.0,-1:0.0
-creationSoundInitialOnly=0
+creationSoundInitialOnly=1
 creationSoundForce=0
 numSlots=0#timeStretch=1.000000
 slotSize=1.000000
