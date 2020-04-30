@@ -1,5 +1,5 @@
 id=2966
-Proposed Property Gate# +causeAutoOrient
+Proposed Property Gate# +causeAutoOrient +wall
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3
