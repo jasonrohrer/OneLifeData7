@@ -1,5 +1,5 @@
 id=3127
-Elder Removal Receipt# with charcaol offScreenSound
+Elder Removal Receipt# with charcaol offScreenSound_R
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=55
