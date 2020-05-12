@@ -1,5 +1,5 @@
 id=3159
-Hitched Horse-Drawn Tire Cart
+Hitched Horse-Drawn Tire Cart# +causeAutoOrientH
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=13

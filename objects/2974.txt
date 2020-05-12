@@ -1,5 +1,5 @@
 id=2974
-Approved Property Gate# +causeAutoOrient +wall
+Approved Property Gate# +causeAutoOrientH +wall
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

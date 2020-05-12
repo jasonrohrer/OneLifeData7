@@ -1,5 +1,5 @@
 id=1851
-Fence Gate# +wall +causeAutoOrient +blocksMoving +autoDefaultTrans
+Fence Gate# +wall +causeAutoOrientH +blocksMoving +autoDefaultTrans
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

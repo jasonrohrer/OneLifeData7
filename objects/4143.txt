@@ -1,5 +1,5 @@
 id=4143
-Fence Gate# justMade +wall +causeAutoOrient +blocksMoving +autoDefaultTrans +tapoutTrigger,1,1,2,1
+Fence Gate# justMade +wall +causeAutoOrientH +blocksMoving +autoDefaultTrans +tapoutTrigger,1,1,2,1
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3
