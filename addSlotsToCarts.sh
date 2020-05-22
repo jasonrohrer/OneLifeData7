@@ -9,3 +9,5 @@ while read p; do
 	sed -i "s/numSprites=/slotPos=-18.000000,48.000000,vert=1,parent=-1\nslotPos=-6.000000,48.000000,vert=1,parent=-1\nslotPos=8.000000,48.000000,vert=1,parent=-1\nslotPos=17.000000,48.000000,vert=1,parent=\nnumSprites=/" $p
 
 done <../cartList.txt
+
+rm ../cartList.txt
