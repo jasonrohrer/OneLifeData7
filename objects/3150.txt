@@ -1,5 +1,5 @@
 id=3150
-Renewed Property Fence Box# hor
+Renewed Property Fence Box# hor +tapoutTrigger,1,1,1,1 +horizontalJ
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3
