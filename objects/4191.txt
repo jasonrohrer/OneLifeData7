@@ -1,8 +1,8 @@
-id=448
-Hot Steel Blade Blank#flat rock
+id=4191
+Hot Steel Blade in Wooden Tongs# pickedUp
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
-permanent=1,minPickupAge=3
+permanent=0,minPickupAge=3
 noFlip=0
 sideAccess=0
 heldInHand=0
@@ -18,20 +18,20 @@ floor=0
 floorHugging=0
 foodValue=0
 speedMult=1.000000
-heldOffset=15.000000,20.000000
+heldOffset=15.000000,17.000000
 clothing=n
 clothingOffset=-27.000000,72.000000
 deadlyDistance=0
 useDistance=1
-sounds=407:0.250000,-1:0.0,-1:0.0,-1:0.0
+sounds=341:0.250000,-1:0.0,-1:0.0,-1:0.0
 creationSoundInitialOnly=1
 creationSoundForce=0
 numSlots=0#timeStretch=1.000000
 slotSize=1.000000
 slotsLocked=0
-numSprites=4
-spriteID=547
-pos=5.000000,-36.000000
+numSprites=5
+spriteID=536
+pos=3.000000,-35.000000
 rot=0.000000
 hFlip=0
 color=1.000000,1.000000,1.000000
@@ -40,7 +40,7 @@ parent=-1
 invisHolding=0,invisWorn=0,behindSlots=0
 invisCont=0
 spriteID=785
-pos=1.000000,-36.000000
+pos=23.000000,-32.000000
 rot=0.000000
 hFlip=0
 color=1.000000,1.000000,1.000000
@@ -49,7 +49,7 @@ parent=3
 invisHolding=0,invisWorn=0,behindSlots=0
 invisCont=0
 spriteID=806
-pos=1.000000,-33.000000
+pos=23.000000,-29.000000
 rot=0.000000
 hFlip=0
 color=1.000000,0.360000,0.000000
@@ -58,10 +58,19 @@ parent=3
 invisHolding=0,invisWorn=0,behindSlots=0
 invisCont=0
 spriteID=806
-pos=1.000000,-33.000000
+pos=23.000000,-29.000000
 rot=0.000000
 hFlip=0
 color=1.000000,0.398592,0.140845
+ageRange=-1.000000,-1.000000
+parent=-1
+invisHolding=0,invisWorn=0,behindSlots=0
+invisCont=0
+spriteID=537
+pos=0.000000,-33.000000
+rot=0.000000
+hFlip=0
+color=1.000000,1.000000,1.000000
 ageRange=-1.000000,-1.000000
 parent=-1
 invisHolding=0,invisWorn=0,behindSlots=0
