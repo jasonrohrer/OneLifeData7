@@ -1,5 +1,5 @@
-id=4140
-Box of Scrap Steel with Belt# just smashed
+id=4199
+Box of Scrap Steel with Belt and Iron# just smashed
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3
@@ -29,7 +29,7 @@ creationSoundForce=0
 numSlots=0#timeStretch=1.000000
 slotSize=1.000000
 slotsLocked=0
-numSprites=22
+numSprites=23
 spriteID=791
 pos=-1.000000,-6.000000
 rot=0.000000
@@ -221,6 +221,15 @@ invisHolding=0,invisWorn=0,behindSlots=0
 invisCont=0
 spriteID=2175
 pos=-4.000000,-49.000000
+rot=0.000000
+hFlip=0
+color=1.000000,1.000000,1.000000
+ageRange=-1.000000,-1.000000
+parent=-1
+invisHolding=0,invisWorn=0,behindSlots=0
+invisCont=0
+spriteID=3115
+pos=-30.000000,-45.000000
 rot=0.000000
 hFlip=0
 color=1.000000,1.000000,1.000000
