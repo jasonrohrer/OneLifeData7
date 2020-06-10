@@ -1,0 +1,1 @@
+stoneWall 0 16 -8
