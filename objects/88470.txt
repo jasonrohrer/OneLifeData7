@@ -1,5 +1,5 @@
-id=88139
-Work Bench#partial
+id=88470
+Bucket and Pipe on Work Bench
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3
@@ -29,7 +29,7 @@ creationSoundForce=0
 numSlots=0#timeStretch=1.000000
 slotSize=1.000000
 slotsLocked=0
-numSprites=3
+numSprites=7
 spriteID=100354
 pos=4.000000,-32.000000
 rot=0.000000
@@ -48,8 +48,44 @@ ageRange=-1.000000,-1.000000
 parent=-1
 invisHolding=0,invisWorn=0,behindSlots=0
 invisCont=0
+spriteID=100351
+pos=42.000000,20.000000
+rot=-0.280000
+hFlip=0
+color=1.000000,1.000000,1.000000
+ageRange=-1.000000,-1.000000
+parent=-1
+invisHolding=0,invisWorn=0,behindSlots=0
+invisCont=0
 spriteID=100352
 pos=-33.000000,-13.000000
+rot=0.000000
+hFlip=0
+color=1.000000,1.000000,1.000000
+ageRange=-1.000000,-1.000000
+parent=-1
+invisHolding=0,invisWorn=0,behindSlots=0
+invisCont=0
+spriteID=100470
+pos=-10.000000,53.000000
+rot=0.000000
+hFlip=0
+color=1.000000,1.000000,1.000000
+ageRange=-1.000000,-1.000000
+parent=-1
+invisHolding=0,invisWorn=0,behindSlots=0
+invisCont=0
+spriteID=1650
+pos=-14.000000,34.000000
+rot=0.000000
+hFlip=0
+color=1.000000,1.000000,1.000000
+ageRange=-1.000000,-1.000000
+parent=6
+invisHolding=0,invisWorn=0,behindSlots=0
+invisCont=0
+spriteID=1649
+pos=-13.000000,26.000000
 rot=0.000000
 hFlip=0
 color=1.000000,1.000000,1.000000
@@ -64,4 +100,4 @@ frontFootIndex=-1
 numUses=0,0.000000
 useVanishIndex=-1
 useAppearIndex=-1
-pixHeight=34
+pixHeight=49
