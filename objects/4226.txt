@@ -1,5 +1,5 @@
-id=1190
-Wet Planted Squash Seeds
+id=4226
+Wet Planted Cucumber Seeds
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3
@@ -58,7 +58,7 @@ parent=-1
 invisHolding=0,invisWorn=0,behindSlots=0
 invisCont=0
 spriteID=1452
-pos=4.000000,-32.000000
+pos=4.000000,-31.000000
 rot=-0.250000
 hFlip=0
 color=1.000000,1.000000,1.000000
