@@ -1,5 +1,5 @@
 id=4082
-Skim Milk Pouch# +drink
+Skim Milk Pouch# +drink +yum1481
 containable=1
 containSize=1.000000,vertSlotRot=-0.250000
 permanent=0,minPickupAge=3
