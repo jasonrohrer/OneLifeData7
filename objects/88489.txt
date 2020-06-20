@@ -1,12 +1,12 @@
-id=86000
-Empty Vineyard Trellis
+id=88489
+Wet Harvested Vineyard Plot
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3
 noFlip=0
 sideAccess=0
 heldInHand=0
-blocksWalking=0,leftBlockingRadius=0,rightBlockingRadius=0,drawBehindPlayer=0
+blocksWalking=1,leftBlockingRadius=0,rightBlockingRadius=0,drawBehindPlayer=0
 mapChance=0.000000#biomes_0
 heatValue=0
 rValue=0.000000
@@ -23,18 +23,18 @@ clothing=n
 clothingOffset=-27.000000,72.000000
 deadlyDistance=0
 useDistance=1
-sounds=297:0.250000,-1:0.0,-1:0.0,-1:0.0
+sounds=321:0.250000,-1:0.0,-1:0.0,-1:0.0
 creationSoundInitialOnly=0
 creationSoundForce=0
 numSlots=0#timeStretch=1.000000
 slotSize=1.000000
 slotsLocked=0
-numSprites=4
+numSprites=5
 spriteID=493
 pos=1.000000,-35.000000
 rot=0.000000
 hFlip=0
-color=1.000000,1.000000,1.000000
+color=0.690000,0.690000,0.690000
 ageRange=-1.000000,-1.000000
 parent=-1
 invisHolding=0,invisWorn=0,behindSlots=0
@@ -59,6 +59,15 @@ invisHolding=0,invisWorn=0,behindSlots=0
 invisCont=0
 spriteID=2979
 pos=4.000000,0.000000
+rot=0.000000
+hFlip=0
+color=1.000000,1.000000,1.000000
+ageRange=-1.000000,-1.000000
+parent=-1
+invisHolding=0,invisWorn=0,behindSlots=0
+invisCont=0
+spriteID=100529
+pos=2.000000,-8.000000
 rot=0.000000
 hFlip=0
 color=1.000000,1.000000,1.000000
