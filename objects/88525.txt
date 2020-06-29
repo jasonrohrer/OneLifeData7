@@ -1,5 +1,5 @@
-id=86275
-Yew Shafts #3
+id=88525
+Tied Yew Shafts
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3
@@ -18,7 +18,7 @@ floor=0
 floorHugging=0
 foodValue=0
 speedMult=1.000000
-heldOffset=19.000000,-4.000000
+heldOffset=29.000000,13.000000
 clothing=n
 clothingOffset=0.000000,0.000000
 deadlyDistance=0
@@ -48,10 +48,10 @@ ageRange=-1.000000,-1.000000
 parent=-1
 invisHolding=0,invisWorn=0,behindSlots=0
 invisCont=0
-spriteID=396
-pos=0.000000,-38.000000
-rot=-0.510000
-hFlip=1
+spriteID=278
+pos=-50.000000,-30.000000
+rot=-0.005000
+hFlip=0
 color=1.000000,1.000000,1.000000
 ageRange=-1.000000,-1.000000
 parent=-1
