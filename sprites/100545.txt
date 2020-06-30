@@ -1,1 +1,1 @@
-copperCage 0 1 6
+copperCage 0 1 15
