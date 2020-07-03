@@ -2,7 +2,7 @@ id=4386
 Fueled Plough# justFilled
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
-permanent=0,minPickupAge=3
+permanent=0,minPickupAge=15
 noFlip=1
 sideAccess=0
 heldInHand=0
