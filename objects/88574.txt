@@ -1,11 +1,11 @@
-id=88516
-Copper Cage
+id=88574
+Copper Rod #just made
 containable=1
-containSize=3.000000,vertSlotRot=0.000000
+containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3
 noFlip=0
 sideAccess=0
-heldInHand=0
+heldInHand=1
 blocksWalking=0,leftBlockingRadius=0,rightBlockingRadius=0,drawBehindPlayer=0
 mapChance=0.000000#biomes_0
 heatValue=0
@@ -17,21 +17,21 @@ homeMarker=0
 floor=0
 floorHugging=0
 foodValue=0
-speedMult=0.500000
-heldOffset=33.000000,37.000000
+speedMult=1.000000
+heldOffset=7.000000,-5.000000
 clothing=n
-clothingOffset=0.000000,0.000000
+clothingOffset=-27.000000,72.000000
 deadlyDistance=0
 useDistance=1
-sounds=407:0.250000,-1:0.0,-1:0.0,-1:0.0
+sounds=1556:0.250000,-1:0.0,-1:0.0,-1:0.0
 creationSoundInitialOnly=0
 creationSoundForce=0
 numSlots=0#timeStretch=1.000000
 slotSize=1.000000
 slotsLocked=0
 numSprites=1
-spriteID=100545
-pos=0.000000,-4.000000
+spriteID=2378
+pos=4.000000,-29.000000
 rot=0.000000
 hFlip=0
 color=1.000000,1.000000,1.000000
@@ -46,4 +46,4 @@ frontFootIndex=-1
 numUses=1,1.000000
 useVanishIndex=-1
 useAppearIndex=-1
-pixHeight=66
+pixHeight=0
