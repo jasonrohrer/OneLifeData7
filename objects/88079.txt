@@ -1,7 +1,7 @@
 id=88079
 Dug Sandstone
-containable=0
-containSize=1.000000,vertSlotRot=0.000000
+containable=1
+containSize=3.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=14
 noFlip=0
 sideAccess=0
@@ -29,7 +29,16 @@ creationSoundForce=0
 numSlots=0#timeStretch=1.000000
 slotSize=1.000000
 slotsLocked=0
-numSprites=1
+numSprites=2
+spriteID=838
+pos=-3.000000,-2.000000
+rot=-0.245000
+hFlip=0
+color=1.000000,0.690000,0.225000
+ageRange=-1.000000,-1.000000
+parent=-1
+invisHolding=0,invisWorn=0,behindSlots=0
+invisCont=0
 spriteID=100276
 pos=2.000000,-8.000000
 rot=0.000000
@@ -38,7 +47,7 @@ color=0.700000,0.700000,0.700000
 ageRange=-1.000000,-1.000000
 parent=-1
 invisHolding=0,invisWorn=0,behindSlots=0
-invisCont=0
+invisCont=1
 headIndex=-1
 bodyIndex=-1
 backFootIndex=-1
