@@ -1,5 +1,5 @@
-id=88597
-Compost Box
+id=88602
+Compost Box #full
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3
@@ -29,7 +29,7 @@ creationSoundForce=0
 numSlots=0#timeStretch=1.000000
 slotSize=1.000000
 slotsLocked=0
-numSprites=13
+numSprites=14
 spriteID=791
 pos=-1.000000,-6.000000
 rot=0.000000
@@ -54,7 +54,7 @@ rot=0.000000
 hFlip=0
 color=1.000000,1.000000,1.000000
 ageRange=-1.000000,-1.000000
-parent=11
+parent=12
 invisHolding=0,invisWorn=0,behindSlots=0
 invisCont=0
 spriteID=988
@@ -63,7 +63,7 @@ rot=0.000000
 hFlip=0
 color=1.000000,1.000000,1.000000
 ageRange=-1.000000,-1.000000
-parent=11
+parent=12
 invisHolding=0,invisWorn=0,behindSlots=0
 invisCont=0
 spriteID=738
@@ -81,7 +81,7 @@ rot=0.000000
 hFlip=0
 color=1.000000,1.000000,1.000000
 ageRange=-1.000000,-1.000000
-parent=11
+parent=12
 invisHolding=0,invisWorn=0,behindSlots=0
 invisCont=0
 spriteID=988
@@ -90,7 +90,7 @@ rot=0.000000
 hFlip=0
 color=1.000000,1.000000,1.000000
 ageRange=-1.000000,-1.000000
-parent=11
+parent=12
 invisHolding=0,invisWorn=0,behindSlots=0
 invisCont=0
 spriteID=738
@@ -99,7 +99,7 @@ rot=0.000000
 hFlip=0
 color=1.000000,1.000000,1.000000
 ageRange=-1.000000,-1.000000
-parent=11
+parent=12
 invisHolding=0,invisWorn=0,behindSlots=0
 invisCont=0
 spriteID=738
@@ -117,7 +117,16 @@ rot=0.000000
 hFlip=0
 color=1.000000,1.000000,1.000000
 ageRange=-1.000000,-1.000000
-parent=11
+parent=12
+invisHolding=0,invisWorn=0,behindSlots=0
+invisCont=0
+spriteID=988
+pos=-25.000000,-8.000000
+rot=0.000000
+hFlip=1
+color=1.000000,1.000000,1.000000
+ageRange=-1.000000,-1.000000
+parent=12
 invisHolding=0,invisWorn=0,behindSlots=0
 invisCont=0
 spriteID=988
@@ -126,7 +135,7 @@ rot=0.000000
 hFlip=0
 color=1.000000,1.000000,1.000000
 ageRange=-1.000000,-1.000000
-parent=11
+parent=12
 invisHolding=0,invisWorn=0,behindSlots=0
 invisCont=0
 spriteID=738
@@ -151,7 +160,7 @@ headIndex=-1
 bodyIndex=-1
 backFootIndex=-1
 frontFootIndex=-1
-numUses=9,1.000000
-useVanishIndex=2,3,4,5,6,7,8,9,10
+numUses=1,1.000000
+useVanishIndex=2,3,4,5,6,7,8,9,10,11
 useAppearIndex=-1
 pixHeight=18
