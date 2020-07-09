@@ -2,7 +2,7 @@ id=4430
 Paved Road T# +road4426
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
-permanent=0,minPickupAge=3
+permanent=1,minPickupAge=3
 noFlip=0
 sideAccess=0
 heldInHand=2
@@ -40,7 +40,7 @@ parent=-1
 invisHolding=0,invisWorn=0,behindSlots=0
 invisCont=0
 spriteID=3310
-pos=43.000000,9.000000
+pos=43.000000,8.000000
 rot=0.000000
 hFlip=0
 color=1.000000,1.000000,1.000000

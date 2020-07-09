@@ -1,5 +1,5 @@
-id=4426
-Paved Road East West
+id=4448
+South West Road Elbow# +road4426
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3
@@ -30,19 +30,19 @@ numSlots=0#timeStretch=1.000000
 slotSize=1.000000
 slotsLocked=0
 numSprites=2
-spriteID=3303
-pos=0.000000,11.000000
-rot=0.000000
+spriteID=3302
+pos=-1.000000,9.000000
+rot=0.250000
 hFlip=0
 color=1.000000,1.000000,1.000000
 ageRange=-1.000000,-1.000000
 parent=-1
 invisHolding=0,invisWorn=0,behindSlots=0
 invisCont=0
-spriteID=3304
-pos=0.000000,9.000000
-rot=-0.250000
-hFlip=0
+spriteID=3307
+pos=-27.000000,-17.000000
+rot=0.000000
+hFlip=1
 color=1.000000,1.000000,1.000000
 ageRange=-1.000000,-1.000000
 parent=-1
@@ -55,4 +55,4 @@ frontFootIndex=-1
 numUses=1,1.000000
 useVanishIndex=-1
 useAppearIndex=-1
-pixHeight=80
+pixHeight=79
