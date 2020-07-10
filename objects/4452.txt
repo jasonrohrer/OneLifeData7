@@ -1,5 +1,5 @@
 id=4452
-North South West Road Tee# +road4426
+North South West Road Tee# D +road4426
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

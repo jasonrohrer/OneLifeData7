@@ -1,5 +1,5 @@
 id=4428
-North South East Road Tee# +road4426
+North South East Road Tee# B +road4426
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3
