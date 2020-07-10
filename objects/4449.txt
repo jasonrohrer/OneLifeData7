@@ -1,5 +1,5 @@
 id=4449
-North East Road Elbow# +road4426
+North East Road Elbow# +road4426 +noCover
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3
