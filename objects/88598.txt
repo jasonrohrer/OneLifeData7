@@ -1,5 +1,5 @@
 id=88598
-Composting Box #full
+Full Composting Box
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3
@@ -40,7 +40,7 @@ parent=-1
 invisHolding=0,invisWorn=0,behindSlots=1
 invisCont=0
 spriteID=100572
-pos=-1.000000,-7.000000
+pos=-2.000000,-2.000000
 rot=-0.005000
 hFlip=0
 color=1.000000,1.000000,1.000000
