@@ -1,5 +1,5 @@
-id=4393
-Southward Pipe
+id=4497
+East-West Pipe
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3
@@ -29,9 +29,18 @@ creationSoundForce=0
 numSlots=0#timeStretch=1.000000
 slotSize=1.000000
 slotsLocked=0
-numSprites=1
-spriteID=3287
-pos=0.000000,5.000000
+numSprites=2
+spriteID=3279
+pos=-71.000000,-33.000000
+rot=0.000000
+hFlip=0
+color=1.000000,1.000000,1.000000
+ageRange=-1.000000,-1.000000
+parent=1
+invisHolding=0,invisWorn=0,behindSlots=0
+invisCont=0
+spriteID=3277
+pos=-4.000000,-33.000000
 rot=0.000000
 hFlip=0
 color=1.000000,1.000000,1.000000
@@ -47,4 +56,4 @@ frontFootIndex=-1
 numUses=1,1.000000
 useVanishIndex=-1
 useAppearIndex=-1
-pixHeight=80
+pixHeight=0

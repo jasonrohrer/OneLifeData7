@@ -1,5 +1,5 @@
 id=4408
-Southward Sprinkler Pipe# waterGone
+Southward Pipe# waterGone
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3
