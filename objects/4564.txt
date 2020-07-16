@@ -1,5 +1,5 @@
-id=4536
-Oil Pull# moving west
+id=4564
+Oil Pull# moving East END
 containable=0
 containSize=1.000000,vertSlotRot=-0.250000
 permanent=1,minPickupAge=3
@@ -39,8 +39,8 @@ ageRange=-1.000000,-1.000000
 parent=-1
 invisHolding=0,invisWorn=0,behindSlots=0
 invisCont=0
-spriteID=1227
-pos=4.000000,-51.000000
+spriteID=1212
+pos=6.000000,-54.000000
 rot=0.000000
 hFlip=0
 color=1.000000,1.000000,1.000000
