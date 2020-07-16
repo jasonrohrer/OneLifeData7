@@ -1,5 +1,5 @@
-id=4558
-@ Oil Flow leaving
+id=4569
+Oil Pull# moving south
 containable=0
 containSize=1.000000,vertSlotRot=-0.250000
 permanent=1,minPickupAge=3
@@ -39,8 +39,8 @@ ageRange=-1.000000,-1.000000
 parent=-1
 invisHolding=0,invisWorn=0,behindSlots=0
 invisCont=0
-spriteID=711
-pos=0.000000,0.000000
+spriteID=1225
+pos=5.000000,-50.000000
 rot=0.000000
 hFlip=0
 color=1.000000,1.000000,1.000000
@@ -55,4 +55,4 @@ frontFootIndex=-1
 numUses=1,1.000000
 useVanishIndex=-1
 useAppearIndex=-1
-pixHeight=25
+pixHeight=5

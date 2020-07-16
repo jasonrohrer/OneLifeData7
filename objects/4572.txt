@@ -1,5 +1,5 @@
-id=4558
-@ Oil Flow leaving
+id=4572
+@ Oil Pull What Reverse Sends
 containable=0
 containSize=1.000000,vertSlotRot=-0.250000
 permanent=1,minPickupAge=3

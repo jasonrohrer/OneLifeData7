@@ -1,5 +1,5 @@
 id=4549
-@ Oil Request moving
+@ Oil Pull moving
 containable=0
 containSize=1.000000,vertSlotRot=-0.250000
 permanent=1,minPickupAge=3

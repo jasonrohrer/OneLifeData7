@@ -1,5 +1,5 @@
-id=4558
-@ Oil Flow leaving
+id=4570
+@ Oil Pull END
 containable=0
 containSize=1.000000,vertSlotRot=-0.250000
 permanent=1,minPickupAge=3
