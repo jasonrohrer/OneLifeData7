@@ -1,5 +1,5 @@
 id=4553
-East-West Pipe# oilAnswerHit west
+East-West Pipe# oilFlowHit west
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

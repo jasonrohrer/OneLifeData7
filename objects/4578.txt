@@ -1,5 +1,5 @@
-id=4555
-@ Oil Flow Pipe After Hit
+id=4578
+Southward Pipe# oilPullHit north
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3
@@ -23,33 +23,15 @@ clothing=n
 clothingOffset=-27.000000,72.000000
 deadlyDistance=0
 useDistance=1
-sounds=-1:0.0,-1:0.0,-1:0.0,-1:0.0
+sounds=1559:0.133333#1560:0.133333#1561:0.133333#1562:0.133333#1563:0.133333,-1:0.0,-1:0.0,-1:0.0
 creationSoundInitialOnly=0
 creationSoundForce=0
 numSlots=0#timeStretch=1.000000
 slotSize=1.000000
 slotsLocked=0
-numSprites=3
-spriteID=3279
-pos=-71.000000,-33.000000
-rot=0.000000
-hFlip=0
-color=1.000000,1.000000,1.000000
-ageRange=-1.000000,-1.000000
-parent=1
-invisHolding=0,invisWorn=0,behindSlots=0
-invisCont=0
-spriteID=3277
-pos=-4.000000,-33.000000
-rot=0.000000
-hFlip=0
-color=0.000000,0.000000,0.000000
-ageRange=-1.000000,-1.000000
-parent=-1
-invisHolding=0,invisWorn=0,behindSlots=0
-invisCont=0
-spriteID=711
-pos=0.000000,0.000000
+numSprites=1
+spriteID=3287
+pos=0.000000,5.000000
 rot=0.000000
 hFlip=0
 color=1.000000,1.000000,1.000000
@@ -65,4 +47,4 @@ frontFootIndex=-1
 numUses=1,1.000000
 useVanishIndex=-1
 useAppearIndex=-1
-pixHeight=25
+pixHeight=80

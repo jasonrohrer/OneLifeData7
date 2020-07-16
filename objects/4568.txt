@@ -1,5 +1,5 @@
 id=4568
-Oil Spigot with Empty Tank# requestSent replace
+Oil Spigot with Empty Tank# pullSent replace
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3
