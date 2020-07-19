@@ -1,5 +1,5 @@
 id=7263
-Copper Pipe #corner SW justleft
+Copper Pipe#vertical justleft
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3
@@ -30,8 +30,8 @@ numSlots=0#timeStretch=1.000000
 slotSize=1.000000
 slotsLocked=0
 numSprites=1
-spriteID=100597
-pos=0.000000,-22.000000
+spriteID=100595
+pos=0.000000,3.000000
 rot=0.000000
 hFlip=0
 color=1.000000,1.000000,1.000000
@@ -44,7 +44,7 @@ headIndex=-1
 bodyIndex=-1
 backFootIndex=-1
 frontFootIndex=-1
-numUses=1,1.000000
+numUses=0,0.000000
 useVanishIndex=-1
 useAppearIndex=-1
-pixHeight=10
+pixHeight=68
