@@ -1,5 +1,5 @@
-id=7319
-Empty Apple Tree
+id=7350
+Autumn Lemon Tree
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3
@@ -30,20 +30,20 @@ numSlots=0#timeStretch=1.000000
 slotSize=1.000000
 slotsLocked=0
 numSprites=2
-spriteID=100637
-pos=4.000000,116.000000
+spriteID=100641
+pos=2.000000,68.000000
 rot=0.000000
 hFlip=0
-color=0.704225,0.704225,0.704225
+color=1.000000,1.000000,1.000000
 ageRange=-1.000000,-1.000000
 parent=-1
 invisHolding=0,invisWorn=0,behindSlots=0
 invisCont=0
-spriteID=100638
-pos=-3.000000,164.000000
+spriteID=100645
+pos=-6.000000,193.000000
 rot=0.000000
 hFlip=0
-color=1.000000,1.000000,1.000000
+color=1.000000,0.211268,0.211268
 ageRange=-1.000000,-1.000000
 parent=-1
 invisHolding=0,invisWorn=0,behindSlots=0
@@ -55,4 +55,4 @@ frontFootIndex=-1
 numUses=1,1.000000
 useVanishIndex=-1
 useAppearIndex=-1
-pixHeight=295
+pixHeight=296
