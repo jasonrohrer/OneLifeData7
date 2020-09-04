@@ -1,7 +1,7 @@
 id=7479
 Full Crate of Oranges
 containable=1
-containSize=1.000000,vertSlotRot=0.000000
+containSize=3.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3
 noFlip=1
 sideAccess=0
@@ -17,7 +17,7 @@ homeMarker=0
 floor=0
 floorHugging=0
 foodValue=0
-speedMult=1.000000
+speedMult=0.800000
 heldOffset=18.000000,0.000000
 clothing=n
 clothingOffset=0.000000,0.000000
