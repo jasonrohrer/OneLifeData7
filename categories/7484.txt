@@ -1,6 +1,12 @@
 parentID=7484
 pattern
-numObjects=3
+numObjects=9
 7479
 7478
 7485
+7506
+7510
+7514
+7519
+7524
+7528
