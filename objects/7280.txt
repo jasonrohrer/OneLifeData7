@@ -1,5 +1,5 @@
 id=7280
-Pine Door# Installed $20
+Pine Door# Installed gold $20
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3
