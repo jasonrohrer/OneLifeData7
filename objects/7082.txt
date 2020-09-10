@@ -1,5 +1,5 @@
 id=7082
-Hen in Cage
+Caged Hen
 containable=1
 containSize=3.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3
