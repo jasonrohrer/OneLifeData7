@@ -1,5 +1,5 @@
 id=7289
-Open Pine Needle Door# installed $20 +password-protected
+Locked Open Pine Needle Door# installed $20 +password-protected
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

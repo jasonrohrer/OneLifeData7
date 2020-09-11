@@ -1,5 +1,5 @@
 id=7274
-Open Pine Needle Door Silver# installed $20
+Locked Open Pine Needle Door # installed $20
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3
