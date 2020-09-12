@@ -1,7 +1,7 @@
-id=880
-Big Stack of Boards
-containable=0
-containSize=1.000000,vertSlotRot=0.000000
+id=4650
+Sheet Metal
+containable=1
+containSize=2.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3
 noFlip=0
 sideAccess=0
@@ -18,34 +18,25 @@ floor=0
 floorHugging=0
 foodValue=0
 speedMult=1.000000
-heldOffset=8.000000,21.000000
+heldOffset=8.000000,15.000000
 clothing=n
 clothingOffset=0.000000,0.000000
 deadlyDistance=0
 useDistance=1
-sounds=505:0.250000,-1:0.0,-1:0.0,-1:0.0
+sounds=407:0.250000,-1:0.0,-1:0.0,-1:0.0
 creationSoundInitialOnly=1
 creationSoundForce=0
 numSlots=0#timeStretch=1.000000
 slotSize=1.000000
 slotsLocked=0
-numSprites=2
-spriteID=789
-pos=2.000000,-30.000000
+numSprites=1
+spriteID=3339
+pos=9.000000,-34.000000
 rot=0.000000
 hFlip=0
 color=1.000000,1.000000,1.000000
 ageRange=-1.000000,-1.000000
 parent=-1
-invisHolding=0,invisWorn=0,behindSlots=0
-invisCont=0
-spriteID=789
-pos=13.000000,-9.000000
-rot=0.000000
-hFlip=0
-color=1.000000,1.000000,1.000000
-ageRange=-1.000000,-1.000000
-parent=0
 invisHolding=0,invisWorn=0,behindSlots=0
 invisCont=0
 headIndex=-1
@@ -55,4 +46,4 @@ frontFootIndex=-1
 numUses=1,1.000000
 useVanishIndex=-1
 useAppearIndex=-1
-pixHeight=8
+pixHeight=0
