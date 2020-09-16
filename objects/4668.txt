@@ -1,5 +1,5 @@
-id=4659
-Red Sports Car
+id=4668
+Unnumbered Red Sports Car
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3
@@ -23,14 +23,13 @@ clothing=n
 clothingOffset=0.000000,0.000000
 deadlyDistance=0
 useDistance=1
-sounds=321:0.250000,-1:0.0,-1:0.0,-1:0.0
+sounds=870:0.250000,-1:0.0,-1:0.0,-1:0.0
 creationSoundInitialOnly=0
 creationSoundForce=0
-numSlots=1#timeStretch=1.000000
-slotSize=2.000000
+numSlots=0#timeStretch=1.000000
+slotSize=1.000000
 slotsLocked=0
-slotPos=-100.000000,53.000000,vert=1,parent=-1
-numSprites=21
+numSprites=19
 spriteID=3368
 pos=-135.000000,8.000000
 rot=0.000000
@@ -189,24 +188,6 @@ pos=-35.000000,34.000000
 rot=0.000000
 hFlip=0
 color=0.309859,0.309859,0.309859
-ageRange=-1.000000,-1.000000
-parent=15
-invisHolding=0,invisWorn=0,behindSlots=0
-invisCont=0
-spriteID=3352
-pos=-54.000000,33.000000
-rot=0.000000
-hFlip=0
-color=1.000000,1.000000,1.000000
-ageRange=-1.000000,-1.000000
-parent=15
-invisHolding=0,invisWorn=0,behindSlots=0
-invisCont=0
-spriteID=3353
-pos=-40.000000,34.000000
-rot=0.000000
-hFlip=0
-color=1.000000,1.000000,1.000000
 ageRange=-1.000000,-1.000000
 parent=15
 invisHolding=0,invisWorn=0,behindSlots=0
