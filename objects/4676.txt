@@ -1,5 +1,5 @@
-id=4652
-Stack of Sheet Metal
+id=4676
+Stack of Green Sheet Metal
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3
@@ -23,8 +23,8 @@ clothing=n
 clothingOffset=0.000000,0.000000
 deadlyDistance=0
 useDistance=1
-sounds=1523:0.250000,1523:0.250000,-1:0.0,-1:0.0
-creationSoundInitialOnly=1
+sounds=349:0.250000,-1:0.0,-1:0.0,-1:0.0
+creationSoundInitialOnly=0
 creationSoundForce=0
 numSlots=0#timeStretch=1.000000
 slotSize=1.000000
@@ -34,7 +34,7 @@ spriteID=3339
 pos=9.000000,-34.000000
 rot=0.000000
 hFlip=0
-color=1.000000,1.000000,1.000000
+color=0.415686,0.694118,0.113725
 ageRange=-1.000000,-1.000000
 parent=-1
 invisHolding=0,invisWorn=0,behindSlots=0
@@ -43,7 +43,7 @@ spriteID=3339
 pos=4.000000,-28.000000
 rot=0.000000
 hFlip=0
-color=1.000000,1.000000,1.000000
+color=0.415686,0.694118,0.113725
 ageRange=-1.000000,-1.000000
 parent=-1
 invisHolding=0,invisWorn=0,behindSlots=0
@@ -52,7 +52,7 @@ spriteID=3339
 pos=10.000000,-22.000000
 rot=0.000000
 hFlip=1
-color=1.000000,1.000000,1.000000
+color=0.415686,0.694118,0.113725
 ageRange=-1.000000,-1.000000
 parent=-1
 invisHolding=0,invisWorn=0,behindSlots=0
@@ -61,7 +61,7 @@ spriteID=3339
 pos=5.000000,-16.000000
 rot=0.000000
 hFlip=0
-color=1.000000,1.000000,1.000000
+color=0.415686,0.694118,0.113725
 ageRange=-1.000000,-1.000000
 parent=-1
 invisHolding=0,invisWorn=0,behindSlots=0
@@ -70,7 +70,7 @@ headIndex=-1
 bodyIndex=-1
 backFootIndex=-1
 frontFootIndex=-1
-numUses=3,1.000000
+numUses=1,1.000000
 useVanishIndex=1,2,3
 useAppearIndex=-1
 pixHeight=3
