@@ -1,5 +1,5 @@
 id=4673
-Unfueled Red Sports Car $30# +varNumeral +varSerialNumber justBuilt
+Unfueled Red Sports Car $30# +varNumeral +varSerialNumber1 justBuilt
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

@@ -1,5 +1,5 @@
 id=4683
-Unfueled Blue Sports Car $30# +varNumeral +varSerialNumber justBuilt
+Unfueled Blue Sports Car $30# +varNumeral +varSerialNumber1 justBuilt
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3
