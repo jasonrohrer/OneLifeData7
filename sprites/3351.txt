@@ -1,1 +1,1 @@
-Numeral#7 0 0 0
+NoFlipNumeral#7 0 0 0
