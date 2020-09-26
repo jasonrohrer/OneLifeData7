@@ -1,7 +1,7 @@
 id=6816
 Shovel on Poipack
 containable=1
-containSize=2.000000,vertSlotRot=-0.955000
+containSize=2.000000,vertSlotRot=-1.250000
 permanent=0,minPickupAge=3
 noFlip=0
 sideAccess=0
@@ -62,8 +62,8 @@ ageRange=-1.000000,-1.000000
 parent=-1
 invisHolding=0,invisWorn=0,behindSlots=0
 invisCont=0
-spriteID=100255
-pos=-3.000000,2.000000
+spriteID=100784
+pos=-5.000000,-20.000000
 rot=0.000000
 hFlip=0
 color=1.000000,1.000000,1.000000
@@ -72,7 +72,7 @@ parent=2
 invisHolding=0,invisWorn=0,behindSlots=1
 invisCont=0
 spriteID=833
-pos=-9.000000,-12.000000
+pos=-7.000000,-20.000000
 rot=0.270000
 hFlip=0
 color=1.000000,1.000000,1.000000
@@ -81,7 +81,7 @@ parent=-1
 invisHolding=0,invisWorn=0,behindSlots=0
 invisCont=0
 spriteID=1156
-pos=-14.721139,-39.699613
+pos=-12.721139,-47.699613
 rot=0.305000
 hFlip=0
 color=1.000000,1.000000,1.000000
@@ -90,7 +90,7 @@ parent=4
 invisHolding=0,invisWorn=0,behindSlots=0
 invisCont=0
 spriteID=1189
-pos=-14.608400,-48.242873
+pos=-12.608400,-56.242873
 rot=0.555000
 hFlip=1
 color=1.000000,1.000000,1.000000
@@ -105,4 +105,4 @@ frontFootIndex=-1
 numUses=5,0.000000
 useVanishIndex=-1
 useAppearIndex=5,6
-pixHeight=12
+pixHeight=11

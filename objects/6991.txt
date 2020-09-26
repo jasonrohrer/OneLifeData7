@@ -1,7 +1,7 @@
 id=6991
 Poipack with Blunt Sword
 containable=1
-containSize=2.000000,vertSlotRot=-0.955000
+containSize=2.000000,vertSlotRot=-1.250000
 permanent=0,minPickupAge=3
 noFlip=0
 sideAccess=0
@@ -62,8 +62,8 @@ ageRange=-1.000000,-1.000000
 parent=-1
 invisHolding=0,invisWorn=0,behindSlots=0
 invisCont=0
-spriteID=100255
-pos=-3.000000,2.000000
+spriteID=100784
+pos=-5.000000,-20.000000
 rot=0.000000
 hFlip=0
 color=1.000000,1.000000,1.000000
@@ -72,7 +72,7 @@ parent=2
 invisHolding=0,invisWorn=0,behindSlots=1
 invisCont=0
 spriteID=2801
-pos=-1.000000,-34.000004
+pos=4.000000,-25.000000
 rot=0.275000
 hFlip=0
 color=1.000000,1.000000,1.000000
@@ -87,4 +87,4 @@ frontFootIndex=-1
 numUses=1,1.000000
 useVanishIndex=-1
 useAppearIndex=-1
-pixHeight=12
+pixHeight=11

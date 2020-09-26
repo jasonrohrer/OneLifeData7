@@ -35,8 +35,8 @@ slotPos=5.000000,0.000000,vert=1,parent=-1
 slotPos=9.000000,0.000000,vert=1,parent=-1
 slotPos=5.000000,0.000000,vert=1,parent=-1
 numSprites=5
-spriteID=100255
-pos=-3.000000,2.000000
+spriteID=100784
+pos=-5.000000,-20.000000
 rot=0.000000
 hFlip=0
 color=1.000000,1.000000,1.000000
@@ -87,4 +87,4 @@ frontFootIndex=-1
 numUses=1,1.000000
 useVanishIndex=-1
 useAppearIndex=-1
-pixHeight=12
+pixHeight=11

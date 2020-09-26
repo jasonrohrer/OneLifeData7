@@ -35,8 +35,8 @@ slotPos=5.000000,0.000000,vert=1,parent=-1
 slotPos=9.000000,0.000000,vert=1,parent=-1
 slotPos=5.000000,0.000000,vert=1,parent=-1
 numSprites=6
-spriteID=100255
-pos=-3.000000,2.000000
+spriteID=100784
+pos=-5.000000,-20.000000
 rot=0.000000
 hFlip=0
 color=1.000000,1.000000,1.000000
@@ -72,7 +72,7 @@ parent=-1
 invisHolding=0,invisWorn=1,behindSlots=0
 invisCont=0
 spriteID=2011
-pos=-7.000000,-10.000000
+pos=4.000000,-18.000000
 rot=-0.105000
 hFlip=0
 color=1.000000,1.000000,1.000000
@@ -81,7 +81,7 @@ parent=-1
 invisHolding=0,invisWorn=0,behindSlots=0
 invisCont=0
 spriteID=2023
-pos=4.912010,44.800584
+pos=15.912010,36.800584
 rot=0.020000
 hFlip=0
 color=1.000000,1.000000,1.000000
@@ -96,4 +96,4 @@ frontFootIndex=-1
 numUses=1,1.000000
 useVanishIndex=-1
 useAppearIndex=-1
-pixHeight=45
+pixHeight=37

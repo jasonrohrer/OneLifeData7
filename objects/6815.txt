@@ -1,7 +1,7 @@
 id=6815
 Steel Pick on Poipack
 containable=1
-containSize=2.000000,vertSlotRot=-0.955000
+containSize=2.000000,vertSlotRot=-1.250000
 permanent=0,minPickupAge=3
 noFlip=0
 sideAccess=0
@@ -62,8 +62,8 @@ ageRange=-1.000000,-1.000000
 parent=-1
 invisHolding=0,invisWorn=0,behindSlots=0
 invisCont=0
-spriteID=100255
-pos=-3.000000,2.000000
+spriteID=100784
+pos=-5.000000,-19.000000
 rot=0.000000
 hFlip=0
 color=1.000000,1.000000,1.000000
