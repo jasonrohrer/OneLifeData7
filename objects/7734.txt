@@ -1,5 +1,5 @@
-id=7733
-Ripe Wheat #crow
+id=7734
+Ripe Wheat #crow flying
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3
@@ -39,27 +39,27 @@ ageRange=-1.000000,-1.000000
 parent=-1
 invisHolding=0,invisWorn=0,behindSlots=0
 invisCont=0
-spriteID=100796
-pos=5.999985,-24.000004
-rot=-0.005000
-hFlip=0
-color=1.000000,1.000000,1.000000
-ageRange=-1.000000,-1.000000
-parent=-1
-invisHolding=0,invisWorn=0,behindSlots=0
-invisCont=0
-spriteID=100794
-pos=8.999992,-44.000000
+spriteID=100801
+pos=-80.000008,97.000000
 rot=0.000000
 hFlip=0
 color=1.000000,1.000000,1.000000
 ageRange=-1.000000,-1.000000
-parent=-1
+parent=0
 invisHolding=0,invisWorn=0,behindSlots=0
 invisCont=0
-spriteID=100798
-pos=18.616641,-11.597581
-rot=0.010000
+spriteID=100800
+pos=-92.000000,112.000000
+rot=0.000000
+hFlip=0
+color=1.000000,1.000000,1.000000
+ageRange=-1.000000,-1.000000
+parent=1
+invisHolding=0,invisWorn=0,behindSlots=0
+invisCont=0
+spriteID=100799
+pos=-74.000000,81.000000
+rot=0.000000
 hFlip=0
 color=1.000000,1.000000,1.000000
 ageRange=-1.000000,-1.000000
@@ -73,4 +73,4 @@ frontFootIndex=-1
 numUses=1,1.000000
 useVanishIndex=-1
 useAppearIndex=-1
-pixHeight=73
+pixHeight=135
