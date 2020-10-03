@@ -1,5 +1,5 @@
-id=7732
-Scarecrow
+id=7752
+Hatless Scarecrow
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3
@@ -24,12 +24,12 @@ clothingOffset=0.000000,0.000000
 deadlyDistance=0
 useDistance=1
 sounds=147:0.250000,-1:0.0,-1:0.0,-1:0.0
-creationSoundInitialOnly=1
+creationSoundInitialOnly=0
 creationSoundForce=0
 numSlots=0#timeStretch=1.000000
 slotSize=1.000000
 slotsLocked=0
-numSprites=15
+numSprites=14
 spriteID=74
 pos=-3.000000,-36.000000
 rot=0.000000
@@ -156,15 +156,6 @@ ageRange=-1.000000,-1.000000
 parent=6
 invisHolding=0,invisWorn=0,behindSlots=0
 invisCont=0
-spriteID=1365
-pos=-16.000000,167.000000
-rot=0.000000
-hFlip=0
-color=1.000000,1.000000,1.000000
-ageRange=-1.000000,-1.000000
-parent=13
-invisHolding=0,invisWorn=0,behindSlots=0
-invisCont=0
 spritesDrawnBehind=0,2,3,4
 headIndex=-1
 bodyIndex=-1
@@ -173,4 +164,4 @@ frontFootIndex=-1
 numUses=1,1.000000
 useVanishIndex=-1
 useAppearIndex=-1
-pixHeight=192
+pixHeight=182
