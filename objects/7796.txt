@@ -1,5 +1,5 @@
-id=7769
-Wet Diesel Water Pump with Pipe
+id=7796
+Wet Diesel Water Pump with Pipe# +tapoutTrigger,1,1,1,1
 containable=0
 containSize=1.000000,vertSlotRot=-0.195000
 permanent=1,minPickupAge=3
@@ -395,7 +395,7 @@ headIndex=-1
 bodyIndex=-1
 backFootIndex=-1
 frontFootIndex=-1
-numUses=7,1.000000
+numUses=1,1.000000
 useVanishIndex=33,34,35,36,37,38,39
 useAppearIndex=-1
 pixHeight=139
