@@ -1,5 +1,5 @@
-id=7255
-South Fill Station with Bucket
+id=7823
+South Fill Station with Bucket #on
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3
@@ -75,8 +75,8 @@ ageRange=-1.000000,-1.000000
 parent=-1
 invisHolding=0,invisWorn=0,behindSlots=0
 invisCont=0
-spriteID=1341
-pos=22.000000,64.000000
+spriteID=1335
+pos=20.000000,64.000000
 rot=0.000000
 hFlip=0
 color=1.000000,1.000000,1.000000
