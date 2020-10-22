@@ -1,5 +1,5 @@
 id=6485
-Cooked Skewered Fillets
+Cooked Skewered Fish Fillets
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3
@@ -29,7 +29,7 @@ creationSoundForce=0
 numSlots=0#timeStretch=1.000000
 slotSize=1.000000
 slotsLocked=0
-numSprites=3
+numSprites=5
 spriteID=403
 pos=10.000000,-32.000000
 rot=0.000000
@@ -39,17 +39,35 @@ ageRange=-1.000000,-1.000000
 parent=-1
 invisHolding=0,invisWorn=0,behindSlots=0
 invisCont=0
-spriteID=100225
-pos=7.000000,-29.000000
+spriteID=100846
+pos=9.000000,-30.000000
 rot=0.000000
 hFlip=0
-color=1.000000,1.000000,1.000000
+color=0.971831,0.971831,0.971831
 ageRange=-1.000000,-1.000000
 parent=-1
 invisHolding=0,invisWorn=0,behindSlots=0
 invisCont=0
-spriteID=100225
-pos=32.000000,-28.000000
+spriteID=100845
+pos=34.000000,-28.000000
+rot=0.000000
+hFlip=0
+color=0.971831,0.971831,0.971831
+ageRange=-1.000000,-1.000000
+parent=-1
+invisHolding=0,invisWorn=0,behindSlots=0
+invisCont=0
+spriteID=100848
+pos=8.000000,-28.000000
+rot=0.000000
+hFlip=0
+color=1.000000,1.000000,1.000000
+ageRange=-1.000000,-1.000000
+parent=1
+invisHolding=0,invisWorn=0,behindSlots=0
+invisCont=0
+spriteID=100847
+pos=35.000000,-27.999996
 rot=0.000000
 hFlip=0
 color=1.000000,1.000000,1.000000
@@ -62,6 +80,6 @@ bodyIndex=-1
 backFootIndex=-1
 frontFootIndex=-1
 numUses=2,1.000000
-useVanishIndex=1,2
+useVanishIndex=-1
 useAppearIndex=-1
 pixHeight=0
