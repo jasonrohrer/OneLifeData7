@@ -1,5 +1,5 @@
 parentID=7737
 probSet
 numObjects=2
-242 0.990000
 7736 0.010000
+7764 0.990000
