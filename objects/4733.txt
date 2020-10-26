@@ -1,5 +1,5 @@
 id=4733
-Ally Gate# manuallyOpened +owned +causeAutoOrientH +badgePos-101,-20 +leaderInherit
+Follower Gate# manuallyOpened +owned +causeAutoOrientH +badgePos-101,-20 +leaderInherit
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3
@@ -31,7 +31,7 @@ slotSize=1.000000
 slotsLocked=0
 numSprites=7
 spriteID=2742
-pos=-69.000000,-63.000000
+pos=-70.000000,-63.000000
 rot=0.000000
 hFlip=0
 color=1.000000,1.000000,1.000000
@@ -40,7 +40,7 @@ parent=-1
 invisHolding=0,invisWorn=0,behindSlots=0
 invisCont=0
 spriteID=2739
-pos=-61.000000,-30.000000
+pos=-62.000000,-30.000000
 rot=0.000000
 hFlip=0
 color=1.000000,1.000000,1.000000
@@ -49,7 +49,7 @@ parent=-1
 invisHolding=0,invisWorn=0,behindSlots=0
 invisCont=0
 spriteID=2738
-pos=59.000000,-30.000000
+pos=58.000000,-30.000000
 rot=0.000000
 hFlip=0
 color=1.000000,1.000000,1.000000
@@ -58,7 +58,7 @@ parent=-1
 invisHolding=0,invisWorn=0,behindSlots=0
 invisCont=0
 spriteID=2741
-pos=-74.000000,-38.000000
+pos=-75.000000,-38.000000
 rot=0.000000
 hFlip=0
 color=1.000000,1.000000,1.000000
@@ -67,7 +67,7 @@ parent=-1
 invisHolding=0,invisWorn=0,behindSlots=0
 invisCont=0
 spriteID=2741
-pos=-96.000000,-67.000000
+pos=-97.000000,-67.000000
 rot=0.000000
 hFlip=0
 color=1.000000,1.000000,1.000000
@@ -76,7 +76,7 @@ parent=-1
 invisHolding=0,invisWorn=0,behindSlots=0
 invisCont=0
 spriteID=2742
-pos=-90.000000,-89.000000
+pos=-91.000000,-89.000000
 rot=0.000000
 hFlip=0
 color=1.000000,1.000000,1.000000
@@ -85,7 +85,7 @@ parent=-1
 invisHolding=0,invisWorn=0,behindSlots=0
 invisCont=0
 spriteID=403
-pos=-101.000000,-45.000000
+pos=-102.000000,-45.000000
 rot=0.250000
 hFlip=0
 color=1.000000,1.000000,1.000000
