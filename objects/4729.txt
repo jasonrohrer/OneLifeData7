@@ -1,5 +1,5 @@
 id=4729
-Follower Gate# +owned +causeAutoOrientH +blocksNonAlly +blocksMoving +badgePos50,39 +autoDefaultTrans +leaderInherit
+Follower Gate# +followerOwned +causeAutoOrientH +blocksNonFollower +blocksMoving +badgePos50,39 +autoDefaultTrans +leaderInherit
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

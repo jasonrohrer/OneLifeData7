@@ -1,5 +1,5 @@
 id=4733
-Follower Gate# manuallyOpened +owned +causeAutoOrientH +badgePos-101,-20 +leaderInherit
+Follower Gate# manuallyOpened +followerOwned +causeAutoOrientH +badgePos-101,-20 +leaderInherit
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3
