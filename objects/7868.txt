@@ -1,5 +1,5 @@
-id=7225
-Copper Pipe #corner NW +tapoutTrigger,1,1,1,1
+id=7868
+Copper Pipe #corner SW check +tapoutTrigger,1,1,1,1
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3
@@ -30,8 +30,8 @@ numSlots=0#timeStretch=1.000000
 slotSize=1.000000
 slotsLocked=0
 numSprites=1
-spriteID=100599
-pos=0.000000,18.000000
+spriteID=100597
+pos=0.000000,-22.000000
 rot=0.000000
 hFlip=0
 color=1.000000,1.000000,1.000000
@@ -47,4 +47,4 @@ frontFootIndex=-1
 numUses=1,1.000000
 useVanishIndex=-1
 useAppearIndex=-1
-pixHeight=69
+pixHeight=10

@@ -1,5 +1,5 @@
 id=7227
-Copper Pipe #corner SE
+Copper Pipe #corner SE +tapoutTrigger,1,1,1,1
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

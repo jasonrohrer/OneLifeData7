@@ -1,5 +1,5 @@
-id=7225
-Copper Pipe #corner NW +tapoutTrigger,1,1,1,1
+id=7869
+Copper Pipe #corner NE just installed
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3
@@ -30,7 +30,7 @@ numSlots=0#timeStretch=1.000000
 slotSize=1.000000
 slotsLocked=0
 numSprites=1
-spriteID=100599
+spriteID=100600
 pos=0.000000,18.000000
 rot=0.000000
 hFlip=0
@@ -47,4 +47,4 @@ frontFootIndex=-1
 numUses=1,1.000000
 useVanishIndex=-1
 useAppearIndex=-1
-pixHeight=69
+pixHeight=68
