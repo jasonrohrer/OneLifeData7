@@ -1,5 +1,5 @@
 id=7245
-Copper Pipe #waterW corner
+Copper Pipe 2#waterW corner +tapoutTrigger,1,1,1,1
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3
