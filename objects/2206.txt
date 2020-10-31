@@ -1,5 +1,5 @@
 id=2206
-Hot Boiler#flat rock
+Hot Tank#flat rock
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3
@@ -38,15 +38,17 @@ color=1.000000,1.000000,1.000000
 ageRange=-1.000000,-1.000000
 parent=-1
 invisHolding=0,invisWorn=0,behindSlots=0
-spriteID=2163
-pos=2.000000,2.000000
+invisCont=0
+spriteID=100807
+pos=-2.000000,3.000000
 rot=0.250000
 hFlip=1
 color=1.000000,1.000000,1.000000
 ageRange=-1.000000,-1.000000
 parent=3
 invisHolding=0,invisWorn=0,behindSlots=0
-spriteID=2164
+invisCont=0
+spriteID=100854
 pos=2.000000,2.000000
 rot=0.250000
 hFlip=1
@@ -54,7 +56,8 @@ color=1.000000,0.360000,0.000000
 ageRange=-1.000000,-1.000000
 parent=3
 invisHolding=0,invisWorn=0,behindSlots=0
-spriteID=2164
+invisCont=0
+spriteID=100854
 pos=2.000000,2.000000
 rot=0.250000
 hFlip=1
@@ -62,6 +65,7 @@ color=1.000000,0.398592,0.140845
 ageRange=-1.000000,-1.000000
 parent=-1
 invisHolding=0,invisWorn=0,behindSlots=0
+invisCont=0
 headIndex=-1
 bodyIndex=-1
 backFootIndex=-1
@@ -69,4 +73,4 @@ frontFootIndex=-1
 numUses=1,1.000000
 useVanishIndex=-1
 useAppearIndex=-1
-pixHeight=44
+pixHeight=48

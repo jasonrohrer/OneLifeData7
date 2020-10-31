@@ -1,9 +1,9 @@
-id=2208
-Boiler on Flat Rock
-containable=0
-containSize=1.000000,vertSlotRot=0.000000
-permanent=1,minPickupAge=3
-noFlip=0
+id=7902
+Large Tank
+containable=1
+containSize=3.000000,vertSlotRot=0.000000
+permanent=0,minPickupAge=13
+noFlip=1
 sideAccess=0
 heldInHand=0
 blocksWalking=0,leftBlockingRadius=0,rightBlockingRadius=0,drawBehindPlayer=0
@@ -17,8 +17,8 @@ homeMarker=0
 floor=0
 floorHugging=0
 foodValue=0
-speedMult=1.000000
-heldOffset=15.000000,20.000000
+speedMult=0.750000
+heldOffset=22.000000,40.000000
 clothing=n
 clothingOffset=-27.000000,72.000000
 deadlyDistance=0
@@ -29,20 +29,11 @@ creationSoundForce=0
 numSlots=0#timeStretch=1.000000
 slotSize=1.000000
 slotsLocked=0
-numSprites=2
-spriteID=547
-pos=5.000000,-36.000000
+numSprites=1
+spriteID=100807
+pos=-4.000000,19.000000
 rot=0.000000
 hFlip=0
-color=1.000000,1.000000,1.000000
-ageRange=-1.000000,-1.000000
-parent=-1
-invisHolding=0,invisWorn=0,behindSlots=0
-invisCont=0
-spriteID=100807
-pos=2.000000,2.000000
-rot=0.250000
-hFlip=1
 color=1.000000,1.000000,1.000000
 ageRange=-1.000000,-1.000000
 parent=-1
@@ -55,4 +46,4 @@ frontFootIndex=-1
 numUses=1,1.000000
 useVanishIndex=-1
 useAppearIndex=-1
-pixHeight=47
+pixHeight=64
