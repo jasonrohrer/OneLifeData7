@@ -1,5 +1,5 @@
-id=6919
-Stone Wall with Shelf# +noBackAccess
+id=7909
+Stone Wall with Stack of Boards
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3
@@ -23,15 +23,13 @@ clothing=n
 clothingOffset=0.000000,0.000000
 deadlyDistance=0
 useDistance=1
-sounds=78:0.250000,-1:0.0,-1:0.0,-1:0.0
+sounds=286:0.101010,-1:0.0,-1:0.0,-1:0.0
 creationSoundInitialOnly=1
 creationSoundForce=0
-numSlots=2#timeStretch=1.000000
-slotSize=2.000000
+numSlots=0#timeStretch=1.000000
+slotSize=1.000000
 slotsLocked=0
-slotPos=-19.000000,12.000000,vert=0,parent=-1
-slotPos=22.000000,12.000000,vert=0,parent=-1
-numSprites=4
+numSprites=5
 spriteID=366
 pos=-16.000000,-57.000000
 rot=0.000000
@@ -39,7 +37,7 @@ hFlip=0
 color=1.000000,1.000000,1.000000
 ageRange=-1.000000,-1.000000
 parent=-1
-invisHolding=0,invisWorn=0,behindSlots=1
+invisHolding=0,invisWorn=0,behindSlots=0
 invisCont=0
 spriteID=1183
 pos=0.000000,11.000000
@@ -48,7 +46,7 @@ hFlip=0
 color=1.000000,1.000000,1.000000
 ageRange=-1.000000,-1.000000
 parent=-1
-invisHolding=0,invisWorn=0,behindSlots=1
+invisHolding=0,invisWorn=0,behindSlots=0
 invisCont=0
 spriteID=1186
 pos=-4.000000,79.000000
@@ -59,14 +57,23 @@ ageRange=-1.000000,-1.000000
 parent=-1
 invisHolding=0,invisWorn=0,behindSlots=0
 invisCont=0
-spriteID=100471
-pos=0.000000,7.000000
+spriteID=789
+pos=0.000000,-51.000000
+rot=1.000000
+hFlip=0
+color=1.000000,1.000000,1.000000
+ageRange=-1.000000,-1.000000
+parent=-1
+invisHolding=0,invisWorn=0,behindSlots=0
+invisCont=0
+spriteID=789
+pos=11.000000,-26.000000
 rot=0.000000
 hFlip=0
 color=1.000000,1.000000,1.000000
 ageRange=-1.000000,-1.000000
 parent=-1
-invisHolding=0,invisWorn=0,behindSlots=1
+invisHolding=0,invisWorn=0,behindSlots=0
 invisCont=0
 headIndex=-1
 bodyIndex=-1

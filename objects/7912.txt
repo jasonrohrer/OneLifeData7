@@ -1,5 +1,5 @@
-id=7022
-Ancient Half Stone Wall with Shelf
+id=7912
+Ancient Stone Wall with Shelf# +noBackAccess
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3
@@ -29,11 +29,11 @@ creationSoundForce=0
 numSlots=2#timeStretch=1.000000
 slotSize=2.000000
 slotsLocked=0
-slotPos=-24.000000,34.000000,vert=0,parent=-1
-slotPos=24.000000,34.000000,vert=0,parent=-1
-numSprites=2
-spriteID=100518
-pos=1.000000,-16.000000
+slotPos=-19.000000,12.000000,vert=0,parent=-1
+slotPos=22.000000,12.000000,vert=0,parent=-1
+numSprites=3
+spriteID=100443
+pos=0.000000,0.000000
 rot=0.000000
 hFlip=0
 color=1.000000,1.000000,1.000000
@@ -41,8 +41,17 @@ ageRange=-1.000000,-1.000000
 parent=-1
 invisHolding=0,invisWorn=0,behindSlots=1
 invisCont=0
-spriteID=100517
-pos=0.000000,25.000000
+spriteID=1186
+pos=-4.000000,79.000000
+rot=0.000000
+hFlip=0
+color=1.000000,1.000000,1.000000
+ageRange=-1.000000,-1.000000
+parent=-1
+invisHolding=0,invisWorn=0,behindSlots=0
+invisCont=0
+spriteID=100471
+pos=0.000000,7.000000
 rot=0.000000
 hFlip=0
 color=1.000000,1.000000,1.000000
@@ -57,4 +66,4 @@ frontFootIndex=-1
 numUses=1,1.000000
 useVanishIndex=-1
 useAppearIndex=-1
-pixHeight=38
+pixHeight=84
