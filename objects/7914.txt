@@ -1,8 +1,8 @@
-id=3225
-Jack O' Lantern #ground
-containable=0
-containSize=1.000000,vertSlotRot=0.000000
-permanent=1,minPickupAge=3
+id=7914
+Jack O' Lantern
+containable=1
+containSize=2.000000,vertSlotRot=-0.250000
+permanent=0,minPickupAge=3
 noFlip=0
 sideAccess=0
 heldInHand=0
@@ -19,7 +19,7 @@ floorHugging=0
 foodValue=0
 speedMult=1.000000
 heldOffset=12.000000,30.000000
-clothing=n
+clothing=h
 clothingOffset=6.000000,40.000000
 deadlyDistance=0
 useDistance=1
@@ -29,7 +29,7 @@ creationSoundForce=0
 numSlots=0#timeStretch=1.000000
 slotSize=1.000000
 slotsLocked=0
-numSprites=3
+numSprites=4
 spriteID=2923
 pos=-3.000000,-25.000000
 rot=0.000000
@@ -56,6 +56,15 @@ color=1.000000,1.000000,1.000000
 ageRange=-1.000000,-1.000000
 parent=-1
 invisHolding=0,invisWorn=1,behindSlots=0
+invisCont=0
+spriteID=100855
+pos=1.000000,-20.000000
+rot=0.010000
+hFlip=0
+color=1.000000,1.000000,1.000000
+ageRange=-1.000000,-1.000000
+parent=-1
+invisHolding=0,invisWorn=2,behindSlots=0
 invisCont=0
 headIndex=-1
 bodyIndex=-1
