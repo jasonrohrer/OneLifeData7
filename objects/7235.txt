@@ -2,7 +2,7 @@ id=7235
 Traveling Water #E
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
-permanent=0,minPickupAge=3
+permanent=1,minPickupAge=3
 noFlip=0
 sideAccess=0
 heldInHand=0
@@ -34,7 +34,7 @@ spriteID=54
 pos=-5.000000,-48.000000
 rot=0.000000
 hFlip=0
-color=0.169014,0.683991,1.000000
+color=0.190000,0.693820,1.000000
 ageRange=-1.000000,-1.000000
 parent=-1
 invisHolding=0,invisWorn=0,behindSlots=0
@@ -45,7 +45,7 @@ rot=0.755000
 hFlip=0
 color=1.000000,1.000000,1.000000
 ageRange=-1.000000,-1.000000
-parent=-1
+parent=0
 invisHolding=0,invisWorn=0,behindSlots=0
 invisCont=0
 headIndex=-1
