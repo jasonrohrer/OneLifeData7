@@ -1,5 +1,5 @@
-id=4502
-Plastered Floor Boards# groundOnly
+id=7929
+Adobe Floor# groundOnly
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3
@@ -30,7 +30,7 @@ numSlots=0#timeStretch=1.000000
 slotSize=1.000000
 slotsLocked=0
 numSprites=1
-spriteID=79827
+spriteID=100864
 pos=0.000000,10.000000
 rot=0.000000
 hFlip=0
@@ -46,4 +46,4 @@ frontFootIndex=-1
 numUses=1,1.000000
 useVanishIndex=-1
 useAppearIndex=-1
-pixHeight=79
+pixHeight=80
