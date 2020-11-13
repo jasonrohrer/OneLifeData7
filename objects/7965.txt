@@ -1,5 +1,5 @@
-id=6654
-Wooden Wall
+id=7965
+Light Wooden Wall
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3
@@ -24,17 +24,17 @@ clothingOffset=0.000000,0.000000
 deadlyDistance=0
 useDistance=1
 sounds=78:0.250000,-1:0.0,-1:0.0,-1:0.0
-creationSoundInitialOnly=0
+creationSoundInitialOnly=1
 creationSoundForce=0
 numSlots=0#timeStretch=1.000000
 slotSize=1.000000
 slotsLocked=0
 numSprites=1
-spriteID=100880
-pos=1.000000,5.000000
+spriteID=100885
+pos=-1.000000,30.000000
 rot=0.000000
 hFlip=0
-color=1.000000,0.903987,0.380282
+color=1.000000,1.000000,1.000000
 ageRange=-1.000000,-1.000000
 parent=-1
 invisHolding=0,invisWorn=0,behindSlots=0
@@ -46,4 +46,4 @@ frontFootIndex=-1
 numUses=1,1.000000
 useVanishIndex=-1
 useAppearIndex=-1
-pixHeight=81
+pixHeight=150

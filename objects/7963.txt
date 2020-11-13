@@ -1,5 +1,5 @@
-id=6654
-Wooden Wall
+id=7963
+Dark Wooden Wall
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3
@@ -9,7 +9,7 @@ heldInHand=0
 blocksWalking=1,leftBlockingRadius=0,rightBlockingRadius=0,drawBehindPlayer=0
 mapChance=0.000000#biomes_0
 heatValue=0
-rValue=0.900000
+rValue=0.800000
 person=0,noSpawn=0
 male=0
 deathMarker=0
@@ -30,11 +30,11 @@ numSlots=0#timeStretch=1.000000
 slotSize=1.000000
 slotsLocked=0
 numSprites=1
-spriteID=100880
-pos=1.000000,5.000000
+spriteID=100883
+pos=1.000000,1.000000
 rot=0.000000
 hFlip=0
-color=1.000000,0.903987,0.380282
+color=0.802817,0.802817,0.802817
 ageRange=-1.000000,-1.000000
 parent=-1
 invisHolding=0,invisWorn=0,behindSlots=0
@@ -46,4 +46,4 @@ frontFootIndex=-1
 numUses=1,1.000000
 useVanishIndex=-1
 useAppearIndex=-1
-pixHeight=81
+pixHeight=139
