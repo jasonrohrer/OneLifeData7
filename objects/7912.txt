@@ -1,5 +1,5 @@
 id=7912
-Ancient Stone Wall with Shelf# +noBackAccess
+Ancient Stone Wall with Shelf# +noBackAccess +contFoodDish
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3
