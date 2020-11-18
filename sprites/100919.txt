@@ -1,0 +1,1 @@
+windowedStoneWall 0 15 -4
