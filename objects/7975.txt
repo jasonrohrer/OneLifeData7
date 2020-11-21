@@ -1,5 +1,5 @@
 id=7975
-Domestic Gooseberry Bush #sparrow
+Domestic Gooseberry Bush #sparrow +tapoutTrigger,1,1,5,5
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3
