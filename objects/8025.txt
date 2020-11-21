@@ -1,5 +1,5 @@
-id=7696
-Windowed Ancient Sandstone Wall
+id=8025
+Sandstone Wall with Glass Pane
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3
@@ -29,9 +29,27 @@ creationSoundForce=0
 numSlots=0#timeStretch=1.000000
 slotSize=1.000000
 slotsLocked=0
-numSprites=1
-spriteID=100782
-pos=-2.000000,14.000000
+numSprites=3
+spriteID=100272
+pos=-5.000000,11.000000
+rot=0.000000
+hFlip=0
+color=1.000000,1.000000,1.000000
+ageRange=-1.000000,-1.000000
+parent=-1
+invisHolding=0,invisWorn=0,behindSlots=0
+invisCont=0
+spriteID=812
+pos=-1.000000,73.000000
+rot=0.000000
+hFlip=0
+color=1.000000,1.000000,1.000000
+ageRange=-1.000000,-1.000000
+parent=-1
+invisHolding=0,invisWorn=0,behindSlots=0
+invisCont=0
+spriteID=100769
+pos=-2.000000,-60.000000
 rot=0.000000
 hFlip=0
 color=1.000000,1.000000,1.000000
