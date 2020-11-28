@@ -1,7 +1,7 @@
 id=7589
-Bowl with Corn Kernels #just scooped
+Bowl with Corn Kernels #just scooped +contFoodDish
 containable=1
-containSize=2.000000,vertSlotRot=-0.250000
+containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3
 noFlip=0
 sideAccess=0

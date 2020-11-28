@@ -1,5 +1,5 @@
 id=2121
-Bowl of Corn Seeds
+Bowl of Corn Seeds #+contFoodDish
 containable=1
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3
