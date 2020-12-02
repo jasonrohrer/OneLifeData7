@@ -1,5 +1,5 @@
-id=7231
-Copper Pipe East Splitter #vertical
+id=8060
+Copper Pipe East Splitter #vertical N water
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3
@@ -29,7 +29,7 @@ creationSoundForce=0
 numSlots=0#timeStretch=1.000000
 slotSize=1.000000
 slotsLocked=0
-numSprites=1
+numSprites=3
 spriteID=100605
 pos=-1.000000,-19.000000
 rot=0.000000
@@ -37,6 +37,24 @@ hFlip=0
 color=1.000000,1.000000,1.000000
 ageRange=-1.000000,-1.000000
 parent=-1
+invisHolding=0,invisWorn=0,behindSlots=0
+invisCont=0
+spriteID=54
+pos=-1.000000,-17.000000
+rot=0.000000
+hFlip=0
+color=0.169014,0.683991,1.000000
+ageRange=-1.000000,-1.000000
+parent=-1
+invisHolding=0,invisWorn=0,behindSlots=0
+invisCont=0
+spriteID=1348
+pos=-2.000000,0.000004
+rot=1.500000
+hFlip=0
+color=1.000000,1.000000,1.000000
+ageRange=-1.000000,-1.000000
+parent=1
 invisHolding=0,invisWorn=0,behindSlots=0
 invisCont=0
 spritesDrawnBehind=0

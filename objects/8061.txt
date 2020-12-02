@@ -1,5 +1,5 @@
-id=7231
-Copper Pipe East Splitter #vertical
+id=8061
+Copper Pipe East Splitter #vertical S
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3
