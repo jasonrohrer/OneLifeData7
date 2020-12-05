@@ -50,7 +50,7 @@ hFlip=0
 color=1.000000,1.000000,1.000000
 ageRange=-1.000000,-1.000000
 parent=-1
-invisHolding=0,invisWorn=0,behindSlots=0
+invisHolding=0,invisWorn=0,behindSlots=1
 invisCont=0
 spriteID=100471
 pos=1.000000,33.000000
