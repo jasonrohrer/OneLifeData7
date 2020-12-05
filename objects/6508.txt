@@ -1,7 +1,7 @@
 id=6508
 Sausage Casing
-containable=0
-containSize=1.000000,vertSlotRot=-0.195000
+containable=1
+containSize=2.000000,vertSlotRot=-0.195000
 permanent=0,minPickupAge=3
 noFlip=0
 sideAccess=0
