@@ -1,5 +1,5 @@
 id=6919
-Stone Wall with Shelf# +noBackAccess +useOnContained
+Stone Wall with Shelf# +noBackAccess +contFoodDish +useOnContained
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3
