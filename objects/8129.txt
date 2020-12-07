@@ -1,11 +1,11 @@
 id=8129
-Present with Blank Note# writing &written
+Present with Note# writing &written
 containable=1
 containSize=2.000000,vertSlotRot=-0.500000
 permanent=0,minPickupAge=3
 noFlip=0
 sideAccess=0
-heldInHand=1
+heldInHand=0
 blocksWalking=0,leftBlockingRadius=0,rightBlockingRadius=0,drawBehindPlayer=0
 mapChance=0.000000#biomes_0
 heatValue=0
@@ -18,7 +18,7 @@ floor=0
 floorHugging=0
 foodValue=0
 speedMult=1.000000
-heldOffset=28.000000,13.000000
+heldOffset=23.000000,28.000000
 clothing=n
 clothingOffset=0.000000,0.000000
 deadlyDistance=0
@@ -28,7 +28,7 @@ creationSoundInitialOnly=0
 creationSoundForce=0
 numSlots=1#timeStretch=1.000000
 slotSize=1.000000
-slotsLocked=0
+slotsLocked=1
 slotPos=8.000000,-36.000000,vert=0,parent=-1
 numSprites=4
 spriteID=100953
