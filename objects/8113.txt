@@ -29,7 +29,7 @@ creationSoundForce=0
 numSlots=0#timeStretch=1.000000
 slotSize=1.000000
 slotsLocked=0
-numSprites=8
+numSprites=7
 spriteID=100580
 pos=1.000000,-11.000000
 rot=0.000000
@@ -91,15 +91,6 @@ hFlip=0
 color=1.000000,1.000000,1.000000
 ageRange=-1.000000,-1.000000
 parent=-1
-invisHolding=0,invisWorn=0,behindSlots=0
-invisCont=0
-spriteID=100942
-pos=0.000000,-5.000000
-rot=0.000000
-hFlip=0
-color=1.000000,1.000000,1.000000
-ageRange=-1.000000,-1.000000
-parent=6
 invisHolding=0,invisWorn=0,behindSlots=0
 invisCont=0
 headIndex=-1
