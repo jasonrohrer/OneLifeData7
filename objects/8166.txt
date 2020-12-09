@@ -1,5 +1,5 @@
-id=8124
-Stone Fireplace with Garland and Stockings
+id=8166
+Stone Fireplace with Garland and Stocking
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3
@@ -26,12 +26,11 @@ useDistance=1
 sounds=110:0.250000,-1:0.0,-1:0.0,-1:0.0
 creationSoundInitialOnly=0
 creationSoundForce=0
-numSlots=2#timeStretch=1.000000
+numSlots=1#timeStretch=1.000000
 slotSize=1.000000
 slotsLocked=0
 slotPos=-42.000000,32.000000,vert=1,parent=-1
-slotPos=36.000000,39.000000,vert=1,parent=-1
-numSprites=9
+numSprites=8
 spriteID=100580
 pos=1.000000,-12.000000
 rot=0.000000
@@ -99,15 +98,6 @@ spriteID=100952
 pos=-46.000000,13.000000
 rot=0.000000
 hFlip=0
-color=1.000000,1.000000,1.000000
-ageRange=-1.000000,-1.000000
-parent=-1
-invisHolding=0,invisWorn=0,behindSlots=0
-invisCont=0
-spriteID=100952
-pos=43.000000,22.000000
-rot=0.000000
-hFlip=1
 color=1.000000,1.000000,1.000000
 ageRange=-1.000000,-1.000000
 parent=-1
