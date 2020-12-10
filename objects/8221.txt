@@ -1,5 +1,5 @@
-id=8149
-Covered Rose Wreath with Bell
+id=8221
+Plain Covered Wreath
 containable=1
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3
@@ -30,8 +30,8 @@ numSlots=0#timeStretch=1.000000
 slotSize=1.000000
 slotsLocked=0
 numSprites=1
-spriteID=100946
-pos=-2.000000,-32.000000
+spriteID=100967
+pos=-2.000000,-33.000000
 rot=0.000000
 hFlip=0
 color=1.000000,1.000000,1.000000
