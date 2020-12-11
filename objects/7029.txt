@@ -38,7 +38,7 @@ color=1.000000,1.000000,1.000000
 ageRange=-1.000000,-1.000000
 parent=-1
 invisHolding=0,invisWorn=0,behindSlots=0
-invisCont=0
+invisCont=1
 spriteID=1003
 pos=15.000000,-40.000000
 rot=-0.005000
@@ -47,7 +47,7 @@ color=1.000000,1.000000,1.000000
 ageRange=-1.000000,-1.000000
 parent=-1
 invisHolding=0,invisWorn=0,behindSlots=0
-invisCont=0
+invisCont=1
 spriteID=100511
 pos=1.000000,-23.000000
 rot=0.000000
