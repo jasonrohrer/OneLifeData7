@@ -1,5 +1,5 @@
-id=8133
-Christmas Tree with Lights
+id=8260
+Decorated Christmas Tree #bell
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3
@@ -29,7 +29,7 @@ creationSoundForce=0
 numSlots=0#timeStretch=1.000000
 slotSize=1.000000
 slotsLocked=0
-numSprites=5
+numSprites=6
 spriteID=1437
 pos=-2.000000,7.000000
 rot=0.000000
@@ -69,6 +69,15 @@ invisCont=0
 spriteID=100956
 pos=-1.000000,96.000000
 rot=0.000000
+hFlip=0
+color=1.000000,1.000000,1.000000
+ageRange=-1.000000,-1.000000
+parent=-1
+invisHolding=0,invisWorn=0,behindSlots=0
+invisCont=0
+spriteID=100949
+pos=10.000000,211.000000
+rot=-0.105000
 hFlip=0
 color=1.000000,1.000000,1.000000
 ageRange=-1.000000,-1.000000
