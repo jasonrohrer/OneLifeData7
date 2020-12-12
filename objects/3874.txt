@@ -1,5 +1,5 @@
 id=3874
-Snow Door# +tapoutTrigger,1,1,1,2
+Snow Door
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3
