@@ -1,6 +1,6 @@
 id=1293
 Stack of Bean Burritos #+contFoodDish
-containable=0
+containable=1
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3
 noFlip=0
