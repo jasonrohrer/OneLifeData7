@@ -1,5 +1,5 @@
-id=6726
-Yellow Cowboy Hat
+id=8270
+Black Cowboy Hat
 containable=1
 containSize=2.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3
@@ -30,8 +30,8 @@ numSlots=0#timeStretch=1.000000
 slotSize=1.000000
 slotsLocked=0
 numSprites=1
-spriteID=100361
-pos=-4.999999,-27.000000
+spriteID=100988
+pos=-2.999999,-24.000000
 rot=0.000000
 hFlip=0
 color=1.000000,1.000000,1.000000
