@@ -1,0 +1,5 @@
+parentID=8278
+probSet
+numObjects=2
+8277 0.500000
+1329 0.500000
