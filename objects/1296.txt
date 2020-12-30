@@ -1,5 +1,5 @@
 id=1296
-Stack of Bean Burritos# just Made #+contFoodDish
+Stack of Bean Burritos# just Made +contFoodDish
 containable=1
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3
