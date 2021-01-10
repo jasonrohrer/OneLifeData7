@@ -1,5 +1,5 @@
-id=7015
-Blacksmith Apron
+id=8338
+Black Blacksmith Apron
 containable=1
 containSize=2.000000,vertSlotRot=-0.500000
 permanent=0,minPickupAge=3
@@ -31,8 +31,8 @@ slotSize=1.000000
 slotsLocked=0
 slotPos=5.000000,-11.000000,vert=1,parent=0
 numSprites=3
-spriteID=101011
-pos=0.000000,-14.000000
+spriteID=101016
+pos=1.000000,-15.000000
 rot=0.000000
 hFlip=0
 color=1.000000,1.000000,1.000000
@@ -44,13 +44,13 @@ spriteID=1600
 pos=-4.000000,-29.000000
 rot=0.000000
 hFlip=0
-color=0.619718,0.352579,0.157112
+color=0.154930,0.154930,0.154930
 ageRange=-1.000000,-1.000000
 parent=-1
 invisHolding=0,invisWorn=1,behindSlots=1
 invisCont=0
-spriteID=101012
-pos=7.000000,-12.000000
+spriteID=101015
+pos=4.000000,-14.000000
 rot=0.000000
 hFlip=0
 color=1.000000,1.000000,1.000000
