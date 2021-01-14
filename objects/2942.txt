@@ -18,11 +18,7 @@ floor=0
 floorHugging=0
 foodValue=0
 speedMult=1.000000
-<<<<<<< HEAD
-heldOffset=12.000000,15.000000
-=======
 heldOffset=17.000000,18.000000
->>>>>>> 24f65b55... Adjusted held positions of various clothing pieces based on new object center calculation that ignores worn-only sprites.
 clothing=t
 clothingOffset=3.000000,31.000000
 deadlyDistance=0
