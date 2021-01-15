@@ -1,5 +1,5 @@
-id=8349
-Marked Grave# origGrave &written +clickToRead
+id=8351
+Written Grave with Written Paper# writting origGrave &written
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3
@@ -49,27 +49,27 @@ ageRange=-1.000000,-1.000000
 parent=-1
 invisHolding=0,invisWorn=0,behindSlots=1
 invisCont=0
-spriteID=1350
-pos=-6.000000,41.000000
-rot=-0.005000
+spriteID=1687
+pos=-17.000000,-1.000000
+rot=0.000000
 hFlip=0
 color=1.000000,1.000000,1.000000
 ageRange=-1.000000,-1.000000
 parent=-1
 invisHolding=0,invisWorn=0,behindSlots=0
 invisCont=0
-spriteID=1350
-pos=5.000000,41.000000
-rot=-0.005000
+spriteID=1689
+pos=-17.000000,1.000000
+rot=0.000000
 hFlip=0
 color=1.000000,1.000000,1.000000
 ageRange=-1.000000,-1.000000
-parent=-1
+parent=2
 invisHolding=0,invisWorn=0,behindSlots=0
 invisCont=0
-spriteID=1350
-pos=15.000000,41.000000
-rot=-0.005000
+spriteID=101023
+pos=4.000000,33.000000
+rot=0.000000
 hFlip=0
 color=1.000000,1.000000,1.000000
 ageRange=-1.000000,-1.000000
