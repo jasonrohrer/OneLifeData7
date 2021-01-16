@@ -1,5 +1,5 @@
-id=7123
-Large Wooden Slot Box with Note# &written +clickToRead
+id=8377
+Large Wooden Slot Box with Removed Note# &written
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3
@@ -35,7 +35,7 @@ slotPos=-15.000000,0.000000,vert=1,parent=-1
 slotPos=2.000000,0.000000,vert=1,parent=-1
 slotPos=20.000000,1.000000,vert=1,parent=-1
 slotPos=41.000000,1.000000,vert=1,parent=-1
-numSprites=8
+numSprites=7
 spriteID=100564
 pos=-1.000000,-2.000000
 rot=0.005000
@@ -82,16 +82,7 @@ parent=-1
 invisHolding=0,invisWorn=0,behindSlots=0
 invisCont=0
 spriteID=1687
-pos=-58.000000,-23.000000
-rot=0.000000
-hFlip=0
-color=1.000000,1.000000,1.000000
-ageRange=-1.000000,-1.000000
-parent=-1
-invisHolding=0,invisWorn=0,behindSlots=0
-invisCont=0
-spriteID=354
-pos=-55.000000,-12.000000
+pos=-7.000000,-53.000000
 rot=0.000000
 hFlip=0
 color=1.000000,1.000000,1.000000
@@ -100,7 +91,7 @@ parent=-1
 invisHolding=0,invisWorn=0,behindSlots=0
 invisCont=0
 spriteID=1689
-pos=-58.000000,-21.000000
+pos=-7.000000,-51.000000
 rot=0.000000
 hFlip=0
 color=1.000000,1.000000,1.000000
