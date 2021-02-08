@@ -1,5 +1,5 @@
-id=8532
-@Merchant Options Alt
+id=8536
+@Merchant Goods Tier 1
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3
