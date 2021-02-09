@@ -1,5 +1,5 @@
-id=8525
-Merchant with Fishing Hat #item
+id=8537
+Merchant with Carrot #item
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3
@@ -174,9 +174,9 @@ ageRange=-1.000000,-1.000000
 parent=14
 invisHolding=0,invisWorn=0,behindSlots=0
 invisCont=0
-spriteID=100404
-pos=23.000000,79.000000
-rot=-0.980000
+spriteID=163
+pos=2.000000,85.000000
+rot=-0.955000
 hFlip=0
 color=1.000000,1.000000,1.000000
 ageRange=-1.000000,-1.000000
