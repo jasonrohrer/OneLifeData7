@@ -1,5 +1,5 @@
-id=1679
-Beagle# just fed raw
+id=8568
+Old Schnauser# just fed
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3
@@ -17,7 +17,7 @@ homeMarker=0
 floor=0
 floorHugging=0
 foodValue=0
-speedMult=1.000000
+speedMult=0.500000
 heldOffset=0.000000,0.000000
 clothing=n
 clothingOffset=0.000000,0.000000
@@ -31,7 +31,7 @@ slotSize=1.000000
 slotsLocked=0
 numSprites=10
 spriteID=73
-pos=-9.000000,-20.000000
+pos=-7.000000,-20.000000
 rot=0.000000
 hFlip=0
 color=1.000000,1.000000,1.000000
@@ -40,7 +40,7 @@ parent=-1
 invisHolding=0,invisWorn=0,behindSlots=0
 invisCont=0
 spriteID=72
-pos=16.000000,-20.000000
+pos=18.000000,-20.000000
 rot=0.000000
 hFlip=0
 color=1.000000,1.000000,1.000000
@@ -57,8 +57,8 @@ ageRange=-1.000000,-1.000000
 parent=-1
 invisHolding=0,invisWorn=0,behindSlots=0
 invisCont=0
-spriteID=1808
-pos=-5.000000,0.000000
+spriteID=1837
+pos=-6.000000,1.000000
 rot=0.000000
 hFlip=0
 color=1.000000,1.000000,1.000000
@@ -66,8 +66,8 @@ ageRange=-1.000000,-1.000000
 parent=8
 invisHolding=0,invisWorn=0,behindSlots=0
 invisCont=0
-spriteID=1810
-pos=18.000000,-2.000000
+spriteID=1839
+pos=21.000000,-1.000000
 rot=0.000000
 hFlip=0
 color=1.000000,1.000000,1.000000
@@ -75,8 +75,8 @@ ageRange=-1.000000,-1.000000
 parent=8
 invisHolding=0,invisWorn=0,behindSlots=0
 invisCont=0
-spriteID=1807
-pos=-10.000000,-2.000000
+spriteID=1836
+pos=-10.000000,-3.000000
 rot=0.000000
 hFlip=0
 color=1.000000,1.000000,1.000000
@@ -84,8 +84,8 @@ ageRange=-1.000000,-1.000000
 parent=8
 invisHolding=0,invisWorn=0,behindSlots=0
 invisCont=0
-spriteID=1809
-pos=12.000000,-4.000000
+spriteID=1838
+pos=14.000000,-3.000000
 rot=0.000000
 hFlip=0
 color=1.000000,1.000000,1.000000
@@ -93,8 +93,8 @@ ageRange=-1.000000,-1.000000
 parent=8
 invisHolding=0,invisWorn=0,behindSlots=0
 invisCont=0
-spriteID=1806
-pos=-16.000000,5.000000
+spriteID=1835
+pos=-15.000000,7.000000
 rot=0.000000
 hFlip=0
 color=1.000000,1.000000,1.000000
@@ -102,8 +102,8 @@ ageRange=-1.000000,-1.000000
 parent=8
 invisHolding=0,invisWorn=0,behindSlots=0
 invisCont=0
-spriteID=1804
-pos=3.000000,2.000000
+spriteID=1833
+pos=5.000000,4.000000
 rot=0.000000
 hFlip=0
 color=1.000000,1.000000,1.000000
@@ -111,8 +111,8 @@ ageRange=-1.000000,-1.000000
 parent=-1
 invisHolding=0,invisWorn=0,behindSlots=0
 invisCont=0
-spriteID=1805
-pos=18.000000,8.000000
+spriteID=1834
+pos=17.000000,10.000000
 rot=0.000000
 hFlip=0
 color=1.000000,1.000000,1.000000
@@ -127,4 +127,4 @@ frontFootIndex=-1
 numUses=0,1.000000
 useVanishIndex=-1
 useAppearIndex=-1
-pixHeight=30
+pixHeight=32

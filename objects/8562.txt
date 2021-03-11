@@ -1,5 +1,5 @@
-id=1679
-Beagle# just fed raw
+id=8562
+Old Beagle# just fed
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3
@@ -17,7 +17,7 @@ homeMarker=0
 floor=0
 floorHugging=0
 foodValue=0
-speedMult=1.000000
+speedMult=0.500000
 heldOffset=0.000000,0.000000
 clothing=n
 clothingOffset=0.000000,0.000000
