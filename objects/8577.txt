@@ -1,5 +1,5 @@
-id=8135
-Green Wool Hat
+id=8577
+Green Wool Sweater
 containable=1
 containSize=2.000000,vertSlotRot=-0.250000
 permanent=0,minPickupAge=3
@@ -18,9 +18,9 @@ floor=0
 floorHugging=0
 foodValue=0
 speedMult=1.000000
-heldOffset=10.000000,24.000000
-clothing=h
-clothingOffset=-11.000000,64.000000
+heldOffset=10.000000,26.000000
+clothing=t
+clothingOffset=-1.000000,62.000000
 deadlyDistance=0
 useDistance=1
 sounds=941:0.250000,286:0.101010,-1:0.0,-1:0.0
@@ -30,8 +30,8 @@ numSlots=0#timeStretch=1.000000
 slotSize=1.000000
 slotsLocked=0
 numSprites=1
-spriteID=977
-pos=4.000000,-25.000000
+spriteID=978
+pos=2.000000,-21.000000
 rot=0.000000
 hFlip=0
 color=0.414351,0.694000,0.113816
@@ -46,4 +46,4 @@ frontFootIndex=-1
 numUses=1,1.000000
 useVanishIndex=-1
 useAppearIndex=-1
-pixHeight=8
+pixHeight=13
