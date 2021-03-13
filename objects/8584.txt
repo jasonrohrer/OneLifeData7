@@ -1,5 +1,5 @@
-id=4647
-Bowl of Honey
+id=8584
+Bowl of Maple Syrup
 containable=1
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3
@@ -39,11 +39,11 @@ ageRange=-1.000000,-1.000000
 parent=2
 invisHolding=0,invisWorn=0,behindSlots=0
 invisCont=0
-spriteID=79883
-pos=1.000000,-25.000000
+spriteID=1644
+pos=-1.000000,-27.000000
 rot=0.000000
 hFlip=0
-color=1.000000,1.000000,1.000000
+color=0.563380,0.266658,0.206308
 ageRange=-1.000000,-1.000000
 parent=-1
 invisHolding=0,invisWorn=0,behindSlots=0
