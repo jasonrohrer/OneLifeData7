@@ -43,7 +43,7 @@ slotPos=-3.000000,6.000000,vert=0,parent=-1
 slotPos=19.000000,6.000000,vert=0,parent=-1
 slotPos=41.000000,6.000000,vert=0,parent=-1
 slotPos=63.000000,6.000000,vert=0,parent=-1
-numSprites=5
+numSprites=6
 spriteID=364
 pos=-9.000000,-83.000000
 rot=0.000000
@@ -88,6 +88,15 @@ color=1.000000,1.000000,1.000000
 ageRange=-1.000000,-1.000000
 parent=-1
 invisHolding=0,invisWorn=0,behindSlots=1
+invisCont=0
+spriteID=2611
+pos=77.000000,-10.000000
+rot=0.000000
+hFlip=0
+color=1.000000,1.000000,1.000000
+ageRange=-1.000000,-1.000000
+parent=-1
+invisHolding=0,invisWorn=0,behindSlots=0
 invisCont=0
 headIndex=-1
 bodyIndex=-1
