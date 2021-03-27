@@ -1,5 +1,5 @@
 id=8664
-Sack of Palm Kernals
+Sack of Palm Kernels
 containable=1
 containSize=2.000000,vertSlotRot=-0.245000
 permanent=0,minPickupAge=3
