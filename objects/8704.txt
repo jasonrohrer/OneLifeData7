@@ -1,8 +1,8 @@
-id=2269
-Pulley Drive Mechanism# detached
+id=8704
+Disconnected Pulley Drive Mechanism with Timing Belt
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
-permanent=0,minPickupAge=3
+permanent=1,minPickupAge=3
 noFlip=0
 sideAccess=0
 heldInHand=0
@@ -29,7 +29,7 @@ creationSoundForce=0
 numSlots=0#timeStretch=1.000000
 slotSize=1.000000
 slotsLocked=0
-numSprites=7
+numSprites=6
 spriteID=319
 pos=-30.000000,-28.000000
 rot=0.000000
@@ -37,15 +37,6 @@ hFlip=0
 color=1.000000,1.000000,1.000000
 ageRange=-1.000000,-1.000000
 parent=-1
-invisHolding=0,invisWorn=0,behindSlots=0
-invisCont=0
-spriteID=2177
-pos=7.000000,-17.000000
-rot=0.000000
-hFlip=1
-color=1.000000,1.000000,1.000000
-ageRange=-1.000000,-1.000000
-parent=0
 invisHolding=0,invisWorn=0,behindSlots=0
 invisCont=0
 spriteID=2172
@@ -72,7 +63,7 @@ rot=0.000000
 hFlip=0
 color=1.000000,1.000000,1.000000
 ageRange=-1.000000,-1.000000
-parent=2
+parent=1
 invisHolding=0,invisWorn=0,behindSlots=0
 invisCont=0
 spriteID=2174
@@ -81,16 +72,16 @@ rot=0.000000
 hFlip=0
 color=1.000000,1.000000,1.000000
 ageRange=-1.000000,-1.000000
-parent=3
+parent=2
 invisHolding=0,invisWorn=0,behindSlots=0
 invisCont=0
-spriteID=2176
-pos=19.000000,-29.000000
+spriteID=2213
+pos=5.000000,-5.000000
 rot=0.000000
-hFlip=1
+hFlip=0
 color=1.000000,1.000000,1.000000
 ageRange=-1.000000,-1.000000
-parent=0
+parent=-1
 invisHolding=0,invisWorn=0,behindSlots=0
 invisCont=0
 headIndex=-1
