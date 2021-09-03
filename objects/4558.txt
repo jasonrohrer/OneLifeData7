@@ -1,5 +1,5 @@
 id=4558
-Mason Jar of Beer#2
+Mason Jar of Beer#2 +noFeeding +alcohol3
 containable=1
 containSize=1.000000,vertSlotRot=-0.250000
 permanent=0,minPickupAge=3
