@@ -1,5 +1,5 @@
 id=8482
-Yellow Plaster Wall with Big Stack of Boards#just placed +noBackAccess
+Yellow Plaster Wall with Big Stack of Boards#just placed
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

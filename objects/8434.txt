@@ -1,5 +1,5 @@
 id=8434
-Green Plaster Wall with Boards# +noBackAccess
+Green Plaster Wall with Boards
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3
