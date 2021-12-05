@@ -40,7 +40,7 @@ parent=-1
 invisHolding=0,invisWorn=0,behindSlots=0
 invisCont=0
 spriteID=101737
-pos=8.000000,-36.000000
+pos=8.000000,-37.000000
 rot=-0.250000
 hFlip=0
 color=1.000000,1.000000,1.000000
@@ -55,4 +55,4 @@ frontFootIndex=-1
 numUses=1,1.000000
 useVanishIndex=-1
 useAppearIndex=-1
-pixHeight=36
+pixHeight=35
