@@ -1,12 +1,12 @@
-id=8911
-Marble Hill#exhausted
+id=9105
+Marble Hill#explosion
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3
 noFlip=0
 sideAccess=0
 heldInHand=0
-blocksWalking=1,leftBlockingRadius=1,rightBlockingRadius=1,drawBehindPlayer=1
+blocksWalking=0,leftBlockingRadius=0,rightBlockingRadius=0,drawBehindPlayer=1
 mapChance=0.000000#biomes_0
 heatValue=0
 rValue=0.000000
@@ -29,10 +29,19 @@ creationSoundForce=0
 numSlots=0#timeStretch=1.000000
 slotSize=1.000000
 slotsLocked=0
-numSprites=1
-spriteID=101760
-pos=-2.000000,73.000000
+numSprites=2
+spriteID=101761
+pos=-1.000000,67.000000
 rot=0.000000
+hFlip=0
+color=1.000000,1.000000,1.000000
+ageRange=-1.000000,-1.000000
+parent=-1
+invisHolding=0,invisWorn=0,behindSlots=0
+invisCont=0
+spriteID=101870
+pos=2.000000,78.000000
+rot=1.040000
 hFlip=0
 color=1.000000,1.000000,1.000000
 ageRange=-1.000000,-1.000000

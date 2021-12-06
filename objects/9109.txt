@@ -1,5 +1,5 @@
-id=8911
-Marble Hill#exhausted
+id=9109
+Marble Hill#cave
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3
@@ -30,8 +30,8 @@ numSlots=0#timeStretch=1.000000
 slotSize=1.000000
 slotsLocked=0
 numSprites=1
-spriteID=101760
-pos=-2.000000,73.000000
+spriteID=101761
+pos=-1.000000,67.000000
 rot=0.000000
 hFlip=0
 color=1.000000,1.000000,1.000000
@@ -43,7 +43,7 @@ headIndex=-1
 bodyIndex=-1
 backFootIndex=-1
 frontFootIndex=-1
-numUses=1,1.000000
+numUses=9,0.700000
 useVanishIndex=-1
 useAppearIndex=-1
 pixHeight=151
