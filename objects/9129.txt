@@ -1,8 +1,8 @@
-id=8987
-Skinned Beaver with Fur
+id=9129
+Raccoon Fur
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
-permanent=1,minPickupAge=3
+permanent=0,minPickupAge=3
 noFlip=0
 sideAccess=0
 heldInHand=0
@@ -23,24 +23,15 @@ clothing=n
 clothingOffset=0.000000,0.000000
 deadlyDistance=0
 useDistance=1
-sounds=240:0.250000,-1:0.0,-1:0.0,-1:0.0
+sounds=-1:0.0,-1:0.0,-1:0.0,-1:0.0
 creationSoundInitialOnly=0
 creationSoundForce=0
 numSlots=0#timeStretch=1.000000
 slotSize=1.000000
 slotsLocked=0
-numSprites=2
-spriteID=101795
-pos=6.000000,-30.000000
-rot=-0.020000
-hFlip=0
-color=1.000000,1.000000,1.000000
-ageRange=-1.000000,-1.000000
-parent=-1
-invisHolding=0,invisWorn=0,behindSlots=0
-invisCont=0
-spriteID=101791
-pos=3.000000,-41.000000
+numSprites=1
+spriteID=101872
+pos=3.000000,-30.000000
 rot=0.000000
 hFlip=0
 color=1.000000,1.000000,1.000000
