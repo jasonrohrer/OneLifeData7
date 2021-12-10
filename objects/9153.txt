@@ -1,13 +1,13 @@
-id=8972
-Forsythia Tree
+id=9153
+Snake Plant
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3
 noFlip=0
 sideAccess=0
 heldInHand=0
-blocksWalking=1,leftBlockingRadius=0,rightBlockingRadius=0,drawBehindPlayer=0
-mapChance=0.010000#biomes_0,8
+blocksWalking=0,leftBlockingRadius=0,rightBlockingRadius=0,drawBehindPlayer=0
+mapChance=0.020000#biomes_8
 heatValue=0
 rValue=0.000000
 person=0,noSpawn=0
@@ -30,8 +30,8 @@ numSlots=0#timeStretch=1.000000
 slotSize=1.000000
 slotsLocked=0
 numSprites=1
-spriteID=101784
-pos=-12.000000,84.000000
+spriteID=101840
+pos=1.000000,18.000000
 rot=0.000000
 hFlip=0
 color=1.000000,1.000000,1.000000
@@ -43,7 +43,7 @@ headIndex=-1
 bodyIndex=-1
 backFootIndex=-1
 frontFootIndex=-1
-numUses=1,1.000000
+numUses=0,0.000000
 useVanishIndex=-1
 useAppearIndex=-1
-pixHeight=166
+pixHeight=89
