@@ -1,5 +1,5 @@
-id=9055
-Pile of Raw Mutton
+id=10209
+Pile of Cooked Beef
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3
@@ -30,8 +30,8 @@ numSlots=0#timeStretch=1.000000
 slotSize=1.000000
 slotsLocked=0
 numSprites=6
-spriteID=929
-pos=5.000000,-30.000000
+spriteID=100828
+pos=6.999996,-30.000000
 rot=-0.250000
 hFlip=0
 color=1.000000,1.000000,1.000000
@@ -39,8 +39,8 @@ ageRange=-1.000000,-1.000000
 parent=-1
 invisHolding=0,invisWorn=0,behindSlots=0
 invisCont=0
-spriteID=929
-pos=30.000000,-31.000000
+spriteID=100828
+pos=31.999996,-31.000000
 rot=-0.220000
 hFlip=0
 color=1.000000,1.000000,1.000000
@@ -48,8 +48,8 @@ ageRange=-1.000000,-1.000000
 parent=-1
 invisHolding=0,invisWorn=0,behindSlots=0
 invisCont=0
-spriteID=929
-pos=-20.000000,-32.000000
+spriteID=100828
+pos=-18.000004,-32.000000
 rot=-0.230000
 hFlip=0
 color=1.000000,1.000000,1.000000
@@ -57,8 +57,8 @@ ageRange=-1.000000,-1.000000
 parent=-1
 invisHolding=0,invisWorn=0,behindSlots=0
 invisCont=0
-spriteID=929
-pos=-11.000000,-19.000000
+spriteID=100828
+pos=-9.000004,-19.000000
 rot=-0.245000
 hFlip=0
 color=1.000000,1.000000,1.000000
@@ -66,8 +66,8 @@ ageRange=-1.000000,-1.000000
 parent=-1
 invisHolding=0,invisWorn=0,behindSlots=0
 invisCont=0
-spriteID=929
-pos=24.000000,-18.000000
+spriteID=100828
+pos=25.999996,-18.000000
 rot=-0.210000
 hFlip=0
 color=1.000000,1.000000,1.000000
@@ -75,8 +75,8 @@ ageRange=-1.000000,-1.000000
 parent=-1
 invisHolding=0,invisWorn=0,behindSlots=0
 invisCont=0
-spriteID=929
-pos=4.000000,-9.000000
+spriteID=100828
+pos=5.999996,-9.000000
 rot=-0.230000
 hFlip=0
 color=1.000000,1.000000,1.000000
@@ -91,4 +91,4 @@ frontFootIndex=-1
 numUses=5,1.000000
 useVanishIndex=1,2,3,4,5
 useAppearIndex=-1
-pixHeight=11
+pixHeight=14

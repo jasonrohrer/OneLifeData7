@@ -1,5 +1,5 @@
-id=9055
-Pile of Raw Mutton
+id=10208
+Pile of Cooked Mutton
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3
@@ -30,7 +30,7 @@ numSlots=0#timeStretch=1.000000
 slotSize=1.000000
 slotsLocked=0
 numSprites=6
-spriteID=929
+spriteID=958
 pos=5.000000,-30.000000
 rot=-0.250000
 hFlip=0
@@ -39,7 +39,7 @@ ageRange=-1.000000,-1.000000
 parent=-1
 invisHolding=0,invisWorn=0,behindSlots=0
 invisCont=0
-spriteID=929
+spriteID=958
 pos=30.000000,-31.000000
 rot=-0.220000
 hFlip=0
@@ -48,7 +48,7 @@ ageRange=-1.000000,-1.000000
 parent=-1
 invisHolding=0,invisWorn=0,behindSlots=0
 invisCont=0
-spriteID=929
+spriteID=958
 pos=-20.000000,-32.000000
 rot=-0.230000
 hFlip=0
@@ -57,7 +57,7 @@ ageRange=-1.000000,-1.000000
 parent=-1
 invisHolding=0,invisWorn=0,behindSlots=0
 invisCont=0
-spriteID=929
+spriteID=958
 pos=-11.000000,-19.000000
 rot=-0.245000
 hFlip=0
@@ -66,7 +66,7 @@ ageRange=-1.000000,-1.000000
 parent=-1
 invisHolding=0,invisWorn=0,behindSlots=0
 invisCont=0
-spriteID=929
+spriteID=958
 pos=24.000000,-18.000000
 rot=-0.210000
 hFlip=0
@@ -75,7 +75,7 @@ ageRange=-1.000000,-1.000000
 parent=-1
 invisHolding=0,invisWorn=0,behindSlots=0
 invisCont=0
-spriteID=929
+spriteID=958
 pos=4.000000,-9.000000
 rot=-0.230000
 hFlip=0
