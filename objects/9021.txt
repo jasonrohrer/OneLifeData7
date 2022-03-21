@@ -2,10 +2,10 @@ id=9021
 Rooting Morning Glory Cutting
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
-permanent=1,minPickupAge=3
+permanent=0,minPickupAge=3
 noFlip=0
 sideAccess=0
-heldInHand=0
+heldInHand=1
 blocksWalking=0,leftBlockingRadius=0,rightBlockingRadius=0,drawBehindPlayer=0
 mapChance=0.000000#biomes_0
 heatValue=0
@@ -18,12 +18,12 @@ floor=0
 floorHugging=0
 foodValue=0
 speedMult=1.000000
-heldOffset=0.000000,0.000000
+heldOffset=4.000000,-6.999998
 clothing=n
 clothingOffset=0.000000,0.000000
 deadlyDistance=0
 useDistance=1
-sounds=-1:0.0,-1:0.0,-1:0.0,-1:0.0
+sounds=297:0.250000,-1:0.0,-1:0.0,-1:0.0
 creationSoundInitialOnly=0
 creationSoundForce=0
 numSlots=0#timeStretch=1.000000
@@ -32,7 +32,7 @@ slotsLocked=0
 numSprites=2
 spriteID=101690
 pos=-1.000000,-30.000000
-rot=0.000000
+rot=0.250000
 hFlip=0
 color=1.000000,1.000000,1.000000
 ageRange=-1.000000,-1.000000
@@ -40,8 +40,8 @@ parent=-1
 invisHolding=0,invisWorn=0,behindSlots=0
 invisCont=0
 spriteID=101807
-pos=1.000000,-43.000000
-rot=-0.300000
+pos=-12.000000,-30.000000
+rot=0.000000
 hFlip=0
 color=1.000000,1.000000,1.000000
 ageRange=-1.000000,-1.000000
