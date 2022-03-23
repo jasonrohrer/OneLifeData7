@@ -2,8 +2,8 @@ id=10276
 Crock with Orange Juice
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
-permanent=1,minPickupAge=3
-noFlip=0
+permanent=0,minPickupAge=3
+noFlip=1
 sideAccess=0
 heldInHand=0
 blocksWalking=0,leftBlockingRadius=0,rightBlockingRadius=0,drawBehindPlayer=0
@@ -18,7 +18,7 @@ floor=0
 floorHugging=0
 foodValue=0
 speedMult=1.000000
-heldOffset=0.000000,0.000000
+heldOffset=18.000002,20.000002
 clothing=n
 clothingOffset=-27.000000,72.000000
 deadlyDistance=0
