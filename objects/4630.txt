@@ -1,5 +1,5 @@
 id=4630
-Dying Hops#1 fertile alt watered
+Wet Dying Hops
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3
