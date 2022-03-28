@@ -1,7 +1,7 @@
 id=8764
 Bowl of Cooked Rice #+contFoodDish
 containable=1
-containSize=2.000000,vertSlotRot=0.000000
+containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3
 noFlip=0
 sideAccess=0
@@ -23,7 +23,7 @@ clothing=n
 clothingOffset=0.000000,0.000000
 deadlyDistance=0
 useDistance=1
-sounds=-1:0.0,-1:0.0,41:0.250000,-1:0.0
+sounds=369:0.250000,-1:0.0,41:0.250000,-1:0.0
 creationSoundInitialOnly=0
 creationSoundForce=0
 numSlots=0#timeStretch=1.000000
