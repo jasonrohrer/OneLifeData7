@@ -1,5 +1,5 @@
-id=8990
-Cooked Beaver
+id=10292
+Burnt Beaver
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3
@@ -43,7 +43,7 @@ spriteID=101796
 pos=25.000000,-30.000000
 rot=0.000000
 hFlip=0
-color=0.788931,1.000000,0.211268
+color=0.400021,0.507042,0.107122
 ageRange=-1.000000,-1.000000
 parent=-1
 invisHolding=0,invisWorn=0,behindSlots=0
