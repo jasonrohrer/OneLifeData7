@@ -43,7 +43,7 @@ spriteID=2017
 pos=5.000000,-2.000000
 rot=0.375000
 hFlip=0
-color=1.000000,1.000000,1.000000
+color=0.999000,0.999000,0.999000
 ageRange=-1.000000,-1.000000
 parent=-1
 invisHolding=0,invisWorn=0,behindSlots=0
@@ -52,7 +52,7 @@ spriteID=2017
 pos=-2.000000,-1.000000
 rot=-0.250000
 hFlip=0
-color=1.000000,1.000000,1.000000
+color=0.999000,0.999000,0.999000
 ageRange=-1.000000,-1.000000
 parent=-1
 invisHolding=0,invisWorn=0,behindSlots=0
@@ -61,7 +61,7 @@ spriteID=2017
 pos=-2.000000,-2.000000
 rot=0.625000
 hFlip=1
-color=1.000000,1.000000,1.000000
+color=0.999000,0.999000,0.999000
 ageRange=-1.000000,-1.000000
 parent=-1
 invisHolding=0,invisWorn=0,behindSlots=0
