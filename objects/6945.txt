@@ -1,5 +1,5 @@
 id=6945
-Raw Steak and Onion Pie
+Raw Steak and Onion Pie #+contFoodDish
 containable=1
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3
@@ -39,8 +39,8 @@ ageRange=-1.000000,-1.000000
 parent=-1
 invisHolding=0,invisWorn=0,behindSlots=0
 invisCont=0
-spriteID=532
-pos=1.000000,-28.000000
+spriteID=110430
+pos=2.000000,-16.999992
 rot=0.000000
 hFlip=0
 color=1.000000,1.000000,1.000000

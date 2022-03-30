@@ -1,5 +1,5 @@
 id=6943
-Raw Steak Pie
+Raw Steak Pie #+contFoodDish
 containable=1
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3
@@ -39,8 +39,8 @@ ageRange=-1.000000,-1.000000
 parent=-1
 invisHolding=0,invisWorn=0,behindSlots=0
 invisCont=0
-spriteID=532
-pos=1.000000,-28.000000
+spriteID=110425
+pos=1.000000,-19.000008
 rot=0.000000
 hFlip=0
 color=1.000000,1.000000,1.000000
