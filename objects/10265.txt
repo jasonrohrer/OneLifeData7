@@ -1,5 +1,5 @@
 id=10265
-Bottle of Orange Juice
+Bottle of Orange Juice #+contFoodDish
 containable=1
 containSize=1.000000,vertSlotRot=0.750000
 permanent=0,minPickupAge=3
