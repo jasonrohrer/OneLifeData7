@@ -1,7 +1,7 @@
 id=8991
 Cooked Beaver
 containable=1
-containSize=1.000000,vertSlotRot=0.000000
+containSize=1.000000,vertSlotRot=0.500000
 permanent=0,minPickupAge=3
 noFlip=0
 sideAccess=0
@@ -30,11 +30,11 @@ numSlots=0#timeStretch=1.000000
 slotSize=1.000000
 slotsLocked=0
 numSprites=1
-spriteID=464
-pos=1.000000,-35.000000
+spriteID=101796
+pos=3.999999,-30.000000
 rot=0.000000
 hFlip=0
-color=1.000000,1.000000,1.000000
+color=0.790126,1.000000,0.211000
 ageRange=-1.000000,-1.000000
 parent=-1
 invisHolding=0,invisWorn=0,behindSlots=0

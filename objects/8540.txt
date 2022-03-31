@@ -1,5 +1,5 @@
 id=8540
-Bowl of Chilli Con Carne #+emotEat_26_10
+Bowl of Chilli Con Carne #+emotEat_26_10 +contFoodDish
 containable=1
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3
@@ -73,4 +73,4 @@ frontFootIndex=-1
 numUses=2,1.000000
 useVanishIndex=1,2
 useAppearIndex=-1
-pixHeight=00
+pixHeight=0
