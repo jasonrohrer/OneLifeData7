@@ -1,5 +1,5 @@
 id=8584
-Bowl of Maple Syrup
+Bowl of Maple Syrup #+contFoodDish
 containable=1
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3
@@ -64,4 +64,4 @@ frontFootIndex=-1
 numUses=1,1.000000
 useVanishIndex=-1
 useAppearIndex=-1
-pixHeight=00
+pixHeight=0
