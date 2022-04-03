@@ -5,7 +5,7 @@ containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3
 noFlip=0
 sideAccess=0
-heldInHand=1
+heldInHand=0
 blocksWalking=0,leftBlockingRadius=0,rightBlockingRadius=0,drawBehindPlayer=0
 mapChance=0.000000#biomes_0
 heatValue=0
@@ -18,7 +18,7 @@ floor=0
 floorHugging=0
 foodValue=7
 speedMult=1.000000
-heldOffset=15.000000,-6.000000
+heldOffset=12.000000,11.000000
 clothing=n
 clothingOffset=0.000000,0.000000
 deadlyDistance=0
@@ -55,4 +55,4 @@ frontFootIndex=-1
 numUses=1,1.000000
 useVanishIndex=-1
 useAppearIndex=-1
-pixHeight=00
+pixHeight=0
