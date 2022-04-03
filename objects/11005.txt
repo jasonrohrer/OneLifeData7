@@ -1,7 +1,7 @@
-id=7394
-Light Firewood# +contFirewood
-containable=1
-containSize=2.000000,vertSlotRot=0.000000
+id=11005
+@ MixedStackSource
+containable=0
+containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3
 noFlip=0
 sideAccess=0
@@ -18,7 +18,7 @@ floor=0
 floorHugging=0
 foodValue=0
 speedMult=1.000000
-heldOffset=17.000000,21.000000
+heldOffset=0.000000,0.000000
 clothing=n
 clothingOffset=0.000000,0.000000
 deadlyDistance=0
@@ -31,8 +31,8 @@ slotSize=1.000000
 slotsLocked=0
 slotsNoSwap=0
 numSprites=1
-spriteID=100676
-pos=-1.000000,-30.000000
+spriteID=711
+pos=0.000000,0.000000
 rot=0.000000
 hFlip=0
 color=1.000000,1.000000,1.000000
@@ -47,4 +47,4 @@ frontFootIndex=-1
 numUses=1,1.000000
 useVanishIndex=-1
 useAppearIndex=-1
-pixHeight=0
+pixHeight=25
