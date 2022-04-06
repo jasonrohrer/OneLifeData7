@@ -76,7 +76,7 @@ parent=-1
 invisHolding=0,invisWorn=0,behindSlots=0
 invisCont=0
 spriteID=110645
-pos=14.000000,17.000000
+pos=16.000000,21.000000
 rot=0.000000
 hFlip=0
 color=1.000000,1.000000,1.000000
@@ -85,7 +85,7 @@ parent=8
 invisHolding=0,invisWorn=0,behindSlots=0
 invisCont=0
 spriteID=110646
-pos=-10.000000,16.000000
+pos=-8.000000,20.000000
 rot=0.000000
 hFlip=0
 color=1.000000,1.000000,1.000000
@@ -94,7 +94,7 @@ parent=8
 invisHolding=0,invisWorn=0,behindSlots=0
 invisCont=0
 spriteID=110643
-pos=-38.000000,43.000000
+pos=-38.000000,46.000000
 rot=0.000000
 hFlip=0
 color=1.000000,1.000000,1.000000
@@ -103,7 +103,7 @@ parent=8
 invisHolding=0,invisWorn=0,behindSlots=0
 invisCont=0
 spriteID=110644
-pos=2.000000,37.000000
+pos=4.000000,41.000000
 rot=0.000000
 hFlip=0
 color=1.000000,1.000000,1.000000
@@ -112,7 +112,7 @@ parent=-1
 invisHolding=0,invisWorn=0,behindSlots=0
 invisCont=0
 spriteID=110645
-pos=10.000000,15.000000
+pos=12.000000,19.000000
 rot=0.000000
 hFlip=0
 color=1.000000,1.000000,1.000000
@@ -121,7 +121,7 @@ parent=8
 invisHolding=0,invisWorn=0,behindSlots=0
 invisCont=0
 spriteID=110646
-pos=-14.000000,14.000000
+pos=-12.000000,18.000000
 rot=0.000000
 hFlip=0
 color=1.000000,1.000000,1.000000
@@ -136,4 +136,4 @@ frontFootIndex=-1
 numUses=1,1.000000
 useVanishIndex=-1
 useAppearIndex=-1
-pixHeight=63
+pixHeight=66

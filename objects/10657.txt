@@ -23,7 +23,7 @@ clothing=n
 clothingOffset=0.000000,0.000000
 deadlyDistance=0
 useDistance=1
-sounds=22:0.108333,-1:0.0,-1:0.0,-1:0.0
+sounds=22:0.083333,-1:0.0,-1:0.0,-1:0.0
 creationSoundInitialOnly=0
 creationSoundForce=0
 numSlots=0#timeStretch=1.000000
@@ -57,9 +57,9 @@ ageRange=-1.000000,-1.000000
 parent=-1
 invisHolding=0,invisWorn=0,behindSlots=0
 invisCont=0
-spriteID=110648
-pos=-38.000000,18.000000
-rot=0.000000
+spriteID=110643
+pos=-38.999998,11.000000
+rot=-0.125000
 hFlip=0
 color=1.000000,1.000000,1.000000
 ageRange=-1.000000,-1.000000

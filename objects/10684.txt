@@ -58,16 +58,16 @@ parent=-1
 invisHolding=0,invisWorn=0,behindSlots=0
 invisCont=0
 spriteID=110690
-pos=-34.000000,9.000000
-rot=0.500000
-hFlip=1
+pos=-37.999998,10.000000
+rot=0.875000
+hFlip=0
 color=1.000000,1.000000,1.000000
 ageRange=-1.000000,-1.000000
 parent=4
 invisHolding=0,invisWorn=0,behindSlots=0
 invisCont=0
 spriteID=110696
-pos=1.000000,15.000000
+pos=2.000000,16.000000
 rot=0.000000
 hFlip=0
 color=1.000000,1.000000,1.000000
@@ -82,4 +82,4 @@ frontFootIndex=-1
 numUses=1,1.000000
 useVanishIndex=-1
 useAppearIndex=-1
-pixHeight=39
+pixHeight=40

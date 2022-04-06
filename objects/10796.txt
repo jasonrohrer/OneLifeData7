@@ -23,7 +23,7 @@ clothing=n
 clothingOffset=0.000000,0.000000
 deadlyDistance=0
 useDistance=1
-sounds=22:0.141667,-1:0.0,-1:0.0,-1:0.0
+sounds=22:0.083333,-1:0.0,-1:0.0,-1:0.0
 creationSoundInitialOnly=0
 creationSoundForce=0
 numSlots=0#timeStretch=1.000000
@@ -49,7 +49,7 @@ parent=-1
 invisHolding=0,invisWorn=0,behindSlots=0
 invisCont=0
 spriteID=110668
-pos=-32.000004,8.000000
+pos=-28.000004,9.000000
 rot=-0.125000
 hFlip=0
 color=1.000000,1.000000,1.000000
@@ -58,7 +58,7 @@ parent=3
 invisHolding=0,invisWorn=0,behindSlots=0
 invisCont=0
 spriteID=110674
-pos=3.000000,20.000002
+pos=8.000000,21.000002
 rot=0.000000
 hFlip=0
 color=1.000000,1.000000,1.000000
@@ -73,4 +73,4 @@ frontFootIndex=-1
 numUses=1,1.000000
 useVanishIndex=-1
 useAppearIndex=-1
-pixHeight=44
+pixHeight=45

@@ -34,7 +34,7 @@ spriteID=110718
 pos=-16.000002,19.000004
 rot=0.000000
 hFlip=0
-color=0.112676,0.112676,0.112676
+color=0.154930,0.154930,0.154930
 ageRange=-1.000000,-1.000000
 parent=-1
 invisHolding=0,invisWorn=0,behindSlots=0
@@ -57,11 +57,11 @@ ageRange=-1.000000,-1.000000
 parent=4
 invisHolding=0,invisWorn=0,behindSlots=0
 invisCont=0
-spriteID=110657
-pos=-38.999996,34.000000
+spriteID=110690
+pos=-37.999996,40.000000
 rot=0.000000
 hFlip=0
-color=0.098592,0.098592,0.098592
+color=0.000000,0.000000,0.000000
 ageRange=-1.000000,-1.000000
 parent=4
 invisHolding=0,invisWorn=0,behindSlots=0

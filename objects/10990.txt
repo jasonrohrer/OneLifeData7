@@ -68,8 +68,8 @@ invisHolding=0,invisWorn=0,behindSlots=0
 invisCont=0
 spriteID=110690
 pos=-37.000001,10.999998
-rot=-0.500000
-hFlip=1
+rot=-0.125000
+hFlip=0
 color=0.084507,0.084507,0.084507
 ageRange=-1.000000,-1.000000
 parent=5

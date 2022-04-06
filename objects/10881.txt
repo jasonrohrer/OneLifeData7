@@ -23,7 +23,7 @@ clothing=n
 clothingOffset=0.000000,0.000000
 deadlyDistance=0
 useDistance=1
-sounds=22:0.141667,-1:0.0,-1:0.0,-1:0.0
+sounds=22:0.083333,-1:0.0,-1:0.0,-1:0.0
 creationSoundInitialOnly=0
 creationSoundForce=0
 numSlots=0#timeStretch=1.000000
@@ -34,7 +34,7 @@ spriteID=110718
 pos=-16.000002,19.000004
 rot=0.000000
 hFlip=0
-color=0.197183,0.197183,0.197183
+color=0.154930,0.154930,0.154930
 ageRange=-1.000000,-1.000000
 parent=-1
 invisHolding=0,invisWorn=0,behindSlots=0
@@ -48,8 +48,8 @@ ageRange=-1.000000,-1.000000
 parent=-1
 invisHolding=0,invisWorn=0,behindSlots=0
 invisCont=0
-spriteID=110648
-pos=-29.000003,14.999998
+spriteID=110643
+pos=-31.000003,24.999998
 rot=0.000000
 hFlip=0
 color=1.000000,1.000000,1.000000
@@ -58,7 +58,7 @@ parent=4
 invisHolding=0,invisWorn=0,behindSlots=0
 invisCont=0
 spriteID=110645
-pos=13.999999,21.000002
+pos=14.999999,22.000002
 rot=0.000000
 hFlip=0
 color=1.000000,1.000000,1.000000
@@ -67,7 +67,7 @@ parent=4
 invisHolding=0,invisWorn=0,behindSlots=0
 invisCont=0
 spriteID=110641
-pos=1.999999,28.000002
+pos=2.999999,29.000002
 rot=0.000000
 hFlip=0
 color=1.000000,1.000000,1.000000
@@ -82,4 +82,4 @@ frontFootIndex=-1
 numUses=1,1.000000
 useVanishIndex=-1
 useAppearIndex=-1
-pixHeight=58
+pixHeight=59

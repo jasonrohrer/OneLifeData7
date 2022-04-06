@@ -7,7 +7,7 @@ noFlip=0
 sideAccess=0
 heldInHand=0
 blocksWalking=0,leftBlockingRadius=0,rightBlockingRadius=0,drawBehindPlayer=0
-mapChance=0.000000#biomes_0
+mapChance=0.000500#biomes_7
 heatValue=0
 rValue=0.000000
 person=0,noSpawn=0
@@ -49,7 +49,7 @@ parent=-1
 invisHolding=0,invisWorn=0,behindSlots=0
 invisCont=0
 spriteID=110684
-pos=-67.000008,49.999999
+pos=-70.000008,42.999999
 rot=0.000000
 hFlip=0
 color=1.000000,1.000000,1.000000
@@ -93,8 +93,8 @@ ageRange=-1.000000,-1.000000
 parent=1
 invisHolding=0,invisWorn=0,behindSlots=0
 invisCont=0
-spriteID=110648
-pos=-68.000000,0.000000
+spriteID=110643
+pos=-65.000004,8.000000
 rot=0.000000
 hFlip=0
 color=1.000000,1.000000,1.000000
@@ -112,7 +112,7 @@ parent=-1
 invisHolding=0,invisWorn=0,behindSlots=0
 invisCont=0
 spriteID=110641
-pos=-33.000002,13.000002
+pos=-31.000002,13.000002
 rot=0.000000
 hFlip=0
 color=1.000000,1.000000,1.000000
@@ -127,4 +127,4 @@ frontFootIndex=-1
 numUses=1,1.000000
 useVanishIndex=-1
 useAppearIndex=-1
-pixHeight=57
+pixHeight=50
