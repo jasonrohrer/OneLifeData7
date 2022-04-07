@@ -1,0 +1,6 @@
+parentID=10947
+pattern
+numObjects=3
+10930
+10706
+10974
