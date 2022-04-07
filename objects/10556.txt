@@ -1,5 +1,5 @@
 id=10556
-Cooked Mutton with Rub #+contFoodDish
+Cooked Mutton with Rub
 containable=1
 containSize=1.000000,vertSlotRot=-0.250000
 permanent=0,minPickupAge=3
@@ -29,19 +29,10 @@ creationSoundForce=0
 numSlots=0#timeStretch=1.000000
 slotSize=1.000000
 slotsLocked=0
-numSprites=3
-spriteID=514
-pos=0.999998,-33.999996
-rot=0.000000
-hFlip=0
-color=1.000000,1.000000,1.000000
-ageRange=-1.000000,-1.000000
-parent=-1
-invisHolding=0,invisWorn=0,behindSlots=0
-invisCont=0
+numSprites=2
 spriteID=958
 pos=0.999998,-26.999996
-rot=0.250000
+rot=0.000000
 hFlip=1
 color=1.000000,1.000000,1.000000
 ageRange=-1.000000,-1.000000
@@ -49,12 +40,12 @@ parent=-1
 invisHolding=0,invisWorn=0,behindSlots=0
 invisCont=0
 spriteID=110404
-pos=2.999998,-28.999996
-rot=0.250000
+pos=2.999998,-24.999996
+rot=0.000000
 hFlip=0
 color=1.000000,1.000000,1.000000
 ageRange=-1.000000,-1.000000
-parent=1
+parent=0
 invisHolding=0,invisWorn=0,behindSlots=0
 invisCont=0
 headIndex=-1
