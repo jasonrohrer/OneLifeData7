@@ -6,7 +6,7 @@ permanent=1,minPickupAge=3
 noFlip=0
 sideAccess=0
 heldInHand=0
-blocksWalking=1,leftBlockingRadius=1,rightBlockingRadius=1,drawBehindPlayer=1
+blocksWalking=1,leftBlockingRadius=1,rightBlockingRadius=1,drawBehindPlayer=0
 mapChance=0.002500#biomes_5
 heatValue=0
 rValue=0.000000
