@@ -26,10 +26,16 @@ useDistance=1
 sounds=198:0.250000,496:0.250000,-1:0.0,-1:0.0
 creationSoundInitialOnly=0
 creationSoundForce=0
-numSlots=0#timeStretch=1.000000
+numSlots=6#timeStretch=1.000000
 slotSize=1.000000
 slotsLocked=0
 slotsNoSwap=0
+slotPos=-245.000000,-21.000000,vert=1,parent=-1
+slotPos=-235.000000,-21.000000,vert=1,parent=-1
+slotPos=-223.000000,-21.000000,vert=1,parent=-1
+slotPos=-210.000000,-21.000000,vert=1,parent=-1
+slotPos=-197.000000,-21.000000,vert=1,parent=-1
+slotPos=-184.000000,-21.000000,vert=1,parent=-1
 numSprites=31
 spriteID=956
 pos=0.000000,0.000000
