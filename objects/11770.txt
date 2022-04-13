@@ -1,5 +1,5 @@
-id=11723
-Show Horse #dappled,riding
+id=11770
+Show Horse #dappled,ground
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=13
@@ -32,7 +32,7 @@ slotsLocked=0
 slotsNoSwap=0
 numSprites=19
 spriteID=110858
-pos=43.000003,75.000014
+pos=44.000003,42.000014
 rot=0.000000
 hFlip=0
 color=1.000000,1.000000,1.000000
@@ -41,7 +41,7 @@ parent=8
 invisHolding=0,invisWorn=0,behindSlots=0
 invisCont=0
 spriteID=110856
-pos=-76.000000,68.000013
+pos=-75.000000,35.000013
 rot=0.000000
 hFlip=0
 color=1.000000,1.000000,1.000000
@@ -50,7 +50,7 @@ parent=8
 invisHolding=0,invisWorn=0,behindSlots=0
 invisCont=0
 spriteID=110206
-pos=45.999995,6.000014
+pos=46.999995,-26.999986
 rot=0.000000
 hFlip=0
 color=1.000000,1.000000,1.000000
@@ -59,7 +59,7 @@ parent=3
 invisHolding=0,invisWorn=0,behindSlots=0
 invisCont=0
 spriteID=110859
-pos=42.999999,29.000015
+pos=43.999999,-3.999985
 rot=0.000000
 hFlip=0
 color=1.000000,1.000000,1.000000
@@ -68,7 +68,7 @@ parent=0
 invisHolding=0,invisWorn=0,behindSlots=0
 invisCont=0
 spriteID=110213
-pos=-27.000000,7.000022
+pos=-26.000000,-25.999978
 rot=0.000000
 hFlip=0
 color=1.000000,1.000000,1.000000
@@ -77,7 +77,7 @@ parent=5
 invisHolding=0,invisWorn=0,behindSlots=0
 invisCont=0
 spriteID=110855
-pos=-37.000000,31.000020
+pos=-36.000000,-1.999980
 rot=0.000000
 hFlip=0
 color=1.000000,1.000000,1.000000
@@ -86,7 +86,7 @@ parent=7
 invisHolding=0,invisWorn=0,behindSlots=0
 invisCont=0
 spriteID=110855
-pos=-49.999996,28.000012
+pos=-48.999996,-4.999988
 rot=0.000000
 hFlip=0
 color=1.000000,1.000000,1.000000
@@ -95,7 +95,7 @@ parent=9
 invisHolding=0,invisWorn=0,behindSlots=0
 invisCont=0
 spriteID=110860
-pos=-37.999998,77.000016
+pos=-36.999998,44.000016
 rot=0.000000
 hFlip=0
 color=1.000000,1.000000,1.000000
@@ -104,7 +104,7 @@ parent=8
 invisHolding=0,invisWorn=0,behindSlots=0
 invisCont=0
 spriteID=110853
-pos=3.000000,85.000013
+pos=4.000000,52.000013
 rot=0.000000
 hFlip=0
 color=1.000000,1.000000,1.000000
@@ -113,7 +113,7 @@ parent=-1
 invisHolding=0,invisWorn=0,behindSlots=0
 invisCont=0
 spriteID=110860
-pos=-51.000000,74.000012
+pos=-50.000000,41.000012
 rot=0.000000
 hFlip=0
 color=1.000000,1.000000,1.000000
@@ -122,7 +122,7 @@ parent=8
 invisHolding=0,invisWorn=0,behindSlots=0
 invisCont=0
 spriteID=110859
-pos=36.000000,28.000013
+pos=37.000000,-4.999987
 rot=0.000000
 hFlip=0
 color=1.000000,1.000000,1.000000
@@ -131,7 +131,7 @@ parent=12
 invisHolding=0,invisWorn=0,behindSlots=0
 invisCont=0
 spriteID=110217
-pos=-38.999996,3.000012
+pos=-37.999996,-29.999988
 rot=0.000000
 hFlip=0
 color=1.000000,1.000000,1.000000
@@ -140,7 +140,7 @@ parent=6
 invisHolding=0,invisWorn=0,behindSlots=0
 invisCont=0
 spriteID=110858
-pos=36.000000,76.000013
+pos=37.000000,43.000013
 rot=0.000000
 hFlip=0
 color=1.000000,1.000000,1.000000
@@ -149,7 +149,7 @@ parent=8
 invisHolding=0,invisWorn=0,behindSlots=0
 invisCont=0
 spriteID=110210
-pos=39.000000,3.000013
+pos=40.000000,-29.999987
 rot=0.000000
 hFlip=0
 color=1.000000,1.000000,1.000000
@@ -158,7 +158,7 @@ parent=10
 invisHolding=0,invisWorn=0,behindSlots=0
 invisCont=0
 spriteID=110857
-pos=54.000008,121.000013
+pos=55.000008,88.000013
 rot=0.000000
 hFlip=0
 color=1.000000,1.000000,1.000000
@@ -167,7 +167,7 @@ parent=8
 invisHolding=0,invisWorn=0,behindSlots=0
 invisCont=0
 spriteID=101722
-pos=1.000000,100.000004
+pos=2.000000,67.000004
 rot=0.000000
 hFlip=0
 color=1.000000,1.000000,1.000000
@@ -176,7 +176,7 @@ parent=8
 invisHolding=0,invisWorn=0,behindSlots=0
 invisCont=0
 spriteID=110854
-pos=77.000008,134.000009
+pos=78.000008,101.000009
 rot=0.000000
 hFlip=0
 color=1.000000,1.000000,1.000000
@@ -185,7 +185,7 @@ parent=14
 invisHolding=0,invisWorn=0,behindSlots=0
 invisCont=0
 spriteID=110020
-pos=80.000000,127.000000
+pos=81.000000,94.000000
 rot=0.000000
 hFlip=0
 color=1.000000,1.000000,1.000000
@@ -194,7 +194,7 @@ parent=16
 invisHolding=0,invisWorn=0,behindSlots=0
 invisCont=0
 spriteID=1106
-pos=55.000000,101.000000
+pos=56.000000,68.000000
 rot=0.000000
 hFlip=0
 color=1.000000,1.000000,1.000000
@@ -209,4 +209,4 @@ frontFootIndex=-1
 numUses=0,0.000000
 useVanishIndex=-1
 useAppearIndex=-1
-pixHeight=159
+pixHeight=126
