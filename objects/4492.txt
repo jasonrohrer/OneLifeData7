@@ -1,5 +1,5 @@
 id=4492
-Cheesy Mutton Sandwich #4
+Cheesy Mutton Sandwich - 4
 containable=1
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3
@@ -29,6 +29,7 @@ creationSoundForce=0
 numSlots=0#timeStretch=1.000000
 slotSize=1.000000
 slotsLocked=0
+slotsNoSwap=0
 numSprites=1
 spriteID=79824
 pos=0.000000,-29.999996
@@ -46,4 +47,4 @@ frontFootIndex=-1
 numUses=1,1.000000
 useVanishIndex=-1
 useAppearIndex=-1
-pixHeight=00
+pixHeight=0

@@ -17,7 +17,7 @@ homeMarker=0
 floor=0
 floorHugging=0
 foodValue=0
-speedMult=0.400000
+speedMult=0.300000
 heldOffset=7.000000,16.000000
 clothing=n
 clothingOffset=-2.000001,41.999992
@@ -29,6 +29,7 @@ creationSoundForce=0
 numSlots=0#timeStretch=1.000000
 slotSize=1.000000
 slotsLocked=0
+slotsNoSwap=0
 numSprites=7
 spriteID=71
 pos=0.000000,0.000000
