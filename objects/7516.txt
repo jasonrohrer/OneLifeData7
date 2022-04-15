@@ -1,7 +1,7 @@
 id=7516
-Full Crate of Corn #2
+Full Crates of Corn #2
 containable=1
-containSize=3.000000,vertSlotRot=0.000000
+containSize=2.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3
 noFlip=1
 sideAccess=0
