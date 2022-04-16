@@ -1,5 +1,5 @@
 id=10091
-Table with Raw Pizza #meat,onion justmade
+Table with Raw Pizza #meat,garlic justmade
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3
@@ -29,6 +29,7 @@ creationSoundForce=0
 numSlots=0#timeStretch=1.000000
 slotSize=1.000000
 slotsLocked=0
+slotsNoSwap=0
 numSprites=6
 spriteID=100354
 pos=4.000000,-32.000000
@@ -61,7 +62,7 @@ spriteID=2652
 pos=-35.000000,23.000002
 rot=0.000000
 hFlip=1
-color=1.000000,1.000000,1.000000
+color=0.992065,1.000000,0.436620
 ageRange=-1.000000,-1.000000
 parent=-1
 invisHolding=0,invisWorn=0,behindSlots=0
