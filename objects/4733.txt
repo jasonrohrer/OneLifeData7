@@ -1,6 +1,6 @@
 id=4733
 Bottle of Wine #+contFoodDish
-containable=1
+containable=0
 containSize=1.000000,vertSlotRot=0.750000
 permanent=0,minPickupAge=3
 noFlip=0

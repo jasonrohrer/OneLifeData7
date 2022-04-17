@@ -1,6 +1,6 @@
 id=2864
 Chopped Tomato and Onion with Hot Pepper #+contFoodDish
-containable=1
+containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3
 noFlip=0
