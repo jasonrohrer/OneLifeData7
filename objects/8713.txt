@@ -1,5 +1,5 @@
 id=8713
-Copper Froe
+Bronze Froe
 containable=1
 containSize=2.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3
@@ -70,7 +70,7 @@ headIndex=-1
 bodyIndex=-1
 backFootIndex=-1
 frontFootIndex=-1
-numUses=5,0.040000
+numUses=5,0.080000
 useVanishIndex=-1
 useAppearIndex=2,3
 pixHeight=0
