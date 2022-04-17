@@ -30,7 +30,7 @@ numSlots=0#timeStretch=1.000000
 slotSize=1.000000
 slotsLocked=0
 slotsNoSwap=0
-numSprites=10
+numSprites=9
 spriteID=79883
 pos=-6.000000,-22.000000
 rot=-0.250000
@@ -103,15 +103,6 @@ ageRange=-1.000000,-1.000000
 parent=-1
 invisHolding=0,invisWorn=0,behindSlots=0
 invisCont=0
-spriteID=159
-pos=1.000000,-24.000000
-rot=0.000000
-hFlip=0
-color=1.000000,1.000000,1.000000
-ageRange=-1.000000,-1.000000
-parent=-1
-invisHolding=0,invisWorn=0,behindSlots=0
-invisCont=0
 spriteID=110893
 pos=-1.000000,-17.000000
 rot=0.000000
@@ -121,7 +112,6 @@ ageRange=-1.000000,-1.000000
 parent=-1
 invisHolding=0,invisWorn=0,behindSlots=0
 invisCont=0
-spritesAdditiveBlend=8
 headIndex=-1
 bodyIndex=-1
 backFootIndex=-1
