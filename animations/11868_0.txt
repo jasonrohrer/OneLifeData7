@@ -1,6 +1,6 @@
 id=11868
 type=0,randStartPhase=0
-forceZeroStart=0
+forceZeroStart=1
 numSounds=1
 soundParam=1026:0.041667 0.187500 0.000000 -1.000000 -1.000000 0
 numSprites=13

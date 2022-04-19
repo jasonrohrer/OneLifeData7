@@ -1,6 +1,6 @@
 id=11870
 type=0,randStartPhase=0
-forceZeroStart=0
+forceZeroStart=1
 numSounds=0
 numSprites=13
 numSlots=0

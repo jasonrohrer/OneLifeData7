@@ -16,7 +16,7 @@ deathMarker=0
 homeMarker=0
 floor=0
 floorHugging=0
-foodValue=0
+foodValue=3
 speedMult=1.000000
 heldOffset=0.000000,-8.000000
 clothing=n
@@ -29,6 +29,7 @@ creationSoundForce=0
 numSlots=0#timeStretch=1.000000
 slotSize=1.000000
 slotsLocked=0
+slotsNoSwap=0
 numSprites=1
 spriteID=110335
 pos=0.000000,-36.000000
