@@ -1,7 +1,7 @@
 id=11889
-Rolling Pin
-containable=0
-containSize=1.000000,vertSlotRot=0.000000
+Rolling Pin #+contFoodDish
+containable=1
+containSize=2.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3
 noFlip=0
 sideAccess=0
@@ -31,8 +31,8 @@ slotSize=1.000000
 slotsLocked=0
 slotsNoSwap=0
 numSprites=1
-spriteID=110939
-pos=5.000000,-6.000000
+spriteID=110949
+pos=3.000000,-32.000000
 rot=0.000000
 hFlip=0
 color=1.000000,1.000000,1.000000
@@ -47,4 +47,4 @@ frontFootIndex=-1
 numUses=1,1.000000
 useVanishIndex=-1
 useAppearIndex=-1
-pixHeight=5
+pixHeight=0
