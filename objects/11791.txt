@@ -1,12 +1,12 @@
 id=11791
 Fence Stakes
-containable=0
-containSize=1.000000,vertSlotRot=0.000000
-permanent=1,minPickupAge=3
+containable=1
+containSize=2.000000,vertSlotRot=0.000000
+permanent=0,minPickupAge=3
 noFlip=0
 sideAccess=0
 heldInHand=0
-blocksWalking=1,leftBlockingRadius=0,rightBlockingRadius=0,drawBehindPlayer=0
+blocksWalking=0,leftBlockingRadius=0,rightBlockingRadius=0,drawBehindPlayer=0
 mapChance=0.000000#biomes_0
 heatValue=0
 rValue=0.000000
@@ -18,7 +18,7 @@ floor=0
 floorHugging=0
 foodValue=0
 speedMult=1.000000
-heldOffset=0.000000,0.000000
+heldOffset=26.000000,13.000000
 clothing=n
 clothingOffset=0.000000,0.000000
 deadlyDistance=0
@@ -29,6 +29,7 @@ creationSoundForce=0
 numSlots=0#timeStretch=1.000000
 slotSize=1.000000
 slotsLocked=0
+slotsNoSwap=0
 numSprites=1
 spriteID=110886
 pos=-2.000000,-31.000000
