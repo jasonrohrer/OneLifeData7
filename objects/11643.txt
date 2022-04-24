@@ -1,5 +1,5 @@
 id=11643
-Bronze Bow Saw
+Bronze Hand Saw
 containable=1
 containSize=2.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3
@@ -29,6 +29,7 @@ creationSoundForce=0
 numSlots=0#timeStretch=1.000000
 slotSize=1.000000
 slotsLocked=0
+slotsNoSwap=0
 numSprites=3
 spriteID=110834
 pos=3.000000,-32.000000
