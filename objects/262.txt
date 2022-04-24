@@ -1,5 +1,5 @@
 id=262
-Bowl of Rabbit and Carrot #+contFoodDish
+Bowl of Rabbit and Carrot
 containable=0
 containSize=1.000000,vertSlotRot=-0.250000
 permanent=0,minPickupAge=3

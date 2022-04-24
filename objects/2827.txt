@@ -1,5 +1,5 @@
 id=2827
-Bowl of Soaking Tomato Seed Pulp #+contFoodDish
+Bowl of Soaking Tomato Seed Pulp
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

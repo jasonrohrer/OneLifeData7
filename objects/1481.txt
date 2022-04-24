@@ -1,5 +1,5 @@
 id=1481
-Bowl of Skim Milk #+contFoodDish
+Bowl of Skim Milk
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

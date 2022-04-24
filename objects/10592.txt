@@ -1,5 +1,5 @@
 id=10592
-Seasoned Pike #+contFoodDish
+Seasoned Pike
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

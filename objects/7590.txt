@@ -1,5 +1,5 @@
 id=7590
-Bowl of Flour #just scooped +contFoodDish
+Bowl of Flour #just scooped
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

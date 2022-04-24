@@ -1,5 +1,5 @@
 id=2865
-Corn Tortilla in Bowl #+contFoodDish
+Corn Tortilla in Bowl
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

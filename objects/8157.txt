@@ -1,5 +1,5 @@
 id=8157
-Stone Wall with Double Shelf and Garland# +noBackAccess +contFoodDish +useOnContained
+Stone Wall with Double Shelf and Garland# +noBackAccess +useOnContained
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

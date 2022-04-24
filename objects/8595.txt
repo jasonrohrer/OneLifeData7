@@ -1,5 +1,5 @@
 id=8595
-Bowl of Flour and Egg #+contFoodDish
+Bowl of Flour and Egg
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

@@ -1,5 +1,5 @@
 id=2773
-Bowl of Sugarcane Chunks #+contFoodDish
+Bowl of Sugarcane Chunks
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

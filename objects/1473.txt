@@ -1,5 +1,5 @@
 id=1473
-Buttered Bread on Clay Plate #+contFoodDish
+Buttered Bread on Clay Plate
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

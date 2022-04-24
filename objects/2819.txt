@@ -1,5 +1,5 @@
 id=2819
-Plate of Cleaned Shrimp #+contFoodDish
+Plate of Cleaned Shrimp
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3
