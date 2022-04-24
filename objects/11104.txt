@@ -1,5 +1,5 @@
-id=6701
-Wooden Table# +useOnContained
+id=11104
+Wooden Table#large +useOnContained
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3
@@ -26,12 +26,11 @@ useDistance=1
 sounds=78:0.250000,496:0.250000,-1:0.0,-1:0.0
 creationSoundInitialOnly=1
 creationSoundForce=0
-numSlots=4#timeStretch=1.000000
+numSlots=3#timeStretch=1.000000
 slotSize=1.000000
 slotsLocked=0
 slotsNoSwap=0
-slotPos=-26.000000,24.000000,vert=0,parent=-1
-slotPos=22.000000,24.000000,vert=0,parent=-1
+slotPos=-2.000000,24.000000,vert=0,parent=-1
 slotPos=-41.000000,16.000000,vert=0,parent=-1
 slotPos=36.000000,16.000000,vert=0,parent=-1
 numSprites=2
