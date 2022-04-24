@@ -1,5 +1,5 @@
 id=10542
-Dry Rub Bowl with Hot Pepper #+contFoodDish
+Dry Rub Bowl with Hot Pepper
 containable=0
 containSize=1.000000,vertSlotRot=-0.250000
 permanent=0,minPickupAge=3

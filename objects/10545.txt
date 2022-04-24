@@ -1,5 +1,5 @@
 id=10545
-Dry Rub Bowl with Ground Pepper #+contFoodDish
+Dry Rub Bowl with Ground Pepper
 containable=0
 containSize=1.000000,vertSlotRot=-0.250000
 permanent=0,minPickupAge=3

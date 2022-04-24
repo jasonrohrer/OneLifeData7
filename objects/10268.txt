@@ -1,5 +1,5 @@
 id=10268
-Glass of Lemonade #+contFoodDish
+Glass of Lemonade
 containable=0
 containSize=1.000000,vertSlotRot=-0.250000
 permanent=0,minPickupAge=3

@@ -1,5 +1,5 @@
 id=11512
-Cooked Mutton with Dry Rub #+contFoodDish
+Cooked Mutton with Dry Rub
 containable=0
 containSize=1.000000,vertSlotRot=-0.250000
 permanent=0,minPickupAge=3

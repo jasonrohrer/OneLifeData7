@@ -1,5 +1,5 @@
 id=8580
-Bottle of Maple Syrup #+contFoodDish
+Bottle of Maple Syrup
 containable=0
 containSize=1.000000,vertSlotRot=0.750000
 permanent=0,minPickupAge=3

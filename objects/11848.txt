@@ -1,5 +1,5 @@
 id=11848
-Bowl of Cocoa Powder #+contFoodDish
+Bowl of Cocoa Powder
 containable=1
 containSize=0.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

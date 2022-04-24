@@ -1,5 +1,5 @@
 id=11511
-Cooked Pork with Dry Rub #+contFoodDish
+Cooked Pork with Dry Rub
 containable=0
 containSize=1.000000,vertSlotRot=-0.250000
 permanent=0,minPickupAge=3
