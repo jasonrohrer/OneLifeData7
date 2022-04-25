@@ -26,9 +26,11 @@ useDistance=1
 sounds=78:0.250000,-1:0.0,-1:0.0,-1:0.0
 creationSoundInitialOnly=1
 creationSoundForce=0
-numSlots=0#timeStretch=1.000000
-slotSize=1.000000
+numSlots=1#timeStretch=1.000000
+slotSize=0.000000
 slotsLocked=0
+slotsNoSwap=0
+slotPos=-1.000000,-11.000000,vert=0,parent=-1
 numSprites=1
 spriteID=100878
 pos=-3.000000,12.000000
@@ -37,7 +39,7 @@ hFlip=0
 color=1.000000,1.000000,1.000000
 ageRange=-1.000000,-1.000000
 parent=-1
-invisHolding=0,invisWorn=0,behindSlots=0
+invisHolding=0,invisWorn=0,behindSlots=1
 invisCont=0
 headIndex=-1
 bodyIndex=-1

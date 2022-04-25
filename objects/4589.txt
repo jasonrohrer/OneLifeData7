@@ -3,6 +3,8 @@ Tent Wall #blue
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3
+noFlip=0
+sideAccess=0
 heldInHand=0
 blocksWalking=1,leftBlockingRadius=0,rightBlockingRadius=0,drawBehindPlayer=0
 mapChance=0.000000#biomes_0
@@ -23,9 +25,12 @@ deadlyDistance=0
 useDistance=1
 sounds=78:0.250000,-1:0.0,-1:0.0,-1:0.0
 creationSoundInitialOnly=1
-numSlots=0#timeStretch=1.000000
-slotSize=1.000000
+creationSoundForce=0
+numSlots=1#timeStretch=1.000000
+slotSize=0.000000
 slotsLocked=0
+slotsNoSwap=0
+slotPos=-1.000000,-11.000000,vert=0,parent=-1
 numSprites=18
 spriteID=444
 pos=0.000000,-50.000000
@@ -34,7 +39,8 @@ hFlip=0
 color=1.000000,1.000000,1.000000
 ageRange=-1.000000,-1.000000
 parent=-1
-invisHolding=0,invisWorn=0,behindSlots=0
+invisHolding=0,invisWorn=0,behindSlots=1
+invisCont=0
 spriteID=61129
 pos=-13.000000,4.000000
 rot=0.000000
@@ -42,7 +48,8 @@ hFlip=0
 color=0.082353,0.403922,0.811765
 ageRange=-1.000000,-1.000000
 parent=-1
-invisHolding=0,invisWorn=0,behindSlots=0
+invisHolding=0,invisWorn=0,behindSlots=1
+invisCont=0
 spriteID=71
 pos=-49.000000,12.000000
 rot=0.000000
@@ -50,7 +57,8 @@ hFlip=0
 color=1.000000,1.000000,1.000000
 ageRange=-1.000000,-1.000000
 parent=-1
-invisHolding=0,invisWorn=0,behindSlots=0
+invisHolding=0,invisWorn=0,behindSlots=1
+invisCont=0
 spriteID=812
 pos=-1.000000,73.000000
 rot=0.000000
@@ -58,7 +66,8 @@ hFlip=0
 color=1.000000,1.000000,1.000000
 ageRange=-1.000000,-1.000000
 parent=-1
-invisHolding=0,invisWorn=0,behindSlots=0
+invisHolding=0,invisWorn=0,behindSlots=1
+invisCont=0
 spriteID=74
 pos=48.000000,16.000000
 rot=0.000000
@@ -66,7 +75,8 @@ hFlip=0
 color=1.000000,1.000000,1.000000
 ageRange=-1.000000,-1.000000
 parent=-1
-invisHolding=0,invisWorn=0,behindSlots=0
+invisHolding=0,invisWorn=0,behindSlots=1
+invisCont=0
 spriteID=72
 pos=-25.000000,12.000000
 rot=0.000000
@@ -74,7 +84,8 @@ hFlip=0
 color=1.000000,1.000000,1.000000
 ageRange=-1.000000,-1.000000
 parent=-1
-invisHolding=0,invisWorn=0,behindSlots=0
+invisHolding=0,invisWorn=0,behindSlots=1
+invisCont=0
 spriteID=73
 pos=24.000000,15.000000
 rot=0.000000
@@ -82,7 +93,8 @@ hFlip=0
 color=1.000000,1.000000,1.000000
 ageRange=-1.000000,-1.000000
 parent=-1
-invisHolding=0,invisWorn=0,behindSlots=0
+invisHolding=0,invisWorn=0,behindSlots=1
+invisCont=0
 spriteID=71
 pos=0.000000,13.000000
 rot=0.000000
@@ -90,7 +102,8 @@ hFlip=0
 color=1.000000,1.000000,1.000000
 ageRange=-1.000000,-1.000000
 parent=-1
-invisHolding=0,invisWorn=0,behindSlots=0
+invisHolding=0,invisWorn=0,behindSlots=1
+invisCont=0
 spriteID=71
 pos=-51.000000,58.000000
 rot=0.000000
@@ -98,7 +111,8 @@ hFlip=0
 color=1.000000,1.000000,1.000000
 ageRange=-1.000000,-1.000000
 parent=-1
-invisHolding=0,invisWorn=0,behindSlots=0
+invisHolding=0,invisWorn=0,behindSlots=1
+invisCont=0
 spriteID=74
 pos=-25.000000,61.000000
 rot=0.000000
@@ -106,7 +120,8 @@ hFlip=0
 color=1.000000,1.000000,1.000000
 ageRange=-1.000000,-1.000000
 parent=-1
-invisHolding=0,invisWorn=0,behindSlots=0
+invisHolding=0,invisWorn=0,behindSlots=1
+invisCont=0
 spriteID=72
 pos=-4.000000,60.000000
 rot=0.000000
@@ -114,7 +129,8 @@ hFlip=0
 color=1.000000,1.000000,1.000000
 ageRange=-1.000000,-1.000000
 parent=-1
-invisHolding=0,invisWorn=0,behindSlots=0
+invisHolding=0,invisWorn=0,behindSlots=1
+invisCont=0
 spriteID=71
 pos=49.000000,63.000000
 rot=0.000000
@@ -122,7 +138,8 @@ hFlip=0
 color=1.000000,1.000000,1.000000
 ageRange=-1.000000,-1.000000
 parent=-1
-invisHolding=0,invisWorn=0,behindSlots=0
+invisHolding=0,invisWorn=0,behindSlots=1
+invisCont=0
 spriteID=74
 pos=14.000000,62.000000
 rot=0.000000
@@ -130,7 +147,8 @@ hFlip=0
 color=1.000000,1.000000,1.000000
 ageRange=-1.000000,-1.000000
 parent=-1
-invisHolding=0,invisWorn=0,behindSlots=0
+invisHolding=0,invisWorn=0,behindSlots=1
+invisCont=0
 spriteID=71
 pos=-48.000000,-49.000000
 rot=0.000000
@@ -138,7 +156,8 @@ hFlip=0
 color=1.000000,1.000000,1.000000
 ageRange=-1.000000,-1.000000
 parent=-1
-invisHolding=0,invisWorn=0,behindSlots=0
+invisHolding=0,invisWorn=0,behindSlots=1
+invisCont=0
 spriteID=74
 pos=-21.000000,-48.000000
 rot=0.000000
@@ -146,7 +165,8 @@ hFlip=0
 color=1.000000,1.000000,1.000000
 ageRange=-1.000000,-1.000000
 parent=-1
-invisHolding=0,invisWorn=0,behindSlots=0
+invisHolding=0,invisWorn=0,behindSlots=1
+invisCont=0
 spriteID=72
 pos=5.000000,-46.000000
 rot=0.000000
@@ -154,7 +174,8 @@ hFlip=0
 color=1.000000,1.000000,1.000000
 ageRange=-1.000000,-1.000000
 parent=-1
-invisHolding=0,invisWorn=0,behindSlots=0
+invisHolding=0,invisWorn=0,behindSlots=1
+invisCont=0
 spriteID=71
 pos=30.000000,-49.000000
 rot=0.000000
@@ -162,7 +183,8 @@ hFlip=0
 color=1.000000,1.000000,1.000000
 ageRange=-1.000000,-1.000000
 parent=-1
-invisHolding=0,invisWorn=0,behindSlots=0
+invisHolding=0,invisWorn=0,behindSlots=1
+invisCont=0
 spriteID=74
 pos=47.000000,-46.000000
 rot=0.000000
@@ -170,7 +192,8 @@ hFlip=0
 color=1.000000,1.000000,1.000000
 ageRange=-1.000000,-1.000000
 parent=-1
-invisHolding=0,invisWorn=0,behindSlots=0
+invisHolding=0,invisWorn=0,behindSlots=1
+invisCont=0
 headIndex=-1
 bodyIndex=-1
 backFootIndex=-1
