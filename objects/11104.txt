@@ -31,8 +31,8 @@ slotSize=1.000000
 slotsLocked=0
 slotsNoSwap=0
 slotPos=-2.000000,24.000000,vert=0,parent=-1
-slotPos=36.000000,16.000000,vert=0,parent=-1
 slotPos=-41.000000,16.000000,vert=0,parent=-1
+slotPos=36.000000,16.000000,vert=0,parent=-1
 numSprites=2
 spriteID=100354
 pos=4.000000,-32.000000
