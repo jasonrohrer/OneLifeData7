@@ -1,5 +1,5 @@
 id=8869
-Straw Wall #useOnContained
+Straw Wall #+useOnContained
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3
