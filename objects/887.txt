@@ -1,8 +1,10 @@
 id=887
-Stone Wall
+Stone Wall #+useOnContained
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3
+noFlip=0
+sideAccess=0
 heldInHand=0
 blocksWalking=1,leftBlockingRadius=0,rightBlockingRadius=0,drawBehindPlayer=0
 mapChance=0.000000#biomes_0
@@ -23,9 +25,12 @@ deadlyDistance=0
 useDistance=1
 sounds=78:0.250000,-1:0.0,-1:0.0,-1:0.0
 creationSoundInitialOnly=1
-numSlots=0#timeStretch=1.000000
-slotSize=1.000000
+creationSoundForce=0
+numSlots=1#timeStretch=1.000000
+slotSize=0.000000
 slotsLocked=0
+slotsNoSwap=0
+slotPos=-1.000000,-11.000000,vert=0,parent=-1
 numSprites=3
 spriteID=366
 pos=-16.000000,-57.000000
@@ -34,7 +39,8 @@ hFlip=0
 color=1.000000,1.000000,1.000000
 ageRange=-1.000000,-1.000000
 parent=-1
-invisHolding=0,invisWorn=0,behindSlots=0
+invisHolding=0,invisWorn=0,behindSlots=1
+invisCont=0
 spriteID=1183
 pos=0.000000,11.000000
 rot=0.000000
@@ -42,7 +48,8 @@ hFlip=0
 color=1.000000,1.000000,1.000000
 ageRange=-1.000000,-1.000000
 parent=-1
-invisHolding=0,invisWorn=0,behindSlots=0
+invisHolding=0,invisWorn=0,behindSlots=1
+invisCont=0
 spriteID=1186
 pos=-4.000000,79.000000
 rot=0.000000
@@ -50,7 +57,8 @@ hFlip=0
 color=1.000000,1.000000,1.000000
 ageRange=-1.000000,-1.000000
 parent=-1
-invisHolding=0,invisWorn=0,behindSlots=0
+invisHolding=0,invisWorn=0,behindSlots=1
+invisCont=0
 headIndex=-1
 bodyIndex=-1
 backFootIndex=-1
