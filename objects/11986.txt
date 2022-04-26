@@ -1,5 +1,5 @@
-id=8867
-Ostrich #poked
+id=11986
+Ostrich #tame
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3
@@ -7,7 +7,7 @@ noFlip=0
 sideAccess=0
 heldInHand=0
 blocksWalking=0,leftBlockingRadius=0,rightBlockingRadius=0,drawBehindPlayer=0
-mapChance=0.000000#biomes_0
+mapChance=0.005000#biomes_2
 heatValue=0
 rValue=0.000000
 person=0,noSpawn=0
@@ -103,8 +103,8 @@ ageRange=-1.000000,-1.000000
 parent=6
 invisHolding=0,invisWorn=0,behindSlots=0
 invisCont=0
-spriteID=101721
-pos=52.000000,97.000000
+spriteID=101714
+pos=50.000000,103.000000
 rot=0.000000
 hFlip=0
 color=1.000000,1.000000,1.000000
@@ -134,7 +134,7 @@ headIndex=-1
 bodyIndex=-1
 backFootIndex=-1
 frontFootIndex=-1
-numUses=1,1.000000
+numUses=3,1.000000
 useVanishIndex=-1
 useAppearIndex=-1
 pixHeight=145
