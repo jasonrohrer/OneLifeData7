@@ -1,6 +1,6 @@
 id=10361
 Rooting Dandelion Cutting
-containable=0
+containable=1
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3
 noFlip=0
@@ -29,6 +29,7 @@ creationSoundForce=0
 numSlots=0#timeStretch=1.000000
 slotSize=1.000000
 slotsLocked=0
+slotsNoSwap=0
 numSprites=2
 spriteID=101807
 pos=-9.000001,-29.999996
