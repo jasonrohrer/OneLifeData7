@@ -1,11 +1,13 @@
 id=530
 Bald Cypress Tree
 containable=0
-containSize=1,vertSlotRot=0.000000
+containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3
+noFlip=0
+sideAccess=0
 heldInHand=0
 blocksWalking=1,leftBlockingRadius=0,rightBlockingRadius=0,drawBehindPlayer=0
-mapChance=2.000000#biomes_1
+mapChance=1.000000#biomes_1
 heatValue=0
 rValue=0.000000
 person=0,noSpawn=0
@@ -23,8 +25,11 @@ deadlyDistance=0
 useDistance=1
 sounds=-1:0.0,-1:0.0,-1:0.0,-1:0.0
 creationSoundInitialOnly=0
+creationSoundForce=0
 numSlots=0#timeStretch=1.000000
-slotSize=1
+slotSize=1.000000
+slotsLocked=0
+slotsNoSwap=0
 numSprites=6
 spriteID=898
 pos=10.000000,435.000000
@@ -34,6 +39,7 @@ color=1.000000,1.000000,1.000000
 ageRange=-1.000000,-1.000000
 parent=-1
 invisHolding=0,invisWorn=0,behindSlots=0
+invisCont=0
 spriteID=899
 pos=-2.000000,399.000000
 rot=0.000000
@@ -42,6 +48,7 @@ color=1.000000,1.000000,1.000000
 ageRange=-1.000000,-1.000000
 parent=0
 invisHolding=0,invisWorn=0,behindSlots=0
+invisCont=0
 spriteID=900
 pos=-8.000000,345.000000
 rot=0.000000
@@ -50,6 +57,7 @@ color=1.000000,1.000000,1.000000
 ageRange=-1.000000,-1.000000
 parent=1
 invisHolding=0,invisWorn=0,behindSlots=0
+invisCont=0
 spriteID=901
 pos=-12.000000,259.000000
 rot=0.000000
@@ -58,6 +66,7 @@ color=1.000000,1.000000,1.000000
 ageRange=-1.000000,-1.000000
 parent=2
 invisHolding=0,invisWorn=0,behindSlots=0
+invisCont=0
 spriteID=902
 pos=-12.000000,141.000000
 rot=0.000000
@@ -66,6 +75,7 @@ color=1.000000,1.000000,1.000000
 ageRange=-1.000000,-1.000000
 parent=3
 invisHolding=0,invisWorn=0,behindSlots=0
+invisCont=0
 spriteID=903
 pos=-2.000000,23.000000
 rot=0.000000
@@ -74,11 +84,12 @@ color=1.000000,1.000000,1.000000
 ageRange=-1.000000,-1.000000
 parent=4
 invisHolding=0,invisWorn=0,behindSlots=0
+invisCont=0
 headIndex=-1
 bodyIndex=-1
 backFootIndex=-1
 frontFootIndex=-1
-numUses=1
+numUses=1,1.000000
 useVanishIndex=-1
 useAppearIndex=-1
 pixHeight=452
