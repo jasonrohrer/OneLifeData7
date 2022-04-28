@@ -1,8 +1,8 @@
 id=10050
 type=2,randStartPhase=0
-forceZeroStart=0
+forceZeroStart=1
 numSounds=1
-soundParam=1955:0.841667 2.000000 0.000000 -1.000000 -1.000000 1
+soundParam=1953:0.125000 2.000000 0.000000 -1.000000 -1.000000 1
 numSprites=21
 numSlots=0
 offset=(0.000000,0.000000)
