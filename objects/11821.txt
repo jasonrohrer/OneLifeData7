@@ -322,7 +322,7 @@ rot=0.000000
 hFlip=0
 color=1.000000,1.000000,1.000000
 ageRange=-1.000000,-1.000000
-parent=25
+parent=27
 invisHolding=0,invisWorn=0,behindSlots=0
 invisCont=0
 spriteID=110735
@@ -331,7 +331,7 @@ rot=0.000000
 hFlip=0
 color=1.000000,1.000000,1.000000
 ageRange=-1.000000,-1.000000
-parent=23
+parent=27
 invisHolding=0,invisWorn=0,behindSlots=0
 invisCont=0
 spriteID=110735
