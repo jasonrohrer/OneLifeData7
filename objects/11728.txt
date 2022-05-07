@@ -27,7 +27,7 @@ sounds=1979:0.133333,496:0.250000,-1:0.0,-1:0.0
 creationSoundInitialOnly=1
 creationSoundForce=0
 numSlots=6#timeStretch=1.000000
-slotSize=1.000000
+slotSize=2.000000
 slotsLocked=0
 slotsNoSwap=0
 slotPos=-245.000000,-21.000000,vert=1,parent=-1
