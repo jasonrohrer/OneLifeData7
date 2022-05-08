@@ -1,7 +1,7 @@
 id=11070
 Crates of Mangoes #3 #Empty
 containable=1
-containSize=2.000000,vertSlotRot=0.000000
+containSize=3.000000,vertSlotRot=-0.250000
 permanent=0,minPickupAge=3
 noFlip=1
 sideAccess=0
