@@ -18,7 +18,7 @@ floor=0
 floorHugging=0
 foodValue=0
 speedMult=1.000000
-heldOffset=0.000000,0.000000
+heldOffset=17.000000,13.000000
 clothing=n
 clothingOffset=0.000000,0.000000
 deadlyDistance=0
@@ -29,6 +29,7 @@ creationSoundForce=0
 numSlots=0#timeStretch=1.000000
 slotSize=1.000000
 slotsLocked=0
+slotsNoSwap=0
 numSprites=1
 spriteID=101872
 pos=3.000000,-30.000000
