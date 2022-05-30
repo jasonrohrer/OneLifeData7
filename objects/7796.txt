@@ -1,5 +1,5 @@
 id=7796
-Wet Diesel Water Pump with Pipe# +tapoutTrigger,1,1,1,1
+Wet Diesel Water Pump with Pipe# +tapoutTrigger,1,1,2,2
 containable=0
 containSize=1.000000,vertSlotRot=-0.195000
 permanent=1,minPickupAge=3
@@ -23,12 +23,13 @@ clothing=n
 clothingOffset=0.000000,0.000000
 deadlyDistance=0
 useDistance=1
-sounds=1522:0.250000,-1:0.0,-1:0.0,-1:0.0
+sounds=-1:0.0,-1:0.0,-1:0.0,-1:0.0
 creationSoundInitialOnly=0
 creationSoundForce=0
 numSlots=0#timeStretch=1.000000
 slotSize=1.000000
 slotsLocked=0
+slotsNoSwap=0
 numSprites=40
 spriteID=2138
 pos=3.000000,58.000000
