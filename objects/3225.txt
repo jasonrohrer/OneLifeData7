@@ -9,7 +9,7 @@ heldInHand=0
 blocksWalking=0,leftBlockingRadius=0,rightBlockingRadius=0,drawBehindPlayer=0
 mapChance=0.000000#biomes_0
 heatValue=0
-rValue=0.500000
+rValue=0.000000
 person=0,noSpawn=0
 male=0
 deathMarker=0
@@ -20,7 +20,7 @@ foodValue=0
 speedMult=1.000000
 heldOffset=12.000000,30.000000
 clothing=h
-clothingOffset=5.000000,38.000000
+clothingOffset=4.000000,44.000000
 deadlyDistance=0
 useDistance=1
 sounds=-1:0.0,-1:0.0,-1:0.0,-1:0.0
