@@ -1,1 +1,2 @@
 0 4750 1 0.000000 0.000000 0 0 7 1 0 0
+After gushing oil rig, invisible object sent left to clear gas vent

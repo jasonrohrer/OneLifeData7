@@ -1,1 +1,2 @@
 0 4747 1 0.000000 0.000000 0 0 7 1 0 0
+Natural tarry spot sends gas vent to left to keep that cell open

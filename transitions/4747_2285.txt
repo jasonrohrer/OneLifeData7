@@ -1,1 +1,2 @@
 0 2285 0 0.000000 0.000000 0 0 0 1 0 0
+If there's no room to left, and gas vent can't move there, it disappears

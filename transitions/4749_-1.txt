@@ -1,1 +1,2 @@
 2307 4750 0 0.000000 0.000000 0 0 0 1 0 0
+How oil rig transforms after sending blocker-remover to left
