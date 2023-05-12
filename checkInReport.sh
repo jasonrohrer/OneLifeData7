@@ -260,19 +260,19 @@ then
   actorID=$(echo "$f" | sed 's/.*\///' | sed 's/_.*//' );
   targetID=$(echo "$f" | sed 's/.*\///' | sed 's/\..*//' | sed 's/[^_]*_//' );
 
-  newActorID=$(cat $f | sed 's/\s.*//' );
-  newTargetID=$(cat $f | sed 's/[^ ]* //' | sed 's/\s.*//' );
-  decayTime=$(cat $f | sed 's/[^ ]* //' | sed 's/[^ ]* //' | sed 's/\s.*//' );
+  newActorID=$(cat $f | head -n 1 | sed 's/\s.*//' );
+  newTargetID=$(cat $f | head -n 1 | sed 's/[^ ]* //' | sed 's/\s.*//' );
+  decayTime=$(cat $f | head -n 1 | sed 's/[^ ]* //' | sed 's/[^ ]* //' | sed 's/\s.*//' );
 
 
-  reverseUseActor=$(cat $f | sed 's/[^ ]* //' | sed 's/[^ ]* //' | sed 's/[^ ]* //' |  sed 's/[^ ]* //' |  sed 's/[^ ]* //' | sed 's/\s.*//' );
+  reverseUseActor=$(cat $f | head -n 1 | sed 's/[^ ]* //' | sed 's/[^ ]* //' | sed 's/[^ ]* //' |  sed 's/[^ ]* //' |  sed 's/[^ ]* //' | sed 's/\s.*//' );
 
-  reverseUseTarget=$(cat $f | sed 's/[^ ]* //' | sed 's/[^ ]* //' | sed 's/[^ ]* //' |  sed 's/[^ ]* //' | sed 's/[^ ]* //' | sed 's/[^ ]* //' | sed 's/\s.*//' );
+  reverseUseTarget=$(cat $f | head -n 1 | sed 's/[^ ]* //' | sed 's/[^ ]* //' | sed 's/[^ ]* //' |  sed 's/[^ ]* //' | sed 's/[^ ]* //' | sed 's/[^ ]* //' | sed 's/\s.*//' );
 
 
-  noUseActor=$(cat $f | sed 's/[^ ]* //' | sed 's/[^ ]* //' | sed 's/[^ ]* //' |  sed 's/[^ ]* //' | sed 's/[^ ]* //' | sed 's/[^ ]* //' |   sed 's/[^ ]* //' |  sed 's/[^ ]* //' |  sed 's/[^ ]* //' |sed 's/\s.*//' );
+  noUseActor=$(cat $f | head -n 1 | sed 's/[^ ]* //' | sed 's/[^ ]* //' | sed 's/[^ ]* //' |  sed 's/[^ ]* //' | sed 's/[^ ]* //' | sed 's/[^ ]* //' |   sed 's/[^ ]* //' |  sed 's/[^ ]* //' |  sed 's/[^ ]* //' |sed 's/\s.*//' );
 
-  noUseTarget=$(cat $f | sed 's/[^ ]* //' | sed 's/[^ ]* //' | sed 's/[^ ]* //' |  sed 's/[^ ]* //' | sed 's/[^ ]* //' | sed 's/[^ ]* //' |   sed 's/[^ ]* //' | sed 's/[^ ]* //' | sed 's/[^ ]* //' | sed 's/[^ ]* //' |sed 's/\s.*//' );
+  noUseTarget=$(cat $f | head -n 1 | sed 's/[^ ]* //' | sed 's/[^ ]* //' | sed 's/[^ ]* //' |  sed 's/[^ ]* //' | sed 's/[^ ]* //' | sed 's/[^ ]* //' |   sed 's/[^ ]* //' | sed 's/[^ ]* //' | sed 's/[^ ]* //' | sed 's/[^ ]* //' |sed 's/\s.*//' );
 
 
   lastUseActor=0
@@ -381,7 +381,17 @@ then
 	  noUseString="$noUseString(No Use Target) "
   fi
 
-  echo "  $lastUseString$actor  +  $target   =   $newActor  +  $newTarget  $decayString  $reverseUseString $noUseString"; 
+  echo "  $lastUseString$actor  +  $target   =   $newActor  +  $newTarget  $decayString  $reverseUseString $noUseString";
+
+  newLineCount=$(wc -l < $f);
+  if [[ $newLineCount -ge 1 ]]
+  then
+	  # comment present
+	  echo -n "    ^[Comment: "
+	  cat $f | tail -n 1
+	  echo "]";
+  fi
+  echo ""
 else 
   echo "$f removed"
 
