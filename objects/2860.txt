@@ -1,5 +1,5 @@
 id=2860
-Chopped Onion on Plate# +contFoodDish
+Chopped Onion on Plate# +contFoodDish +yum2855
 containable=1
 containSize=1.000000,vertSlotRot=-0.250000
 permanent=0,minPickupAge=3
@@ -16,14 +16,14 @@ deathMarker=0
 homeMarker=0
 floor=0
 floorHugging=0
-foodValue=0
+foodValue=5
 speedMult=1.000000
 heldOffset=14.000000,15.000000
 clothing=n
 clothingOffset=0.000000,0.000000
 deadlyDistance=0
 useDistance=1
-sounds=80:0.250000,-1:0.0,-1:0.0,-1:0.0
+sounds=80:0.250000,-1:0.0,143:0.250000,-1:0.0
 creationSoundInitialOnly=0
 creationSoundForce=0
 numSlots=0#timeStretch=1.000000
