@@ -1,5 +1,5 @@
 id=2984
-Shaky Property Gate# +tempOwned +causeAutoOrientH
+Shaky Property Gate# +tempOwned +causeAutoOrientH +tapoutTrigger,1,1,1,0
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3
