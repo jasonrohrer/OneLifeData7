@@ -1,5 +1,5 @@
-id=842
-Ringable Bell Tower# ready to ring +normalOnly
+id=4759
+Tower with Bell Removed
 containable=0
 containSize=1.000000,vertSlotRot=-0.250000
 permanent=1,minPickupAge=3
@@ -23,13 +23,13 @@ clothing=n
 clothingOffset=0.000000,0.000000
 deadlyDistance=0
 useDistance=1
-sounds=-1:0.0,-1:0.0,-1:0.0,-1:0.0
+sounds=407:0.250000,-1:0.0,-1:0.0,-1:0.0
 creationSoundInitialOnly=0
 creationSoundForce=0
 numSlots=0#timeStretch=1.000000
 slotSize=1.000000
 slotsLocked=0
-numSprites=38
+numSprites=37
 spriteID=1121
 pos=-32.000000,-28.000000
 rot=0.000000
@@ -336,26 +336,17 @@ ageRange=-1.000000,-1.000000
 parent=-1
 invisHolding=0,invisWorn=0,behindSlots=0
 invisCont=0
-spriteID=1140
-pos=39.000000,134.000000
-rot=0.000000
-hFlip=0
-color=1.000000,1.000000,1.000000
-ageRange=-1.000000,-1.000000
-parent=-1
-invisHolding=0,invisWorn=0,behindSlots=0
-invisCont=0
 spriteID=1128
-pos=-1.000000,244.000000
-rot=0.000000
+pos=32.000000,-54.000000
+rot=-0.250000
 hFlip=0
 color=1.000000,1.000000,1.000000
 ageRange=-1.000000,-1.000000
 parent=36
 invisHolding=0,invisWorn=0,behindSlots=0
 invisCont=0
-spriteID=1134
-pos=1.000000,266.000000
+spriteID=1091
+pos=16.000000,-61.000000
 rot=0.000000
 hFlip=0
 color=1.000000,1.000000,1.000000
@@ -363,9 +354,9 @@ ageRange=-1.000000,-1.000000
 parent=-1
 invisHolding=0,invisWorn=0,behindSlots=0
 invisCont=0
-spriteID=1129
-pos=0.000000,280.000000
-rot=0.000000
+spriteID=1134
+pos=10.000000,-52.000000
+rot=-0.250000
 hFlip=0
 color=1.000000,1.000000,1.000000
 ageRange=-1.000000,-1.000000
