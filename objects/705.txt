@@ -1,11 +1,13 @@
 id=705
 Penguin#slide
 containable=0
-containSize=1,vertSlotRot=0.000000
+containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3
+noFlip=0
+sideAccess=0
 heldInHand=0
 blocksWalking=0,leftBlockingRadius=0,rightBlockingRadius=0,drawBehindPlayer=0
-mapChance=0.000000#biomes_0
+mapChance=0.000000#biomes_4
 heatValue=0
 rValue=0.000000
 person=0,noSpawn=0
@@ -23,8 +25,10 @@ deadlyDistance=0
 useDistance=1
 sounds=939:0.250000,-1:0.0,-1:0.0,-1:0.0
 creationSoundInitialOnly=0
+creationSoundForce=0
 numSlots=0#timeStretch=1.000000
-slotSize=1
+slotSize=1.000000
+slotsLocked=0
 numSprites=6
 spriteID=71
 pos=-1.000000,-24.000000
@@ -34,6 +38,7 @@ color=1.000000,1.000000,1.000000
 ageRange=-1.000000,-1.000000
 parent=-1
 invisHolding=0,invisWorn=0,behindSlots=0
+invisCont=0
 spriteID=1042
 pos=-21.000000,-18.000000
 rot=0.500000
@@ -42,6 +47,7 @@ color=1.000000,1.000000,1.000000
 ageRange=-1.000000,-1.000000
 parent=3
 invisHolding=0,invisWorn=0,behindSlots=0
+invisCont=0
 spriteID=1043
 pos=-24.000000,-11.000000
 rot=0.500000
@@ -50,6 +56,7 @@ color=1.000000,1.000000,1.000000
 ageRange=-1.000000,-1.000000
 parent=3
 invisHolding=0,invisWorn=0,behindSlots=0
+invisCont=0
 spriteID=1040
 pos=-18.000000,-14.000000
 rot=0.250000
@@ -58,6 +65,7 @@ color=1.000000,1.000000,1.000000
 ageRange=-1.000000,-1.000000
 parent=-1
 invisHolding=0,invisWorn=0,behindSlots=0
+invisCont=0
 spriteID=1041
 pos=12.000000,-10.000000
 rot=0.315000
@@ -66,6 +74,7 @@ color=1.000000,1.000000,1.000000
 ageRange=-1.000000,-1.000000
 parent=3
 invisHolding=0,invisWorn=0,behindSlots=0
+invisCont=0
 spriteID=1044
 pos=22.000000,-15.000000
 rot=0.125000
@@ -74,11 +83,12 @@ color=1.000000,1.000000,1.000000
 ageRange=-1.000000,-1.000000
 parent=3
 invisHolding=0,invisWorn=0,behindSlots=0
+invisCont=0
 headIndex=-1
 bodyIndex=-1
 backFootIndex=-1
 frontFootIndex=-1
-numUses=2
+numUses=2,1.000000
 useVanishIndex=-1
 useAppearIndex=-1
 pixHeight=31

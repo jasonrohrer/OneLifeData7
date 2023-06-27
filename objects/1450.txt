@@ -3,9 +3,11 @@ Domestic Bison with Calf
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3
+noFlip=0
+sideAccess=0
 heldInHand=0
 blocksWalking=0,leftBlockingRadius=0,rightBlockingRadius=0,drawBehindPlayer=0
-mapChance=0.000000#biomes_2
+mapChance=0.000000#biomes_0
 heatValue=0
 rValue=0.000000
 person=0,noSpawn=0
@@ -23,6 +25,7 @@ deadlyDistance=0
 useDistance=1
 sounds=-1:0.0,-1:0.0,-1:0.0,-1:0.0
 creationSoundInitialOnly=0
+creationSoundForce=0
 numSlots=0#timeStretch=1.000000
 slotSize=1.000000
 slotsLocked=0
@@ -35,6 +38,7 @@ color=1.000000,1.000000,1.000000
 ageRange=-1.000000,-1.000000
 parent=-1
 invisHolding=0,invisWorn=0,behindSlots=0
+invisCont=0
 spriteID=71
 pos=-24.000000,-19.000000
 rot=0.000000
@@ -43,6 +47,7 @@ color=1.000000,1.000000,1.000000
 ageRange=-1.000000,-1.000000
 parent=-1
 invisHolding=0,invisWorn=0,behindSlots=0
+invisCont=0
 spriteID=74
 pos=-5.000000,-17.000000
 rot=0.000000
@@ -51,6 +56,7 @@ color=1.000000,1.000000,1.000000
 ageRange=-1.000000,-1.000000
 parent=-1
 invisHolding=0,invisWorn=0,behindSlots=0
+invisCont=0
 spriteID=1610
 pos=-38.000000,28.000000
 rot=0.000000
@@ -59,6 +65,7 @@ color=1.000000,1.000000,1.000000
 ageRange=-1.000000,-1.000000
 parent=9
 invisHolding=0,invisWorn=0,behindSlots=0
+invisCont=0
 spriteID=1605
 pos=35.000000,39.000000
 rot=0.000000
@@ -67,6 +74,7 @@ color=0.422535,0.422535,0.422535
 ageRange=-1.000000,-1.000000
 parent=9
 invisHolding=0,invisWorn=0,behindSlots=0
+invisCont=0
 spriteID=1607
 pos=-71.000000,61.000000
 rot=0.000000
@@ -75,6 +83,7 @@ color=1.000000,1.000000,1.000000
 ageRange=-1.000000,-1.000000
 parent=9
 invisHolding=0,invisWorn=0,behindSlots=0
+invisCont=0
 spriteID=1602
 pos=-42.000000,40.000000
 rot=0.000000
@@ -83,6 +92,7 @@ color=0.267606,0.267606,0.267606
 ageRange=-1.000000,-1.000000
 parent=9
 invisHolding=0,invisWorn=0,behindSlots=0
+invisCont=0
 spriteID=1603
 pos=-56.000000,36.000000
 rot=0.000000
@@ -91,6 +101,7 @@ color=0.647887,0.647887,0.647887
 ageRange=-1.000000,-1.000000
 parent=9
 invisHolding=0,invisWorn=0,behindSlots=0
+invisCont=0
 spriteID=1609
 pos=-34.000000,20.000000
 rot=0.000000
@@ -99,6 +110,7 @@ color=1.000000,1.000000,1.000000
 ageRange=-1.000000,-1.000000
 parent=9
 invisHolding=0,invisWorn=0,behindSlots=0
+invisCont=0
 spriteID=1601
 pos=17.000000,65.000000
 rot=0.000000
@@ -107,6 +119,7 @@ color=1.000000,1.000000,1.000000
 ageRange=-1.000000,-1.000000
 parent=-1
 invisHolding=0,invisWorn=0,behindSlots=0
+invisCont=0
 spriteID=1606
 pos=110.000000,42.000000
 rot=0.000000
@@ -115,6 +128,7 @@ color=1.000000,1.000000,1.000000
 ageRange=-1.000000,-1.000000
 parent=9
 invisHolding=0,invisWorn=0,behindSlots=0
+invisCont=0
 spriteID=1604
 pos=48.000000,33.000000
 rot=0.000000
@@ -123,6 +137,7 @@ color=1.000000,1.000000,1.000000
 ageRange=-1.000000,-1.000000
 parent=9
 invisHolding=0,invisWorn=0,behindSlots=0
+invisCont=0
 spriteID=1608
 pos=98.000000,72.000000
 rot=0.000000
@@ -131,6 +146,7 @@ color=1.000000,1.000000,1.000000
 ageRange=-1.000000,-1.000000
 parent=10
 invisHolding=0,invisWorn=0,behindSlots=0
+invisCont=0
 spriteID=71
 pos=3.000000,-27.000000
 rot=0.000000
@@ -139,6 +155,7 @@ color=1.000000,1.000000,1.000000
 ageRange=-1.000000,-1.000000
 parent=-1
 invisHolding=0,invisWorn=0,behindSlots=0
+invisCont=0
 spriteID=1634
 pos=-10.000000,-6.000000
 rot=0.000000
@@ -147,6 +164,7 @@ color=0.521127,0.521127,0.521127
 ageRange=-1.000000,-1.000000
 parent=19
 invisHolding=0,invisWorn=0,behindSlots=0
+invisCont=0
 spriteID=1632
 pos=17.000000,-6.000000
 rot=0.000000
@@ -155,6 +173,7 @@ color=0.591549,0.591549,0.591549
 ageRange=-1.000000,-1.000000
 parent=19
 invisHolding=0,invisWorn=0,behindSlots=0
+invisCont=0
 spriteID=1633
 pos=-16.000000,-6.000000
 rot=0.000000
@@ -163,6 +182,7 @@ color=1.000000,1.000000,1.000000
 ageRange=-1.000000,-1.000000
 parent=19
 invisHolding=0,invisWorn=0,behindSlots=0
+invisCont=0
 spriteID=1629
 pos=-20.000000,9.000000
 rot=0.000000
@@ -171,6 +191,7 @@ color=1.000000,1.000000,1.000000
 ageRange=-1.000000,-1.000000
 parent=19
 invisHolding=0,invisWorn=0,behindSlots=0
+invisCont=0
 spriteID=1631
 pos=24.000000,-9.000000
 rot=0.000000
@@ -179,6 +200,7 @@ color=1.000000,1.000000,1.000000
 ageRange=-1.000000,-1.000000
 parent=19
 invisHolding=0,invisWorn=0,behindSlots=0
+invisCont=0
 spriteID=1628
 pos=6.000000,1.000000
 rot=0.000000
@@ -187,6 +209,7 @@ color=1.000000,1.000000,1.000000
 ageRange=-1.000000,-1.000000
 parent=-1
 invisHolding=0,invisWorn=0,behindSlots=0
+invisCont=0
 spriteID=1630
 pos=34.000000,1.000000
 rot=0.000000
@@ -195,6 +218,7 @@ color=1.000000,1.000000,1.000000
 ageRange=-1.000000,-1.000000
 parent=19
 invisHolding=0,invisWorn=0,behindSlots=0
+invisCont=0
 headIndex=-1
 bodyIndex=-1
 backFootIndex=-1
