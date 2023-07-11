@@ -38,6 +38,7 @@ color=1.000000,1.000000,1.000000
 ageRange=-1.000000,-1.000000
 parent=-1
 invisHolding=0,invisWorn=0,behindSlots=0
+invisCont=0
 spriteID=2068
 pos=3.000000,434.000000
 rot=0.000000
@@ -46,6 +47,7 @@ color=1.000000,1.000000,1.000000
 ageRange=-1.000000,-1.000000
 parent=0
 invisHolding=0,invisWorn=0,behindSlots=0
+invisCont=0
 spriteID=2069
 pos=7.000000,352.000000
 rot=0.000000
@@ -54,6 +56,7 @@ color=1.000000,1.000000,1.000000
 ageRange=-1.000000,-1.000000
 parent=1
 invisHolding=0,invisWorn=0,behindSlots=0
+invisCont=0
 spriteID=2070
 pos=-1.000000,276.000000
 rot=0.000000
@@ -62,6 +65,7 @@ color=1.000000,1.000000,1.000000
 ageRange=-1.000000,-1.000000
 parent=2
 invisHolding=0,invisWorn=0,behindSlots=0
+invisCont=0
 spriteID=2071
 pos=-2.000000,216.000000
 rot=0.000000
@@ -70,6 +74,7 @@ color=1.000000,1.000000,1.000000
 ageRange=-1.000000,-1.000000
 parent=3
 invisHolding=0,invisWorn=0,behindSlots=0
+invisCont=0
 spriteID=315
 pos=-4.000000,14.000000
 rot=0.000000
@@ -78,6 +83,7 @@ color=1.000000,1.000000,1.000000
 ageRange=-1.000000,-1.000000
 parent=-1
 invisHolding=0,invisWorn=0,behindSlots=0
+invisCont=0
 spriteID=2072
 pos=-2.000000,131.000000
 rot=0.000000
@@ -86,6 +92,7 @@ color=1.000000,1.000000,1.000000
 ageRange=-1.000000,-1.000000
 parent=4
 invisHolding=0,invisWorn=0,behindSlots=0
+invisCont=0
 spriteID=2073
 pos=-2.000000,35.000000
 rot=0.000000
@@ -94,22 +101,25 @@ color=1.000000,1.000000,1.000000
 ageRange=-1.000000,-1.000000
 parent=6
 invisHolding=0,invisWorn=0,behindSlots=0
+invisCont=0
 spriteID=2042
 pos=-3.000000,82.000000
 rot=0.000000
 hFlip=0
-color=1.000000,1.000000,1.000000
+color=0.746479,0.746479,0.746479
 ageRange=-1.000000,-1.000000
 parent=-1
 invisHolding=0,invisWorn=0,behindSlots=0
+invisCont=0
 spriteID=2043
 pos=-5.000000,77.000000
 rot=0.000000
 hFlip=0
-color=1.000000,1.000000,1.000000
+color=0.816901,0.701035,0.069034
 ageRange=-1.000000,-1.000000
 parent=-1
 invisHolding=0,invisWorn=0,behindSlots=0
+invisCont=0
 headIndex=-1
 bodyIndex=-1
 backFootIndex=-1
