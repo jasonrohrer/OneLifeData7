@@ -1,2 +1,0 @@
-659 4752 0 0.000000 0.000000 0 0 0 1 0 0
-Last step, when paver has been stopped 24 times.
