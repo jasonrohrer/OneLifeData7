@@ -1,7 +1,7 @@
-id=4791
-Bowl of Hyposulfite of Soda# +contLabDish
+id=4804
+Bowl of Calcite
 containable=1
-containSize=1.000000,vertSlotRot=0.000000
+containSize=2.000000,vertSlotRot=-0.250000
 permanent=0,minPickupAge=3
 noFlip=0
 sideAccess=0
@@ -39,8 +39,8 @@ ageRange=-1.000000,-1.000000
 parent=2
 invisHolding=0,invisWorn=0,behindSlots=0
 invisCont=0
-spriteID=2101
-pos=1.000000,-24.000000
+spriteID=1027
+pos=0.000000,-25.000000
 rot=0.000000
 hFlip=0
 color=1.000000,1.000000,1.000000
@@ -61,7 +61,7 @@ headIndex=-1
 bodyIndex=-1
 backFootIndex=-1
 frontFootIndex=-1
-numUses=5,1.000000
+numUses=1,1.000000
 useVanishIndex=-1
 useAppearIndex=-1
 pixHeight=0
