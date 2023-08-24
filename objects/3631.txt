@@ -1,8 +1,8 @@
 id=3631
-Ultramarine Pigment Bottle with Funnel
-containable=0
-containSize=1.000000,vertSlotRot=0.000000
-permanent=1,minPickupAge=3
+Ultramarine Pigment Bottle with Funnel# +contLabDish
+containable=1
+containSize=2.000000,vertSlotRot=0.000000
+permanent=0,minPickupAge=3
 noFlip=1
 sideAccess=0
 heldInHand=0
