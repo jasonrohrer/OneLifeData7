@@ -1,5 +1,5 @@
 id=3641
-Raw Sugar Bottle with Funnel# insterted +contFoodDish
+Raw Sugar Bottle with Funnel# inserted +contFoodDish
 containable=1
 containSize=2.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

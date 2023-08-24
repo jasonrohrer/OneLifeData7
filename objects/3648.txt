@@ -1,5 +1,5 @@
 id=3648
-Sulfuric Acid Bottle with Funnel# insterted +contLabDish
+Sulfuric Acid Bottle with Funnel# inserted +contLabDish
 containable=1
 containSize=2.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3
