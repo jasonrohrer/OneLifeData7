@@ -1,9 +1,12 @@
 parentID=969
 pattern
-numObjects=6
+numObjects=9
 956
 951
 955
 1073
 973
 957
+960
+952
+961
