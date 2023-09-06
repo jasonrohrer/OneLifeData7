@@ -1,5 +1,5 @@
 id=2343
-Tank of Kerosene
+Tank of Kerosene# +containOffsetBottomY_-10
 containable=1
 containSize=2.000000,vertSlotRot=-0.250000
 permanent=0,minPickupAge=3
