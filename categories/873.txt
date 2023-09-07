@@ -1,8 +1,6 @@
 parentID=873
-numObjects=10
+numObjects=8
 203
-766
-844
 586
 739
 740
