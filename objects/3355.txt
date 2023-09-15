@@ -1,5 +1,5 @@
 id=3355
-Wine Bottle with Funnel# +contFoodDish
+Wine Bottle with Funnel# +contFoodDish +containOffsetBottomY_1
 containable=1
 containSize=2.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3
