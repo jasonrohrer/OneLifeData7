@@ -1,0 +1,2 @@
+0 4789 0 0.000000 0.000000 0 0 0 1 0 0
+If we get a photo_id back from client, we can write it as metadata.  Camera-on-camera transition used by server to process this event.

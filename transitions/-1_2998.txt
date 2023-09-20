@@ -1,2 +1,2 @@
-0 2997 10 0.000000 0.000000 0 0 0 1 0 0
-If we don't get a photo_id back from client in 10 seconds, empty camera so it's not stuck
+0 4896 10 0.000000 0.000000 0 0 0 1 0 0
+If we don't get a photo_id back from client in 10 seconds, jam camera so it's not stuck taking photo forever
