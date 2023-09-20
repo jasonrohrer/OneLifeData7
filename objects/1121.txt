@@ -1,5 +1,5 @@
 id=1121
-Popcorn
+Bowl of Popcorn
 containable=1
 containSize=2.000000,vertSlotRot=-0.250000
 permanent=0,minPickupAge=3
@@ -23,7 +23,7 @@ clothing=n
 clothingOffset=0.000000,0.000000
 deadlyDistance=0
 useDistance=1
-sounds=-1:0.0,-1:0.0,1121:0.250000,-1:0.0
+sounds=1146:0.250000,1146:0.250000,1121:0.250000,-1:0.0
 creationSoundInitialOnly=0
 creationSoundForce=0
 numSlots=0#timeStretch=1.000000

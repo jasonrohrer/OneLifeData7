@@ -1,5 +1,5 @@
-id=4258
-Garlic Clove# +yum4259
+id=4895
+Popcorn# +yum1121
 containable=1
 containSize=1.000000,vertSlotRot=-0.500000
 permanent=0,minPickupAge=3
@@ -23,14 +23,14 @@ clothing=n
 clothingOffset=-27.000000,72.000000
 deadlyDistance=0
 useDistance=1
-sounds=-1:0.0,-1:0.0,143:0.250000,-1:0.0
+sounds=-1:0.0,-1:0.0,1121:0.250000,-1:0.0
 creationSoundInitialOnly=0
 creationSoundForce=0
 numSlots=0#timeStretch=1.000000
 slotSize=1.000000
 slotsLocked=0
 numSprites=1
-spriteID=3204
+spriteID=1374
 pos=0.000000,-33.000000
 rot=0.000000
 hFlip=0
