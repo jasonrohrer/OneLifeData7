@@ -1,5 +1,5 @@
-id=2284
-Two Ropes
+id=4901
+Two Threads
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3
@@ -18,20 +18,20 @@ floor=0
 floorHugging=0
 foodValue=0
 speedMult=1.000000
-heldOffset=-4.000000,25.000000
+heldOffset=-2.000000,-4.000000
 clothing=n
 clothingOffset=0.000000,0.000000
 deadlyDistance=0
 useDistance=1
 sounds=59:0.250000,-1:0.0,-1:0.0,-1:0.0
-creationSoundInitialOnly=1
+creationSoundInitialOnly=0
 creationSoundForce=0
 numSlots=0#timeStretch=1.000000
 slotSize=1.000000
 slotsLocked=0
 numSprites=2
-spriteID=306
-pos=-6.000000,-20.000000
+spriteID=305
+pos=-1.000000,-27.000000
 rot=0.000000
 hFlip=0
 color=1.000000,1.000000,1.000000
@@ -39,10 +39,10 @@ ageRange=-1.000000,-1.000000
 parent=-1
 invisHolding=0,invisWorn=0,behindSlots=0
 invisCont=0
-spriteID=306
-pos=3.000000,-17.000000
-rot=0.000000
-hFlip=0
+spriteID=305
+pos=4.000000,-45.000000
+rot=0.500000
+hFlip=1
 color=1.000000,1.000000,1.000000
 ageRange=-1.000000,-1.000000
 parent=-1
