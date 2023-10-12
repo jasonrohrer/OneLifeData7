@@ -1,8 +1,8 @@
 id=4300
-Weighted Fresh Pickle Crock
-containable=0
-containSize=1.000000,vertSlotRot=0.000000
-permanent=1,minPickupAge=3
+Weighted Fresh Pickle Crock# +contFoodDish +containOffsetBottomY_-15
+containable=1
+containSize=2.000000,vertSlotRot=0.000000
+permanent=0,minPickupAge=3
 noFlip=1
 sideAccess=0
 heldInHand=0
@@ -17,8 +17,8 @@ homeMarker=0
 floor=0
 floorHugging=0
 foodValue=0
-speedMult=1.000000
-heldOffset=0.000000,0.000000
+speedMult=0.250000
+heldOffset=17.000000,19.000000
 clothing=n
 clothingOffset=-27.000000,72.000000
 deadlyDistance=0
