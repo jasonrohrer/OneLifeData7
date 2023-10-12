@@ -1,9 +1,9 @@
 id=1222
-Shredded Cabbage
+Shredded Cabbage# +containOffsetBottomY_-15
 containable=1
-containSize=2.000000,vertSlotRot=-0.250000
+containSize=2.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3
-noFlip=0
+noFlip=1
 sideAccess=0
 heldInHand=0
 blocksWalking=0,leftBlockingRadius=0,rightBlockingRadius=0,drawBehindPlayer=0
