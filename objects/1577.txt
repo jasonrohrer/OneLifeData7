@@ -3,8 +3,10 @@ South Track End with Cart
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3
+noFlip=0
+sideAccess=0
 heldInHand=0
-blocksWalking=0,leftBlockingRadius=0,rightBlockingRadius=0,drawBehindPlayer=0
+blocksWalking=1,leftBlockingRadius=0,rightBlockingRadius=0,drawBehindPlayer=0
 mapChance=0.000000#biomes_0
 heatValue=0
 rValue=0.000000
@@ -23,6 +25,7 @@ deadlyDistance=0
 useDistance=1
 sounds=-1:0.0,-1:0.0,-1:0.0,-1:0.0
 creationSoundInitialOnly=0
+creationSoundForce=0
 numSlots=8#timeStretch=1.000000
 slotSize=2.000000
 slotsLocked=0
@@ -33,7 +36,7 @@ slotPos=17.000000,58.000000,vert=1,parent=-1
 slotPos=-18.000000,48.000000,vert=1,parent=-1
 slotPos=-6.000000,48.000000,vert=1,parent=-1
 slotPos=8.000000,48.000000,vert=1,parent=-1
-slotPos=17.000000,48.000000,vert=1,parent=
+slotPos=17.000000,48.000000,vert=1,parent=-1
 numSprites=7
 spriteID=1651
 pos=1.000000,2.000000
@@ -43,6 +46,7 @@ color=1.000000,1.000000,1.000000
 ageRange=-1.000000,-1.000000
 parent=-1
 invisHolding=0,invisWorn=0,behindSlots=0
+invisCont=0
 spriteID=1662
 pos=0.000000,58.000000
 rot=0.000000
@@ -51,6 +55,7 @@ color=1.000000,1.000000,1.000000
 ageRange=-1.000000,-1.000000
 parent=6
 invisHolding=0,invisWorn=0,behindSlots=1
+invisCont=0
 spriteID=1664
 pos=-29.000000,-16.000000
 rot=0.000000
@@ -59,6 +64,7 @@ color=1.000000,1.000000,1.000000
 ageRange=-1.000000,-1.000000
 parent=6
 invisHolding=0,invisWorn=0,behindSlots=0
+invisCont=0
 spriteID=1672
 pos=-30.000000,-16.000000
 rot=0.000000
@@ -67,6 +73,7 @@ color=1.000000,1.000000,1.000000
 ageRange=-1.000000,-1.000000
 parent=2
 invisHolding=0,invisWorn=0,behindSlots=0
+invisCont=0
 spriteID=1663
 pos=29.000000,-16.000000
 rot=0.000000
@@ -75,6 +82,7 @@ color=1.000000,1.000000,1.000000
 ageRange=-1.000000,-1.000000
 parent=6
 invisHolding=0,invisWorn=0,behindSlots=0
+invisCont=0
 spriteID=1674
 pos=30.000000,-16.000000
 rot=0.000000
@@ -83,6 +91,7 @@ color=1.000000,1.000000,1.000000
 ageRange=-1.000000,-1.000000
 parent=4
 invisHolding=0,invisWorn=0,behindSlots=0
+invisCont=0
 spriteID=1661
 pos=1.000000,22.000000
 rot=0.000000
@@ -91,6 +100,7 @@ color=1.000000,1.000000,1.000000
 ageRange=-1.000000,-1.000000
 parent=-1
 invisHolding=0,invisWorn=0,behindSlots=0
+invisCont=0
 spritesDrawnBehind=0
 headIndex=-1
 bodyIndex=-1

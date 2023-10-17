@@ -6,7 +6,7 @@ permanent=1,minPickupAge=3
 noFlip=0
 sideAccess=0
 heldInHand=0
-blocksWalking=0,leftBlockingRadius=0,rightBlockingRadius=0,drawBehindPlayer=0
+blocksWalking=1,leftBlockingRadius=0,rightBlockingRadius=0,drawBehindPlayer=0
 mapChance=0.000000#biomes_0
 heatValue=0
 rValue=0.000000
@@ -36,7 +36,7 @@ slotPos=17.000000,58.000000,vert=1,parent=-1
 slotPos=-18.000000,48.000000,vert=1,parent=-1
 slotPos=-6.000000,48.000000,vert=1,parent=-1
 slotPos=8.000000,48.000000,vert=1,parent=-1
-slotPos=17.000000,48.000000,vert=1,parent=
+slotPos=17.000000,48.000000,vert=1,parent=-1
 numSprites=7
 spriteID=1656
 pos=-3.000000,-1.000000
