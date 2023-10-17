@@ -1,5 +1,5 @@
-id=2740
-Wooden Box with Boards
+id=4910
+Wooden Box with Boards and Rope
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3
@@ -24,7 +24,7 @@ clothingOffset=0.000000,0.000000
 deadlyDistance=0
 useDistance=1
 sounds=509:0.250000,496:0.250000,-1:0.0,-1:0.0
-creationSoundInitialOnly=1
+creationSoundInitialOnly=0
 creationSoundForce=0
 numSlots=4#timeStretch=1.000000
 slotSize=2.000000
@@ -33,7 +33,7 @@ slotPos=-27.000000,-1.000000,vert=1,parent=-1
 slotPos=-11.000000,-1.000000,vert=1,parent=-1
 slotPos=5.000000,-1.000000,vert=1,parent=-1
 slotPos=21.000000,-1.000000,vert=1,parent=-1
-numSprites=3
+numSprites=4
 spriteID=791
 pos=-1.000000,-6.000000
 rot=0.000000
@@ -54,6 +54,15 @@ invisHolding=0,invisWorn=0,behindSlots=0
 invisCont=0
 spriteID=789
 pos=2.000000,-30.000000
+rot=0.000000
+hFlip=0
+color=1.000000,1.000000,1.000000
+ageRange=-1.000000,-1.000000
+parent=-1
+invisHolding=0,invisWorn=0,behindSlots=0
+invisCont=0
+spriteID=306
+pos=2.000000,-19.000000
 rot=0.000000
 hFlip=0
 color=1.000000,1.000000,1.000000
