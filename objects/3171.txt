@@ -1,5 +1,5 @@
-id=4913
-Dry Kerosene Newcomen Pump# burner just installed
+id=3171
+Wet Kerosene Newcomen Pump# burner added low
 containable=0
 containSize=1.000000,vertSlotRot=-0.195000
 permanent=1,minPickupAge=3
@@ -23,13 +23,13 @@ clothing=n
 clothingOffset=0.000000,0.000000
 deadlyDistance=0
 useDistance=1
-sounds=1523:0.250000,-1:0.0,-1:0.0,-1:0.0
+sounds=1522:0.250000,-1:0.0,-1:0.0,-1:0.0
 creationSoundInitialOnly=0
 creationSoundForce=0
 numSlots=0#timeStretch=1.000000
 slotSize=1.000000
 slotsLocked=0
-numSprites=34
+numSprites=35
 spriteID=2138
 pos=3.000000,58.000000
 rot=0.000000
@@ -282,6 +282,15 @@ ageRange=-1.000000,-1.000000
 parent=25
 invisHolding=0,invisWorn=0,behindSlots=0
 invisCont=0
+spriteID=411
+pos=0.000000,42.000000
+rot=0.500000
+hFlip=0
+color=1.000000,1.000000,1.000000
+ageRange=-1.000000,-1.000000
+parent=-1
+invisHolding=0,invisWorn=0,behindSlots=0
+invisCont=0
 spriteID=2158
 pos=2.000000,32.000000
 rot=0.000000
@@ -341,6 +350,6 @@ bodyIndex=-1
 backFootIndex=-1
 frontFootIndex=-1
 numUses=5,0.100000
-useVanishIndex=1,30,31,32,33
+useVanishIndex=1,31,32,33,34
 useAppearIndex=-1
 pixHeight=224
