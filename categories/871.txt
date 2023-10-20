@@ -1,12 +1,7 @@
 parentID=871
-numObjects=10
+numObjects=5
 202
 201
 712
-726
 738
 585
-725
-3445
-3444
-3443
