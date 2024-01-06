@@ -147,6 +147,27 @@ done
 
 
 
+echo
+echo "contentSettings changes:"
+
+git diff --staged --stat | while read x; 
+do 
+f=$(echo $x | sed 's/\s.*$//');
+
+if [[ $f == contentSettings/*.ini ]];
+then
+if [ -e $f ]
+then
+  echo "  $f"; 
+else
+  echo "$f removed"
+fi
+fi
+
+done
+
+
+
 
 echo
 echo "Sprite changes:"

@@ -1,10 +1,10 @@
 echo "Committing local content changes..."
 
-git add -A overlays sprites objects categories animations transitions ground music sounds soundsRaw scenes faces tutorialMaps
+git add -A overlays sprites objects categories animations transitions ground music sounds soundsRaw scenes faces tutorialMaps contentSettings
 
 echo ""
 echo "Full diff:"
-git --no-pager diff --staged --stat overlays sprites objects categories animations transitions ground music sounds soundsRaw scenes faces tutorialMaps
+git --no-pager diff --staged --stat overlays sprites objects categories animations transitions ground music sounds soundsRaw scenes faces tutorialMaps contentSettings
 
 echo ""
 bash checkInReport.sh
