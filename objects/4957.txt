@@ -1,5 +1,5 @@
-id=4950
-Original Methman Monument
+id=4957
+Additional Methman Monument
 containable=0
 containSize=1.000000,vertSlotRot=-0.250000
 permanent=1,minPickupAge=3
