@@ -1,5 +1,5 @@
-id=2549
-Bowl of Saltpeter and Sulfur
+id=4990
+Bowl of Sugar and Saltpeter
 containable=1
 containSize=2.000000,vertSlotRot=-0.250000
 permanent=0,minPickupAge=3
@@ -40,21 +40,21 @@ parent=3
 invisHolding=0,invisWorn=0,behindSlots=0
 invisCont=0
 spriteID=1027
-pos=-3.000000,-26.000000
+pos=-2.000000,-25.000000
 rot=0.000000
 hFlip=0
-color=1.000000,1.000000,1.000000
+color=0.845070,0.516497,0.178536
 ageRange=-1.000000,-1.000000
 parent=3
 invisHolding=0,invisWorn=0,behindSlots=0
 invisCont=0
 spriteID=1027
-pos=3.000000,-29.000000
+pos=3.000000,-28.000000
 rot=0.000000
 hFlip=0
-color=0.985352,1.000000,0.267606
+color=1.000000,1.000000,1.000000
 ageRange=-1.000000,-1.000000
-parent=3
+parent=-1
 invisHolding=0,invisWorn=0,behindSlots=0
 invisCont=0
 spriteID=515
