@@ -5,7 +5,7 @@ containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3
 noFlip=1
 sideAccess=0
-heldInHand=2
+heldInHand=0
 blocksWalking=1,leftBlockingRadius=1,rightBlockingRadius=0,drawBehindPlayer=1
 mapChance=0.000000#biomes_0
 heatValue=0
@@ -194,3 +194,4 @@ numUses=1,1.000000
 useVanishIndex=-1
 useAppearIndex=-1
 pixHeight=165
+author=2BE17D1AC5
