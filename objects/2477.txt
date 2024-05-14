@@ -1,5 +1,5 @@
 id=2477
-Endtower Base# +nearPop_50_10000
+Endtower Base# +nearPop_25_15
 containable=0
 containSize=1.000000,vertSlotRot=-0.250000
 permanent=1,minPickupAge=3
@@ -83,3 +83,4 @@ numUses=1,1.000000
 useVanishIndex=-1
 useAppearIndex=-1
 pixHeight=95
+author=2BE17D1AC5
