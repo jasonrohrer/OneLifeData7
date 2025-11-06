@@ -1,7 +1,7 @@
 id=4261
 Bowl of Garlic Cloves# just peeled
-containable=0
-containSize=1.000000,vertSlotRot=0.000000
+containable=1
+containSize=2.000000,vertSlotRot=-0.250000
 permanent=0,minPickupAge=3
 noFlip=0
 sideAccess=0
@@ -101,3 +101,4 @@ numUses=5,1.000000
 useVanishIndex=1,2,3,4,5
 useAppearIndex=-1
 pixHeight=0
+author=2BE17D1AC5
