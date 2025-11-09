@@ -1,5 +1,5 @@
 id=1767
-Dying Schnauser
+Dying Schnauzer
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3
@@ -128,3 +128,4 @@ numUses=6,1.000000
 useVanishIndex=-1
 useAppearIndex=-1
 pixHeight=30
+author=2BE17D1AC5

@@ -1,5 +1,5 @@
 id=1707
-Schnauser with Puppy#1
+Schnauzer with Puppy#1
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

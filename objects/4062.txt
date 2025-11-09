@@ -1,5 +1,5 @@
 id=4062
-Pile of Straight Branchs
+Pile of Straight Branches
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3
@@ -92,3 +92,4 @@ numUses=5,1.000000
 useVanishIndex=1,2,3,4,5
 useAppearIndex=-1
 pixHeight=60
+author=2BE17D1AC5
