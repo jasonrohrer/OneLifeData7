@@ -1,7 +1,5 @@
 parentID=871
-numObjects=5
+numObjects=3
 202
 201
 712
-738
-585
