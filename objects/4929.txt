@@ -1,5 +1,5 @@
 id=4929
-Drumstick on Plate# +contFoodDish
+Drumstick on Plate# +contFoodDish +yum2191
 containable=1
 containSize=1.000000,vertSlotRot=-0.250000
 permanent=0,minPickupAge=3
@@ -56,3 +56,4 @@ numUses=1,1.000000
 useVanishIndex=-1
 useAppearIndex=-1
 pixHeight=0
+author=2BE17D1AC5
