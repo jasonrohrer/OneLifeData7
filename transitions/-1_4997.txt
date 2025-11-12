@@ -1,0 +1,3 @@
+0 0 10 0.000000 0.000000 0 0 0 1 0 0
+Clear any that don't have statues built there by server
+author=2BE17D1AC5
