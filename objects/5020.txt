@@ -1,5 +1,5 @@
-id=547
-Bowl of Carrot# domestic
+id=5020
+Bowl of Carrot# wild
 containable=1
 containSize=2.000000,vertSlotRot=-0.250000
 permanent=0,minPickupAge=3
@@ -39,8 +39,8 @@ ageRange=-1.000000,-1.000000
 parent=2
 invisHolding=0,invisWorn=0,behindSlots=0
 invisCont=0
-spriteID=3421
-pos=0.000000,-11.000000
+spriteID=542
+pos=1.000000,-7.000000
 rot=-0.500000
 hFlip=0
 color=1.000000,1.000000,1.000000
@@ -64,5 +64,5 @@ frontFootIndex=-1
 numUses=1,1.000000
 useVanishIndex=-1
 useAppearIndex=-1
-pixHeight=19
+pixHeight=20
 author=2BE17D1AC5
